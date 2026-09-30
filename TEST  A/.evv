@@ -1,0 +1,16 @@
+export YOUTUBE_API_KEY="AIzaSyCtwsViTlqCZtb47jG3b6pkGUYo6rXoDpQ"
+npm install
+export YOUTUBE_API_KEY="AIzaSyCtwsViTlqCZtb47jG3b6pkGUYo6rXoDpQ"                          
+export MAX_COMMENT_PAGES="2"
+npm run collect
+
+
+
+cd "/Users/yateekagoyal/Desktop/QOE/phase2-pipeline"
+
+npm install
+
+export YOUTUBE_API_KEY="AIzaSyCtwsViTlqCZtb47jG3b6pkGUYo6rXoDpQ"
+export MAX_COMMENT_PAGES="2"
+
+npm run collect

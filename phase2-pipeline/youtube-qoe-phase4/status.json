@@ -1,0 +1,18 @@
+{
+  "status": "awaiting_measurements",
+  "featureRows": 2400,
+  "candidateSegments": 96,
+  "plannedMeasurementRows": 576,
+  "availableOutcomes": [
+    "vmafDelta",
+    "ssimDelta",
+    "psnrDelta",
+    "rebufferDurationSeconds"
+  ],
+  "measurementTemplate": "measurements.csv",
+  "notes": [
+    "No source media files or FFmpeg executable were found in the workspace.",
+    "Populate the outcome columns from controlled impairment runs; no synthetic measurements or QoE targets are generated.",
+    "Define and document the computationalQoeScore recipe before training. It is a proxy and must not be described as subjective ground truth."
+  ]
+}

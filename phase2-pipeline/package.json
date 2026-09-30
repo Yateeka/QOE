@@ -1,0 +1,22 @@
+{
+    "name": "youtube-qoe-phase2-pipeline",
+    "version": "2.0.0",
+    "private": true,
+    "type": "module",
+    "scripts": {
+        "collect": "tsx index.ts",
+        "preprocess": "node --experimental-strip-types phase3.ts",
+        "phase4:prepare": "node --experimental-strip-types phase4.ts prepare",
+        "phase4:train": "node --experimental-strip-types phase4.ts train",
+        "validate:labels": "node --experimental-strip-types validate-labels.ts",
+        "check": "tsc --noEmit"
+    },
+    "dependencies": {
+        "@reckerp/yt-most-replayed": "^1.1.0"
+    },
+    "devDependencies": {
+        "@types/node": "^22.0.0",
+        "tsx": "^4.0.0",
+        "typescript": "^5.9.3"
+    }
+}

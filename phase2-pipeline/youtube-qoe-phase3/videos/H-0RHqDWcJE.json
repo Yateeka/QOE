@@ -1,0 +1,5994 @@
+{
+  "videoId": "H-0RHqDWcJE",
+  "category": "Entertainment",
+  "title": "Neo - 'The One' | The Matrix [Open Matte]",
+  "durationSeconds": 239,
+  "viewCount": 34010787,
+  "videoCommentCount": 10041,
+  "sourceTimestampedCommentCount": 201,
+  "retainedTimestampedCommentCount": 201,
+  "cleaning": {
+    "exactDuplicatesRemoved": 0,
+    "likelySpamRemoved": 0,
+    "withoutValidTimestampRemoved": 0,
+    "invalidOrOutOfDurationTimestampReferences": 0
+  },
+  "reliabilityWeight": 159.80014194059623,
+  "comments": [
+    {
+      "cleanedText": "2:48 When you memorize an enemy's parry timing on your 33rd attempt:",
+      "likeCount": 1128,
+      "timestamps": [
+        {
+          "timestampText": "2:48",
+          "seconds": 168,
+          "relativePosition": 0.702928870292887
+        }
+      ],
+      "functionLabel": "other",
+      "sentimentScore": 0
+    },
+    {
+      "cleanedText": "The agonising beauty of the phone ringing out of reach at 0:12 - so near yet so far",
+      "likeCount": 276,
+      "timestamps": [
+        {
+          "timestampText": "0:12",
+          "seconds": 12,
+          "relativePosition": 0.0502092050209205
+        }
+      ],
+      "functionLabel": "navigation_indexing",
+      "sentimentScore": 0
+    },
+    {
+      "cleanedText": "“So what are you saying? I can dodge bullets?” “No. What I’m saying is, when you’re ready... you won’t have to.” 2:09",
+      "likeCount": 1560,
+      "timestamps": [
+        {
+          "timestampText": "2:09",
+          "seconds": 129,
+          "relativePosition": 0.5397489539748954
+        }
+      ],
+      "functionLabel": "other",
+      "sentimentScore": 0
+    },
+    {
+      "cleanedText": "2:55 that one-arm thing is one of the biggest humbles a person can suffer",
+      "likeCount": 6,
+      "timestamps": [
+        {
+          "timestampText": "2:55",
+          "seconds": 175,
+          "relativePosition": 0.7322175732217573
+        }
+      ],
+      "functionLabel": "other",
+      "sentimentScore": 0
+    },
+    {
+      "cleanedText": "2:38 Imagine reaching a stage of enlightenment that you literally see the mechanics of our universe.",
+      "likeCount": 3420,
+      "timestamps": [
+        {
+          "timestampText": "2:38",
+          "seconds": 158,
+          "relativePosition": 0.6610878661087866
+        }
+      ],
+      "functionLabel": "other",
+      "sentimentScore": 0
+    },
+    {
+      "cleanedText": "Oracle and Architect at 1:14 , watching their clock, spit it out woman!!!! 🤣",
+      "likeCount": 54,
+      "timestamps": [
+        {
+          "timestampText": "1:14",
+          "seconds": 74,
+          "relativePosition": 0.30962343096234307
+        }
+      ],
+      "functionLabel": "navigation_indexing",
+      "sentimentScore": 0
+    },
+    {
+      "cleanedText": "2:01 _\"Hello, boys -- I'm BAAACK!\"_ -- Russell Casse, \"Independence Day\"",
+      "likeCount": 54,
+      "timestamps": [
+        {
+          "timestampText": "2:01",
+          "seconds": 121,
+          "relativePosition": 0.5062761506276151
+        }
+      ],
+      "functionLabel": "other",
+      "sentimentScore": 0
+    },
+    {
+      "cleanedText": "2:55 when you fight the final boss in a game for the 100th time...",
+      "likeCount": 3279,
+      "timestamps": [
+        {
+          "timestampText": "2:55",
+          "seconds": 175,
+          "relativePosition": 0.7322175732217573
+        }
+      ],
+      "functionLabel": "other",
+      "sentimentScore": 0
+    },
+    {
+      "cleanedText": "3:55 best example of machine learning ever......",
+      "likeCount": 568,
+      "timestamps": [
+        {
+          "timestampText": "3:55",
+          "seconds": 235,
+          "relativePosition": 0.9832635983263598
+        }
+      ],
+      "functionLabel": "other",
+      "sentimentScore": 1
+    },
+    {
+      "cleanedText": "2:51 when you learn all your Mum’s beating combos",
+      "likeCount": 2026,
+      "timestamps": [
+        {
+          "timestampText": "2:51",
+          "seconds": 171,
+          "relativePosition": 0.7154811715481172
+        }
+      ],
+      "functionLabel": "instructional_reference",
+      "sentimentScore": 0
+    },
+    {
+      "cleanedText": "3:07 I love how Neo deliberately moves his leg like that, almost like he's thinking, \"I guess I'll put my leg down now, but I really don't have to, it's whatever.\"",
+      "likeCount": 446,
+      "timestamps": [
+        {
+          "timestampText": "3:07",
+          "seconds": 187,
+          "relativePosition": 0.7824267782426778
+        }
+      ],
+      "functionLabel": "other",
+      "sentimentScore": 1
+    },
+    {
+      "cleanedText": "3:56 other agents....screw this I'm outta here!!!",
+      "likeCount": 153,
+      "timestamps": [
+        {
+          "timestampText": "3:56",
+          "seconds": 236,
+          "relativePosition": 0.9874476987447699
+        }
+      ],
+      "functionLabel": "other",
+      "sentimentScore": 0
+    },
+    {
+      "cleanedText": "3:27 My brain when aware that there is/might be bugs, mosquitoes in the room.",
+      "likeCount": 12,
+      "timestamps": [
+        {
+          "timestampText": "3:27",
+          "seconds": 207,
+          "relativePosition": 0.8661087866108786
+        }
+      ],
+      "functionLabel": "other",
+      "sentimentScore": 0
+    },
+    {
+      "cleanedText": "2:51 when you turn 18 and your parents try to beat you",
+      "likeCount": 564,
+      "timestamps": [
+        {
+          "timestampText": "2:51",
+          "seconds": 171,
+          "relativePosition": 0.7154811715481172
+        }
+      ],
+      "functionLabel": "other",
+      "sentimentScore": 0
+    },
+    {
+      "cleanedText": "2:40 What 12 year olds see after inspecting element on Chrome",
+      "likeCount": 1643,
+      "timestamps": [
+        {
+          "timestampText": "2:40",
+          "seconds": 160,
+          "relativePosition": 0.6694560669456067
+        }
+      ],
+      "functionLabel": "other",
+      "sentimentScore": 0
+    },
+    {
+      "cleanedText": "2:05 Most calm, yet most powerful \"no\" in movie history.",
+      "likeCount": 219,
+      "timestamps": [
+        {
+          "timestampText": "2:05",
+          "seconds": 125,
+          "relativePosition": 0.5230125523012552
+        }
+      ],
+      "functionLabel": "other",
+      "sentimentScore": 1
+    },
+    {
+      "cleanedText": "3:14 Love the fear on Smiths face. He knows it's over for him, but he stands his ground",
+      "likeCount": 31,
+      "timestamps": [
+        {
+          "timestampText": "3:14",
+          "seconds": 194,
+          "relativePosition": 0.8117154811715481
+        }
+      ],
+      "functionLabel": "other",
+      "sentimentScore": 1
+    },
+    {
+      "cleanedText": "2:20 I love how the agents' movements were synchronized even as they lowered their weapons.",
+      "likeCount": 932,
+      "timestamps": [
+        {
+          "timestampText": "2:20",
+          "seconds": 140,
+          "relativePosition": 0.5857740585774058
+        }
+      ],
+      "functionLabel": "other",
+      "sentimentScore": 1
+    },
+    {
+      "cleanedText": "2:51 when you come back to an previous level with a maxed out character",
+      "likeCount": 299,
+      "timestamps": [
+        {
+          "timestampText": "2:51",
+          "seconds": 171,
+          "relativePosition": 0.7154811715481172
+        }
+      ],
+      "functionLabel": "other",
+      "sentimentScore": 0
+    },
+    {
+      "cleanedText": "3:55 my guys were like \"We don't get paid enough for this\"",
+      "likeCount": 313,
+      "timestamps": [
+        {
+          "timestampText": "3:55",
+          "seconds": 235,
+          "relativePosition": 0.9832635983263598
+        }
+      ],
+      "functionLabel": "other",
+      "sentimentScore": 0
+    },
+    {
+      "cleanedText": "3:46. When you're flexin' on em so hard that the time-space continuum bends.",
+      "likeCount": 1358,
+      "timestamps": [
+        {
+          "timestampText": "3:46",
+          "seconds": 226,
+          "relativePosition": 0.9456066945606695
+        }
+      ],
+      "functionLabel": "other",
+      "sentimentScore": 0
+    },
+    {
+      "cleanedText": "2:56 Neo looks bored 😂",
+      "likeCount": 67,
+      "timestamps": [
+        {
+          "timestampText": "2:56",
+          "seconds": 176,
+          "relativePosition": 0.7364016736401674
+        }
+      ],
+      "functionLabel": "other",
+      "sentimentScore": 0
+    },
+    {
+      "cleanedText": "3:01 The brief, yet amazingly effective motif of Richard Strauss' \"Also Sprach Zarathustra\" in the score just wraps it all together for me. Neo evolved into Nietzsche's Übermensch upon his awakening and that musical quote shows his own realization as such.",
+      "likeCount": 1,
+      "timestamps": [
+        {
+          "timestampText": "3:01",
+          "seconds": 181,
+          "relativePosition": 0.7573221757322176
+        }
+      ],
+      "functionLabel": "other",
+      "sentimentScore": 0
+    },
+    {
+      "cleanedText": "That flex at 3:46 where the area warps around him is so goddamn cool, and a neat callback to the spoon scene early on. This movie is still amazing, even 26 years later.",
+      "likeCount": 395,
+      "timestamps": [
+        {
+          "timestampText": "3:46",
+          "seconds": 226,
+          "relativePosition": 0.9456066945606695
+        }
+      ],
+      "functionLabel": "navigation_indexing",
+      "sentimentScore": 1
+    },
+    {
+      "cleanedText": "2:48 when you finally understand the school subject and can answer the teachers questions",
+      "likeCount": 180,
+      "timestamps": [
+        {
+          "timestampText": "2:48",
+          "seconds": 168,
+          "relativePosition": 0.702928870292887
+        }
+      ],
+      "functionLabel": "other",
+      "sentimentScore": 0
+    },
+    {
+      "cleanedText": "3:21 i remember seeing this part n laughing with my uncle when the backup agents were wow this isnt apart of our programming lmao 😂😂😂😂",
+      "likeCount": 2,
+      "timestamps": [
+        {
+          "timestampText": "3:21",
+          "seconds": 201,
+          "relativePosition": 0.8410041841004184
+        }
+      ],
+      "functionLabel": "humor",
+      "sentimentScore": 1
+    },
+    {
+      "cleanedText": "2:57 So good, they didn't overdo it, he only made two moves in super-speed and that was enough",
+      "likeCount": 146,
+      "timestamps": [
+        {
+          "timestampText": "2:57",
+          "seconds": 177,
+          "relativePosition": 0.7405857740585774
+        }
+      ],
+      "functionLabel": "other",
+      "sentimentScore": 1
+    },
+    {
+      "cleanedText": "@3:46 nga made the hallway aura farm with him damn 🔥",
+      "likeCount": 2,
+      "timestamps": [
+        {
+          "timestampText": "3:46",
+          "seconds": 226,
+          "relativePosition": 0.9456066945606695
+        }
+      ],
+      "functionLabel": "other",
+      "sentimentScore": 0
+    },
+    {
+      "cleanedText": "3:40 chunk of Smith face flying at the camera",
+      "likeCount": 48,
+      "timestamps": [
+        {
+          "timestampText": "3:40",
+          "seconds": 220,
+          "relativePosition": 0.9205020920502092
+        }
+      ],
+      "functionLabel": "other",
+      "sentimentScore": 0
+    },
+    {
+      "cleanedText": "2:51-3:11 I never get sick of watching this. Just the way he effortlessly counters an agent who utterly dominated Morpheus and then stuns him by sending him back.",
+      "likeCount": 773,
+      "timestamps": [
+        {
+          "timestampText": "2:51",
+          "seconds": 171,
+          "relativePosition": 0.7154811715481172
+        },
+        {
+          "timestampText": "3:11",
+          "seconds": 191,
+          "relativePosition": 0.799163179916318
+        }
+      ],
+      "functionLabel": "other",
+      "sentimentScore": 0
+    },
+    {
+      "cleanedText": "I love how at 2:33, even Morpheus is almost himself surprised to realize that he was right about Neo.",
+      "likeCount": 631,
+      "timestamps": [
+        {
+          "timestampText": "2:33",
+          "seconds": 153,
+          "relativePosition": 0.6401673640167364
+        }
+      ],
+      "functionLabel": "navigation_indexing",
+      "sentimentScore": 1
+    },
+    {
+      "cleanedText": "I was there, in a sparsely occupied theater, April 1st 1999. That moment 2:34 when the film reveals what we already knew, but in no uncertain terms. It was Big. It was very, very big.",
+      "likeCount": 559,
+      "timestamps": [
+        {
+          "timestampText": "2:34",
+          "seconds": 154,
+          "relativePosition": 0.6443514644351465
+        }
+      ],
+      "functionLabel": "other",
+      "sentimentScore": 0
+    },
+    {
+      "cleanedText": "-\"We need to revive him!! Quick!\" -But sir, we have no defibrillator Trinity: -\"Don't worry, i got this\" 1:35 THAT'S THE POWER OF LOOOVE Huey lewis intensifies",
+      "likeCount": 108,
+      "timestamps": [
+        {
+          "timestampText": "1:35",
+          "seconds": 95,
+          "relativePosition": 0.39748953974895396
+        }
+      ],
+      "functionLabel": "other",
+      "sentimentScore": 0
+    },
+    {
+      "cleanedText": "2:59 I love how this riff sounds like Zarathrusta/2001 A Space Odyssey. It’s a victory of humanity over oppression, and thus a new enlightenment.",
+      "likeCount": 1,
+      "timestamps": [
+        {
+          "timestampText": "2:59",
+          "seconds": 179,
+          "relativePosition": 0.7489539748953975
+        }
+      ],
+      "functionLabel": "other",
+      "sentimentScore": 1
+    },
+    {
+      "cleanedText": "You know I just noticed that at 3:06, you can see one of the agents holding the other back, as if they already know Smith is dead and getting involved at this point would just result in theirs.",
+      "likeCount": 377,
+      "timestamps": [
+        {
+          "timestampText": "3:06",
+          "seconds": 186,
+          "relativePosition": 0.7782426778242678
+        }
+      ],
+      "functionLabel": "navigation_indexing",
+      "sentimentScore": 0
+    },
+    {
+      "cleanedText": "From the subway fight scene where Smith said, \"I'm going to enjoy watching you die, Mr. Anderson\" to here at 1:09, \"Goodbye, Mr. Anderson\", it was almost like a grudging respect that Smith had developed for Neo being a surprisingly worthy opponent.",
+      "likeCount": 205,
+      "timestamps": [
+        {
+          "timestampText": "1:09",
+          "seconds": 69,
+          "relativePosition": 0.28870292887029286
+        }
+      ],
+      "functionLabel": "navigation_indexing",
+      "sentimentScore": 0
+    },
+    {
+      "cleanedText": "3:49 Morpheous: Do you think that’s air that you’re breathing?",
+      "likeCount": 60,
+      "timestamps": [
+        {
+          "timestampText": "3:49",
+          "seconds": 229,
+          "relativePosition": 0.9581589958158996
+        }
+      ],
+      "functionLabel": "other",
+      "sentimentScore": 0
+    },
+    {
+      "cleanedText": "2:48 When your younger siblings try and fight you 😂",
+      "likeCount": 214,
+      "timestamps": [
+        {
+          "timestampText": "2:48",
+          "seconds": 168,
+          "relativePosition": 0.702928870292887
+        }
+      ],
+      "functionLabel": "other",
+      "sentimentScore": 0
+    },
+    {
+      "cleanedText": "0:45 bro is like “I just cost this fool his life”",
+      "likeCount": 41,
+      "timestamps": [
+        {
+          "timestampText": "0:45",
+          "seconds": 45,
+          "relativePosition": 0.18828451882845187
+        }
+      ],
+      "functionLabel": "other",
+      "sentimentScore": 0
+    },
+    {
+      "cleanedText": "0:22 - Lvl 1 Crook 1:07 - Lvl 35 Villain 2:51 - Lvl 100 Boss",
+      "likeCount": 427,
+      "timestamps": [
+        {
+          "timestampText": "0:22",
+          "seconds": 22,
+          "relativePosition": 0.09205020920502092
+        },
+        {
+          "timestampText": "1:07",
+          "seconds": 67,
+          "relativePosition": 0.2803347280334728
+        },
+        {
+          "timestampText": "2:51",
+          "seconds": 171,
+          "relativePosition": 0.7154811715481172
+        }
+      ],
+      "functionLabel": "other",
+      "sentimentScore": 0
+    },
+    {
+      "cleanedText": "Teacher: I need someone big and strong to help carry this table. 3rd grade boys: 3:46",
+      "likeCount": 213,
+      "timestamps": [
+        {
+          "timestampText": "3:46",
+          "seconds": 226,
+          "relativePosition": 0.9456066945606695
+        }
+      ],
+      "functionLabel": "other",
+      "sentimentScore": 0
+    },
+    {
+      "cleanedText": "1:49 That kiss from Trinity gave him the boost of dopamine levels he needed.",
+      "likeCount": 14,
+      "timestamps": [
+        {
+          "timestampText": "1:49",
+          "seconds": 109,
+          "relativePosition": 0.4560669456066946
+        }
+      ],
+      "functionLabel": "other",
+      "sentimentScore": 0
+    },
+    {
+      "cleanedText": "2:20 - the little touch of the agents putting their guns down simultaneously is such a great detail, ngl - really adds up to their \"machine\" way of beeing",
+      "likeCount": 66,
+      "timestamps": [
+        {
+          "timestampText": "2:20",
+          "seconds": 140,
+          "relativePosition": 0.5857740585774058
+        }
+      ],
+      "functionLabel": "excitement_appreciation",
+      "sentimentScore": 1
+    },
+    {
+      "cleanedText": "3:54 \"We don't get paid enough for this\" 🤣🤣🤣",
+      "likeCount": 17,
+      "timestamps": [
+        {
+          "timestampText": "3:54",
+          "seconds": 234,
+          "relativePosition": 0.9790794979079498
+        }
+      ],
+      "functionLabel": "other",
+      "sentimentScore": 0
+    },
+    {
+      "cleanedText": "Neo Ultra Instinct starts at 02:00",
+      "likeCount": 400,
+      "timestamps": [
+        {
+          "timestampText": "02:00",
+          "seconds": 120,
+          "relativePosition": 0.502092050209205
+        }
+      ],
+      "functionLabel": "navigation_indexing",
+      "sentimentScore": 0
+    },
+    {
+      "cleanedText": "3:54 : Neo: “Who’s next?” Other agents: “not me!, me neither!”....",
+      "likeCount": 55,
+      "timestamps": [
+        {
+          "timestampText": "3:54",
+          "seconds": 234,
+          "relativePosition": 0.9790794979079498
+        }
+      ],
+      "functionLabel": "other",
+      "sentimentScore": 0
+    },
+    {
+      "cleanedText": "2:54 He's just flexing there.",
+      "likeCount": 19,
+      "timestamps": [
+        {
+          "timestampText": "2:54",
+          "seconds": 174,
+          "relativePosition": 0.7280334728033473
+        }
+      ],
+      "functionLabel": "other",
+      "sentimentScore": 0
+    },
+    {
+      "cleanedText": "1:52 I feel like the opening theme was created for this sole purpose. This beautiful part.",
+      "likeCount": 47,
+      "timestamps": [
+        {
+          "timestampText": "1:52",
+          "seconds": 112,
+          "relativePosition": 0.4686192468619247
+        }
+      ],
+      "functionLabel": "excitement_appreciation",
+      "sentimentScore": 1
+    },
+    {
+      "cleanedText": "Little did Neo know, that his actions at 3:19 would create the bromantic rivalry of The One vs The Many that would carry on for two more movies...",
+      "likeCount": 19,
+      "timestamps": [
+        {
+          "timestampText": "3:19",
+          "seconds": 199,
+          "relativePosition": 0.8326359832635983
+        }
+      ],
+      "functionLabel": "navigation_indexing",
+      "sentimentScore": 0
+    },
+    {
+      "cleanedText": "3:22 MK2 Shang Tsung Fatality",
+      "likeCount": 4,
+      "timestamps": [
+        {
+          "timestampText": "3:22",
+          "seconds": 202,
+          "relativePosition": 0.8451882845188284
+        }
+      ],
+      "functionLabel": "other",
+      "sentimentScore": 0
+    },
+    {
+      "cleanedText": "3:45 when you flex so hard, the world around you flexes too",
+      "likeCount": 29,
+      "timestamps": [
+        {
+          "timestampText": "3:45",
+          "seconds": 225,
+          "relativePosition": 0.9414225941422594
+        }
+      ],
+      "functionLabel": "other",
+      "sentimentScore": 0
+    },
+    {
+      "cleanedText": "2:55 when you're a lvl. 100 player that gets restarted back to level 1 and you have to fight the first level enemies",
+      "likeCount": 25,
+      "timestamps": [
+        {
+          "timestampText": "2:55",
+          "seconds": 175,
+          "relativePosition": 0.7322175732217573
+        }
+      ],
+      "functionLabel": "other",
+      "sentimentScore": 0
+    },
+    {
+      "cleanedText": "Morpheus' reaction at 1:59 is so funny!",
+      "likeCount": 41,
+      "timestamps": [
+        {
+          "timestampText": "1:59",
+          "seconds": 119,
+          "relativePosition": 0.497907949790795
+        }
+      ],
+      "functionLabel": "navigation_indexing",
+      "sentimentScore": 1
+    },
+    {
+      "cleanedText": "3:12 is my favorite part.",
+      "likeCount": 15,
+      "timestamps": [
+        {
+          "timestampText": "3:12",
+          "seconds": 192,
+          "relativePosition": 0.803347280334728
+        }
+      ],
+      "functionLabel": "navigation_indexing",
+      "sentimentScore": 1
+    },
+    {
+      "cleanedText": "2:12 CHAOS CONTROL",
+      "likeCount": 59,
+      "timestamps": [
+        {
+          "timestampText": "2:12",
+          "seconds": 132,
+          "relativePosition": 0.5523012552301255
+        }
+      ],
+      "functionLabel": "other",
+      "sentimentScore": 0
+    },
+    {
+      "cleanedText": "3:54 Neo: \"i own this place now.\" The agents: \"we need a new plan.\"",
+      "likeCount": 14,
+      "timestamps": [
+        {
+          "timestampText": "3:54",
+          "seconds": 234,
+          "relativePosition": 0.9790794979079498
+        }
+      ],
+      "functionLabel": "other",
+      "sentimentScore": 0
+    },
+    {
+      "cleanedText": "2:17 - onwards: Neo checking his youtube notifications, they're all negative. He ignores them by marking the rest as read. Then he proceeds to go directly into his channel's settings to disable comments for good.",
+      "likeCount": 25,
+      "timestamps": [
+        {
+          "timestampText": "2:17",
+          "seconds": 137,
+          "relativePosition": 0.5732217573221757
+        }
+      ],
+      "functionLabel": "other",
+      "sentimentScore": 1
+    },
+    {
+      "cleanedText": "1:46 \"now get up...\" She was not surprised one single bit. Women know exactly how much motivating they can be to us",
+      "likeCount": 148,
+      "timestamps": [
+        {
+          "timestampText": "1:46",
+          "seconds": 106,
+          "relativePosition": 0.4435146443514644
+        }
+      ],
+      "functionLabel": "other",
+      "sentimentScore": 0
+    },
+    {
+      "cleanedText": "3:40 hugo weaving is a great actor. with old CGI its really easy for actors to look goofy. he looks like he's actually being obliterated from the inside out",
+      "likeCount": 48,
+      "timestamps": [
+        {
+          "timestampText": "3:40",
+          "seconds": 220,
+          "relativePosition": 0.9205020920502092
+        }
+      ],
+      "functionLabel": "excitement_appreciation",
+      "sentimentScore": 1
+    },
+    {
+      "cleanedText": "2:55 Words cannot possibly describe how much I love this shot",
+      "likeCount": 124,
+      "timestamps": [
+        {
+          "timestampText": "2:55",
+          "seconds": 175,
+          "relativePosition": 0.7322175732217573
+        }
+      ],
+      "functionLabel": "excitement_appreciation",
+      "sentimentScore": 1
+    },
+    {
+      "cleanedText": "2:52- I always find it so hilarious yet EPIC how Neo fights Smith without even trying; his lightning fast block just before he twists Smith’s arm is so powerful and so epic… then the spectacular side kick that sends Smith flying at 3:02 is the icing on the cake!! 💪🏻😎 This movie is such a classic!!",
+      "likeCount": 0,
+      "timestamps": [
+        {
+          "timestampText": "2:52",
+          "seconds": 172,
+          "relativePosition": 0.7196652719665272
+        },
+        {
+          "timestampText": "3:02",
+          "seconds": 182,
+          "relativePosition": 0.7615062761506276
+        }
+      ],
+      "functionLabel": "navigation_indexing",
+      "sentimentScore": 1
+    },
+    {
+      "cleanedText": "2:28 you can see the \"really...?\" expression on Neo's face",
+      "likeCount": 18,
+      "timestamps": [
+        {
+          "timestampText": "2:28",
+          "seconds": 148,
+          "relativePosition": 0.6192468619246861
+        }
+      ],
+      "functionLabel": "other",
+      "sentimentScore": 0
+    },
+    {
+      "cleanedText": "0:46 when you find out that your bitcoin wallet got hacked",
+      "likeCount": 650,
+      "timestamps": [
+        {
+          "timestampText": "0:46",
+          "seconds": 46,
+          "relativePosition": 0.19246861924686193
+        }
+      ],
+      "functionLabel": "other",
+      "sentimentScore": 0
+    },
+    {
+      "cleanedText": "2:49 when you reach that age when you can see through your father's attacks and he can't harm you anymore.",
+      "likeCount": 78,
+      "timestamps": [
+        {
+          "timestampText": "2:49",
+          "seconds": 169,
+          "relativePosition": 0.7071129707112971
+        }
+      ],
+      "functionLabel": "other",
+      "sentimentScore": 0
+    },
+    {
+      "cleanedText": "When you 1v1 a trash talking player... 2:51",
+      "likeCount": 51,
+      "timestamps": [
+        {
+          "timestampText": "2:51",
+          "seconds": 171,
+          "relativePosition": 0.7154811715481172
+        }
+      ],
+      "functionLabel": "other",
+      "sentimentScore": 0
+    },
+    {
+      "cleanedText": "Freeze at 3:01 lmfao, the look on Keanus face. \"Bitch please\"",
+      "likeCount": 8,
+      "timestamps": [
+        {
+          "timestampText": "3:01",
+          "seconds": 181,
+          "relativePosition": 0.7573221757322176
+        }
+      ],
+      "functionLabel": "navigation_indexing",
+      "sentimentScore": 0
+    },
+    {
+      "cleanedText": "2:05 Neo: \"you should have gone for the head\"",
+      "likeCount": 12,
+      "timestamps": [
+        {
+          "timestampText": "2:05",
+          "seconds": 125,
+          "relativePosition": 0.5230125523012552
+        }
+      ],
+      "functionLabel": "other",
+      "sentimentScore": 0
+    },
+    {
+      "cleanedText": "3:35 Agent Smith was mind blown!",
+      "likeCount": 157,
+      "timestamps": [
+        {
+          "timestampText": "3:35",
+          "seconds": 215,
+          "relativePosition": 0.899581589958159
+        }
+      ],
+      "functionLabel": "other",
+      "sentimentScore": 0
+    },
+    {
+      "cleanedText": "00:55 Agent Smith: \"Chicken?\" *Checks Neo Other Agent: \"He's Gum.\"",
+      "likeCount": 37,
+      "timestamps": [
+        {
+          "timestampText": "00:55",
+          "seconds": 55,
+          "relativePosition": 0.2301255230125523
+        }
+      ],
+      "functionLabel": "other",
+      "sentimentScore": 0
+    },
+    {
+      "cleanedText": "3:45 bro took flexing to a whole new level",
+      "likeCount": 41,
+      "timestamps": [
+        {
+          "timestampText": "3:45",
+          "seconds": 225,
+          "relativePosition": 0.9414225941422594
+        }
+      ],
+      "functionLabel": "other",
+      "sentimentScore": 0
+    },
+    {
+      "cleanedText": "Keanu be sliding into them DMs like 3:16",
+      "likeCount": 15,
+      "timestamps": [
+        {
+          "timestampText": "3:16",
+          "seconds": 196,
+          "relativePosition": 0.8200836820083682
+        }
+      ],
+      "functionLabel": "other",
+      "sentimentScore": 0
+    },
+    {
+      "cleanedText": "3:53 Who's the next Agent: something no right, RUN!",
+      "likeCount": 11,
+      "timestamps": [
+        {
+          "timestampText": "3:53",
+          "seconds": 233,
+          "relativePosition": 0.9748953974895398
+        }
+      ],
+      "functionLabel": "other",
+      "sentimentScore": 0
+    },
+    {
+      "cleanedText": "2:51 best scene...",
+      "likeCount": 119,
+      "timestamps": [
+        {
+          "timestampText": "2:51",
+          "seconds": 171,
+          "relativePosition": 0.7154811715481172
+        }
+      ],
+      "functionLabel": "other",
+      "sentimentScore": 1
+    },
+    {
+      "cleanedText": "2:06 Uhhhh Mr. Wick.. they killed your dog.",
+      "likeCount": 20,
+      "timestamps": [
+        {
+          "timestampText": "2:06",
+          "seconds": 126,
+          "relativePosition": 0.5271966527196653
+        }
+      ],
+      "functionLabel": "other",
+      "sentimentScore": 0
+    },
+    {
+      "cleanedText": "3:06 when you realize one of the agents is showing a gesture the other of the two to not join the fight.",
+      "likeCount": 255,
+      "timestamps": [
+        {
+          "timestampText": "3:06",
+          "seconds": 186,
+          "relativePosition": 0.7782426778242678
+        }
+      ],
+      "functionLabel": "other",
+      "sentimentScore": 0
+    },
+    {
+      "cleanedText": "1:39 closed captions: *smooch*",
+      "likeCount": 9,
+      "timestamps": [
+        {
+          "timestampText": "1:39",
+          "seconds": 99,
+          "relativePosition": 0.41422594142259417
+        }
+      ],
+      "functionLabel": "other",
+      "sentimentScore": 0
+    },
+    {
+      "cleanedText": "2:36 \"He is the One\".... Im getting goosebumps",
+      "likeCount": 10,
+      "timestamps": [
+        {
+          "timestampText": "2:36",
+          "seconds": 156,
+          "relativePosition": 0.6527196652719666
+        }
+      ],
+      "functionLabel": "other",
+      "sentimentScore": 0
+    },
+    {
+      "cleanedText": "2:35 \"He is the one!\"",
+      "likeCount": 1,
+      "timestamps": [
+        {
+          "timestampText": "2:35",
+          "seconds": 155,
+          "relativePosition": 0.6485355648535565
+        }
+      ],
+      "functionLabel": "other",
+      "sentimentScore": 0
+    },
+    {
+      "cleanedText": "3:06 agent tells the other one ...nope..he knows what he's doing....",
+      "likeCount": 9,
+      "timestamps": [
+        {
+          "timestampText": "3:06",
+          "seconds": 186,
+          "relativePosition": 0.7782426778242678
+        }
+      ],
+      "functionLabel": "other",
+      "sentimentScore": 0
+    },
+    {
+      "cleanedText": "2:41 had that image as a wallpaper on my pc for years",
+      "likeCount": 20,
+      "timestamps": [
+        {
+          "timestampText": "2:41",
+          "seconds": 161,
+          "relativePosition": 0.6736401673640168
+        }
+      ],
+      "functionLabel": "other",
+      "sentimentScore": 0
+    },
+    {
+      "cleanedText": "2:40 how I feel when I finally understand Html5 and CSS",
+      "likeCount": 8,
+      "timestamps": [
+        {
+          "timestampText": "2:40",
+          "seconds": 160,
+          "relativePosition": 0.6694560669456067
+        }
+      ],
+      "functionLabel": "other",
+      "sentimentScore": 0
+    },
+    {
+      "cleanedText": "2:40 How it feels to chew 5 gum.",
+      "likeCount": 343,
+      "timestamps": [
+        {
+          "timestampText": "2:40",
+          "seconds": 160,
+          "relativePosition": 0.6694560669456067
+        }
+      ],
+      "functionLabel": "other",
+      "sentimentScore": 0
+    },
+    {
+      "cleanedText": "02:30 Sorry but that is just too epic Probably the greatest movie build up ever Music: 🎶✨ Tank: H-how? Morpheus: He is The One Music: 🎶✨ Gotta see that again Replay Button for myself < 02:30 >",
+      "likeCount": 28,
+      "timestamps": [
+        {
+          "timestampText": "02:30",
+          "seconds": 150,
+          "relativePosition": 0.6276150627615062
+        }
+      ],
+      "functionLabel": "other",
+      "sentimentScore": 0
+    },
+    {
+      "cleanedText": "2:50 When your little brother tries to take the controller",
+      "likeCount": 27,
+      "timestamps": [
+        {
+          "timestampText": "2:50",
+          "seconds": 170,
+          "relativePosition": 0.7112970711297071
+        }
+      ],
+      "functionLabel": "other",
+      "sentimentScore": 0
+    },
+    {
+      "cleanedText": "2:51 When what you revised is actually on the test.",
+      "likeCount": 13,
+      "timestamps": [
+        {
+          "timestampText": "2:51",
+          "seconds": 171,
+          "relativePosition": 0.7154811715481172
+        }
+      ],
+      "functionLabel": "other",
+      "sentimentScore": 0
+    },
+    {
+      "cleanedText": "Smith is using a .50 caliber Desert Eagle, a very large caliber handgun. The second discharge at 0:18 shows a good view of its recoil. It packs a major wallop.",
+      "likeCount": 9,
+      "timestamps": [
+        {
+          "timestampText": "0:18",
+          "seconds": 18,
+          "relativePosition": 0.07531380753138076
+        }
+      ],
+      "functionLabel": "navigation_indexing",
+      "sentimentScore": 1
+    },
+    {
+      "cleanedText": "3:06 I just noticed one Agent is holding the other one back.",
+      "likeCount": 50,
+      "timestamps": [
+        {
+          "timestampText": "3:06",
+          "seconds": 186,
+          "relativePosition": 0.7782426778242678
+        }
+      ],
+      "functionLabel": "other",
+      "sentimentScore": 0
+    },
+    {
+      "cleanedText": "I love how NEO corrects all the mistakes he made when Morpheus was training him for kung fu earlier in the movie and then uses it to defeat the agent at @2:51. Everything coming back full circle.",
+      "likeCount": 33,
+      "timestamps": [
+        {
+          "timestampText": "2:51",
+          "seconds": 171,
+          "relativePosition": 0.7154811715481172
+        }
+      ],
+      "functionLabel": "other",
+      "sentimentScore": 1
+    },
+    {
+      "cleanedText": "3:45 gives me chills every time",
+      "likeCount": 52,
+      "timestamps": [
+        {
+          "timestampText": "3:45",
+          "seconds": 225,
+          "relativePosition": 0.9414225941422594
+        }
+      ],
+      "functionLabel": "other",
+      "sentimentScore": 0
+    },
+    {
+      "cleanedText": "3:55 when u and your friend look at the exam before it starts, and decide to go see the doctor",
+      "likeCount": 25,
+      "timestamps": [
+        {
+          "timestampText": "3:55",
+          "seconds": 235,
+          "relativePosition": 0.9832635983263598
+        }
+      ],
+      "functionLabel": "other",
+      "sentimentScore": 0
+    },
+    {
+      "cleanedText": "1:34 Did they just Snow White & Prince Charming the whole thing?!",
+      "likeCount": 48,
+      "timestamps": [
+        {
+          "timestampText": "1:34",
+          "seconds": 94,
+          "relativePosition": 0.39330543933054396
+        }
+      ],
+      "functionLabel": "other",
+      "sentimentScore": 0
+    },
+    {
+      "cleanedText": "0:06 As a kid, I always thought that it was duracell battery...",
+      "likeCount": 8,
+      "timestamps": [
+        {
+          "timestampText": "0:06",
+          "seconds": 6,
+          "relativePosition": 0.02510460251046025
+        }
+      ],
+      "functionLabel": "other",
+      "sentimentScore": 0
+    },
+    {
+      "cleanedText": "02:39 this uplifting moment makes me stronger every time I feel afraid of something cause all our problems are virtual in fact",
+      "likeCount": 0,
+      "timestamps": [
+        {
+          "timestampText": "02:39",
+          "seconds": 159,
+          "relativePosition": 0.6652719665271967
+        }
+      ],
+      "functionLabel": "other",
+      "sentimentScore": 0
+    },
+    {
+      "cleanedText": "3:56 when the ball smashes a neighbours window.",
+      "likeCount": 19,
+      "timestamps": [
+        {
+          "timestampText": "3:56",
+          "seconds": 236,
+          "relativePosition": 0.9874476987447699
+        }
+      ],
+      "functionLabel": "other",
+      "sentimentScore": 0
+    },
+    {
+      "cleanedText": "Me: Mom, I failed math Mom: 3:53",
+      "likeCount": 209,
+      "timestamps": [
+        {
+          "timestampText": "3:53",
+          "seconds": 233,
+          "relativePosition": 0.9748953974895398
+        }
+      ],
+      "functionLabel": "other",
+      "sentimentScore": 0
+    },
+    {
+      "cleanedText": "2:53 when your 5 years old nephew try to punch you...",
+      "likeCount": 54,
+      "timestamps": [
+        {
+          "timestampText": "2:53",
+          "seconds": 173,
+          "relativePosition": 0.7238493723849372
+        }
+      ],
+      "functionLabel": "other",
+      "sentimentScore": 0
+    },
+    {
+      "cleanedText": "2:51 When you reach level 100 in Unarmed in Oblivion XD",
+      "likeCount": 74,
+      "timestamps": [
+        {
+          "timestampText": "2:51",
+          "seconds": 171,
+          "relativePosition": 0.7154811715481172
+        }
+      ],
+      "functionLabel": "other",
+      "sentimentScore": 0
+    },
+    {
+      "cleanedText": "2:06 “No”",
+      "likeCount": 12,
+      "timestamps": [
+        {
+          "timestampText": "2:06",
+          "seconds": 126,
+          "relativePosition": 0.5271966527196653
+        }
+      ],
+      "functionLabel": "other",
+      "sentimentScore": 0
+    },
+    {
+      "cleanedText": "2:06 when your crush asks you out but you've already foreseen a future where she breaks your heart",
+      "likeCount": 13,
+      "timestamps": [
+        {
+          "timestampText": "2:06",
+          "seconds": 126,
+          "relativePosition": 0.5271966527196653
+        }
+      ],
+      "functionLabel": "other",
+      "sentimentScore": 0
+    },
+    {
+      "cleanedText": "3:55 I love how they broke and ran soon as he opened his eyes like: shoot we messed up!",
+      "likeCount": 0,
+      "timestamps": [
+        {
+          "timestampText": "3:55",
+          "seconds": 235,
+          "relativePosition": 0.9832635983263598
+        }
+      ],
+      "functionLabel": "other",
+      "sentimentScore": 1
+    },
+    {
+      "cleanedText": "0:00 When you're having a nightmare. 1:53 when you start to lucid dream.",
+      "likeCount": 14,
+      "timestamps": [
+        {
+          "timestampText": "0:00",
+          "seconds": 0,
+          "relativePosition": 0
+        },
+        {
+          "timestampText": "1:53",
+          "seconds": 113,
+          "relativePosition": 0.47280334728033474
+        }
+      ],
+      "functionLabel": "other",
+      "sentimentScore": 0
+    },
+    {
+      "cleanedText": "2:49 Me when I learned how to beat Mike Tyson in Punch-Out.",
+      "likeCount": 18,
+      "timestamps": [
+        {
+          "timestampText": "2:49",
+          "seconds": 169,
+          "relativePosition": 0.7071129707112971
+        }
+      ],
+      "functionLabel": "instructional_reference",
+      "sentimentScore": 0
+    },
+    {
+      "cleanedText": "Note at 3:06 the Agent on the right in the background has his arm extended in front of the Agent to the left. I wonder if they cut a small moment where the Agent on the left started forward to help out Smith, but the other one stopped him.",
+      "likeCount": 22,
+      "timestamps": [
+        {
+          "timestampText": "3:06",
+          "seconds": 186,
+          "relativePosition": 0.7782426778242678
+        }
+      ],
+      "functionLabel": "navigation_indexing",
+      "sentimentScore": 0
+    },
+    {
+      "cleanedText": "2:38 when your a chinese hacker in pubg",
+      "likeCount": 51,
+      "timestamps": [
+        {
+          "timestampText": "2:38",
+          "seconds": 158,
+          "relativePosition": 0.6610878661087866
+        }
+      ],
+      "functionLabel": "other",
+      "sentimentScore": 0
+    },
+    {
+      "cleanedText": "0:25 -- *When the hot girl you really like, says she just wants to be friends.*",
+      "likeCount": 102,
+      "timestamps": [
+        {
+          "timestampText": "0:25",
+          "seconds": 25,
+          "relativePosition": 0.10460251046025104
+        }
+      ],
+      "functionLabel": "other",
+      "sentimentScore": 0
+    },
+    {
+      "cleanedText": "2:11 how I feel everytime after learning something new in coding.",
+      "likeCount": 9,
+      "timestamps": [
+        {
+          "timestampText": "2:11",
+          "seconds": 131,
+          "relativePosition": 0.5481171548117155
+        }
+      ],
+      "functionLabel": "other",
+      "sentimentScore": 0
+    },
+    {
+      "cleanedText": "You... @1:54 *You should've went for the head*",
+      "likeCount": 149,
+      "timestamps": [
+        {
+          "timestampText": "1:54",
+          "seconds": 114,
+          "relativePosition": 0.4769874476987448
+        }
+      ],
+      "functionLabel": "other",
+      "sentimentScore": 0
+    },
+    {
+      "cleanedText": "0:18 lol blank rounds",
+      "likeCount": 29,
+      "timestamps": [
+        {
+          "timestampText": "0:18",
+          "seconds": 18,
+          "relativePosition": 0.07531380753138076
+        }
+      ],
+      "functionLabel": "humor",
+      "sentimentScore": 0
+    },
+    {
+      "cleanedText": "How it feels when people gang up on you in Counter Strike Global Offensive But you out play them all... 2:09",
+      "likeCount": 8,
+      "timestamps": [
+        {
+          "timestampText": "2:09",
+          "seconds": 129,
+          "relativePosition": 0.5397489539748954
+        }
+      ],
+      "functionLabel": "other",
+      "sentimentScore": 0
+    },
+    {
+      "cleanedText": "WHAT are you having for dinner? ANSWER at 00:55",
+      "likeCount": 11,
+      "timestamps": [
+        {
+          "timestampText": "00:55",
+          "seconds": 55,
+          "relativePosition": 0.2301255230125523
+        }
+      ],
+      "functionLabel": "navigation_indexing",
+      "sentimentScore": 0
+    },
+    {
+      "cleanedText": "3:25 smith takes corona vaccine",
+      "likeCount": 10,
+      "timestamps": [
+        {
+          "timestampText": "3:25",
+          "seconds": 205,
+          "relativePosition": 0.8577405857740585
+        }
+      ],
+      "functionLabel": "other",
+      "sentimentScore": 0
+    },
+    {
+      "cleanedText": "0:43 He will use 7up😅😆",
+      "likeCount": 7,
+      "timestamps": [
+        {
+          "timestampText": "0:43",
+          "seconds": 43,
+          "relativePosition": 0.1799163179916318
+        }
+      ],
+      "functionLabel": "other",
+      "sentimentScore": 0
+    },
+    {
+      "cleanedText": "1:25 You can’t be dead because I love you. I need Carrie Ann to fall in love with me, so I can live forever!",
+      "likeCount": 10,
+      "timestamps": [
+        {
+          "timestampText": "1:25",
+          "seconds": 85,
+          "relativePosition": 0.35564853556485354
+        }
+      ],
+      "functionLabel": "other",
+      "sentimentScore": 2
+    },
+    {
+      "cleanedText": "if you pause at 0:18 you can see the cartridge he just shot is a blank.",
+      "likeCount": 25,
+      "timestamps": [
+        {
+          "timestampText": "0:18",
+          "seconds": 18,
+          "relativePosition": 0.07531380753138076
+        }
+      ],
+      "functionLabel": "navigation_indexing",
+      "sentimentScore": 0
+    },
+    {
+      "cleanedText": "That \"NO\" in 2:08 is nostalgic",
+      "likeCount": 0,
+      "timestamps": [
+        {
+          "timestampText": "2:08",
+          "seconds": 128,
+          "relativePosition": 0.5355648535564853
+        }
+      ],
+      "functionLabel": "navigation_indexing",
+      "sentimentScore": 0
+    },
+    {
+      "cleanedText": "2:51 one of the coolest sequences in any film ever.",
+      "likeCount": 0,
+      "timestamps": [
+        {
+          "timestampText": "2:51",
+          "seconds": 171,
+          "relativePosition": 0.7154811715481172
+        }
+      ],
+      "functionLabel": "other",
+      "sentimentScore": 0
+    },
+    {
+      "cleanedText": "3:45 THE MOST GLORIOUS SOUND IN THE GODDAMN UNIVERSE",
+      "likeCount": 0,
+      "timestamps": [
+        {
+          "timestampText": "3:45",
+          "seconds": 225,
+          "relativePosition": 0.9414225941422594
+        }
+      ],
+      "functionLabel": "other",
+      "sentimentScore": 0
+    },
+    {
+      "cleanedText": "2:24 I prefer this scene over the bullet dodging scene. I get that the bullet dodging scene was great technology for it's time but I prefer when he stops the bullets altogether from a storytelling standpoint. The realisation after he does it, when he takes one out of the air and looks at it like \"this would have killed me\" and drops it. And the MUSIC 😭 those strings are magical. Nerd rant over.",
+      "likeCount": 0,
+      "timestamps": [
+        {
+          "timestampText": "2:24",
+          "seconds": 144,
+          "relativePosition": 0.602510460251046
+        }
+      ],
+      "functionLabel": "excitement_appreciation",
+      "sentimentScore": 1
+    },
+    {
+      "cleanedText": "3:46 When the Pumps hit 😂😂😂",
+      "likeCount": 1,
+      "timestamps": [
+        {
+          "timestampText": "3:46",
+          "seconds": 226,
+          "relativePosition": 0.9456066945606695
+        }
+      ],
+      "functionLabel": "other",
+      "sentimentScore": 0
+    },
+    {
+      "cleanedText": "3:06 peep the background, ol boy said \"let him cook\" lmao",
+      "likeCount": 0,
+      "timestamps": [
+        {
+          "timestampText": "3:06",
+          "seconds": 186,
+          "relativePosition": 0.7782426778242678
+        }
+      ],
+      "functionLabel": "humor",
+      "sentimentScore": 0
+    },
+    {
+      "cleanedText": "3:45 you know you’re the one when you can flex to hard that you bend reality",
+      "likeCount": 0,
+      "timestamps": [
+        {
+          "timestampText": "3:45",
+          "seconds": 225,
+          "relativePosition": 0.9414225941422594
+        }
+      ],
+      "functionLabel": "other",
+      "sentimentScore": 0
+    },
+    {
+      "cleanedText": "0:38 any good meditator has had this happen ;) there is a reason this movie is popular; it is a metaphor for the spiritual life: you get defeated and then instead of giving up you master your awareness on the spot and go down a path of said awareness mastery. It’s not as flashy as this but it’s more enjoyable than this, and it leads to many abilities you can learn due to the concentrated mind. You probably won’t fly, but I won’t say it’s impossible.",
+      "likeCount": 35,
+      "timestamps": [
+        {
+          "timestampText": "0:38",
+          "seconds": 38,
+          "relativePosition": 0.1589958158995816
+        }
+      ],
+      "functionLabel": "instructional_reference",
+      "sentimentScore": 1
+    },
+    {
+      "cleanedText": "2:50 always makes me chuckle because Neo is now The Awaken One and now has complete control of his world, surroundings and circumstances....oh and he doesn't have to look to block Agent Smith's attacks....😅",
+      "likeCount": 0,
+      "timestamps": [
+        {
+          "timestampText": "2:50",
+          "seconds": 170,
+          "relativePosition": 0.7112970711297071
+        }
+      ],
+      "functionLabel": "other",
+      "sentimentScore": 0
+    },
+    {
+      "cleanedText": "0:18 Gun shot in slow mo and back to normal motion at the moment when it kicks back.",
+      "likeCount": 0,
+      "timestamps": [
+        {
+          "timestampText": "0:18",
+          "seconds": 18,
+          "relativePosition": 0.07531380753138076
+        }
+      ],
+      "functionLabel": "other",
+      "sentimentScore": 0
+    },
+    {
+      "cleanedText": "@3:13 always reminded me of the Super Mario Sunshine Main Menu theme",
+      "likeCount": 0,
+      "timestamps": [
+        {
+          "timestampText": "3:13",
+          "seconds": 193,
+          "relativePosition": 0.8075313807531381
+        }
+      ],
+      "functionLabel": "other",
+      "sentimentScore": 0
+    },
+    {
+      "cleanedText": "3:45 When I flex, the walls flex with me. Thats a huge flex.",
+      "likeCount": 1,
+      "timestamps": [
+        {
+          "timestampText": "3:45",
+          "seconds": 225,
+          "relativePosition": 0.9414225941422594
+        }
+      ],
+      "functionLabel": "other",
+      "sentimentScore": 0
+    },
+    {
+      "cleanedText": "2:55 that one handed shit will always be Legendary AF 🥲 .",
+      "likeCount": 0,
+      "timestamps": [
+        {
+          "timestampText": "2:55",
+          "seconds": 175,
+          "relativePosition": 0.7322175732217573
+        }
+      ],
+      "functionLabel": "other",
+      "sentimentScore": 0
+    },
+    {
+      "cleanedText": "3:41 flying face Smith",
+      "likeCount": 1,
+      "timestamps": [
+        {
+          "timestampText": "3:41",
+          "seconds": 221,
+          "relativePosition": 0.9246861924686193
+        }
+      ],
+      "functionLabel": "other",
+      "sentimentScore": 0
+    },
+    {
+      "cleanedText": "0:40 \"Im gonna come\" - the one",
+      "likeCount": 23,
+      "timestamps": [
+        {
+          "timestampText": "0:40",
+          "seconds": 40,
+          "relativePosition": 0.16736401673640167
+        }
+      ],
+      "functionLabel": "other",
+      "sentimentScore": 0
+    },
+    {
+      "cleanedText": "0:01 I died when she was too late 2018, after that.. she given me life to live 2026 that's for you Brook ❤🙂💯",
+      "likeCount": 0,
+      "timestamps": [
+        {
+          "timestampText": "0:01",
+          "seconds": 1,
+          "relativePosition": 0.0041841004184100415
+        }
+      ],
+      "functionLabel": "other",
+      "sentimentScore": 0
+    },
+    {
+      "cleanedText": "2:48 is maybe the coldest 10 seconds in cinema history",
+      "likeCount": 0,
+      "timestamps": [
+        {
+          "timestampText": "2:48",
+          "seconds": 168,
+          "relativePosition": 0.702928870292887
+        }
+      ],
+      "functionLabel": "navigation_indexing",
+      "sentimentScore": 0
+    },
+    {
+      "cleanedText": "2:37 lisan al gaib !!!",
+      "likeCount": 1,
+      "timestamps": [
+        {
+          "timestampText": "2:37",
+          "seconds": 157,
+          "relativePosition": 0.6569037656903766
+        }
+      ],
+      "functionLabel": "other",
+      "sentimentScore": 0
+    },
+    {
+      "cleanedText": "0:18 잘보면 데저트 이글에서 발포된 총알은 알고보니 공포탄입니다.",
+      "likeCount": 1,
+      "timestamps": [
+        {
+          "timestampText": "0:18",
+          "seconds": 18,
+          "relativePosition": 0.07531380753138076
+        }
+      ],
+      "functionLabel": "other",
+      "sentimentScore": 0
+    },
+    {
+      "cleanedText": "2:58 is so cool",
+      "likeCount": 0,
+      "timestamps": [
+        {
+          "timestampText": "2:58",
+          "seconds": 178,
+          "relativePosition": 0.7447698744769874
+        }
+      ],
+      "functionLabel": "navigation_indexing",
+      "sentimentScore": 0
+    },
+    {
+      "cleanedText": "1:34 smooch lol",
+      "likeCount": 0,
+      "timestamps": [
+        {
+          "timestampText": "1:34",
+          "seconds": 94,
+          "relativePosition": 0.39330543933054396
+        }
+      ],
+      "functionLabel": "humor",
+      "sentimentScore": 0
+    },
+    {
+      "cleanedText": "My favorite part is at 0:55 when Smith says \"Chicken\" because he's hungry",
+      "likeCount": 0,
+      "timestamps": [
+        {
+          "timestampText": "0:55",
+          "seconds": 55,
+          "relativePosition": 0.2301255230125523
+        }
+      ],
+      "functionLabel": "navigation_indexing",
+      "sentimentScore": 1
+    },
+    {
+      "cleanedText": "3:04 one of the agents in the background holding back the other agent like \"nah bro something's wrong, did you see him just stop our fuckin bullets\"",
+      "likeCount": 0,
+      "timestamps": [
+        {
+          "timestampText": "3:04",
+          "seconds": 184,
+          "relativePosition": 0.7698744769874477
+        }
+      ],
+      "functionLabel": "other",
+      "sentimentScore": -1
+    },
+    {
+      "cleanedText": "1:16 why love is the strongest drug of them all",
+      "likeCount": 0,
+      "timestamps": [
+        {
+          "timestampText": "1:16",
+          "seconds": 76,
+          "relativePosition": 0.3179916317991632
+        }
+      ],
+      "functionLabel": "other",
+      "sentimentScore": 1
+    },
+    {
+      "cleanedText": "0:03 his face says Ow...wtf...I'm bleeding...\"You shot me\"",
+      "likeCount": 0,
+      "timestamps": [
+        {
+          "timestampText": "0:03",
+          "seconds": 3,
+          "relativePosition": 0.012552301255230125
+        }
+      ],
+      "functionLabel": "other",
+      "sentimentScore": 0
+    },
+    {
+      "cleanedText": "0:03 when task manger finally shuts down the program that bugged out.",
+      "likeCount": 0,
+      "timestamps": [
+        {
+          "timestampText": "0:03",
+          "seconds": 3,
+          "relativePosition": 0.012552301255230125
+        }
+      ],
+      "functionLabel": "other",
+      "sentimentScore": 0
+    },
+    {
+      "cleanedText": "3:39 - Agent Smith got derezzed !!!",
+      "likeCount": 1,
+      "timestamps": [
+        {
+          "timestampText": "3:39",
+          "seconds": 219,
+          "relativePosition": 0.9163179916317992
+        }
+      ],
+      "functionLabel": "other",
+      "sentimentScore": 0
+    },
+    {
+      "cleanedText": "2:10 Shadow the Hedgehog: Chaos Control! 😠✋",
+      "likeCount": 0,
+      "timestamps": [
+        {
+          "timestampText": "2:10",
+          "seconds": 130,
+          "relativePosition": 0.5439330543933054
+        }
+      ],
+      "functionLabel": "other",
+      "sentimentScore": 0
+    },
+    {
+      "cleanedText": "I've seen this a dozen times, but I never noticed at 3:06 that one of the agents motions for the other one to stand down. That's very interesting. Maybe they disliked Smith and wanted Neo to finish him? Or maybe they were just curious what Neo was going to do.",
+      "likeCount": 0,
+      "timestamps": [
+        {
+          "timestampText": "3:06",
+          "seconds": 186,
+          "relativePosition": 0.7782426778242678
+        }
+      ],
+      "functionLabel": "navigation_indexing",
+      "sentimentScore": 0
+    },
+    {
+      "cleanedText": "3:17 was a bad idea. Neo being the one missed to know whats coming",
+      "likeCount": 0,
+      "timestamps": [
+        {
+          "timestampText": "3:17",
+          "seconds": 197,
+          "relativePosition": 0.8242677824267782
+        }
+      ],
+      "functionLabel": "navigation_indexing",
+      "sentimentScore": -1
+    },
+    {
+      "cleanedText": "2:54 The Disrespect",
+      "likeCount": 1,
+      "timestamps": [
+        {
+          "timestampText": "2:54",
+          "seconds": 174,
+          "relativePosition": 0.7280334728033473
+        }
+      ],
+      "functionLabel": "other",
+      "sentimentScore": 0
+    },
+    {
+      "cleanedText": "0:16 When neo is getting shot in the chest, if you go frame by frame when you see a closeup of the desert eagle .50 you can see that instead of ejecting spent shells it's ejecting blanks (the ends are crimped)",
+      "likeCount": 0,
+      "timestamps": [
+        {
+          "timestampText": "0:16",
+          "seconds": 16,
+          "relativePosition": 0.06694560669456066
+        }
+      ],
+      "functionLabel": "other",
+      "sentimentScore": 0
+    },
+    {
+      "cleanedText": "“ I understand it now” 1:51",
+      "likeCount": 0,
+      "timestamps": [
+        {
+          "timestampText": "1:51",
+          "seconds": 111,
+          "relativePosition": 0.46443514644351463
+        }
+      ],
+      "functionLabel": "other",
+      "sentimentScore": 0
+    },
+    {
+      "cleanedText": "2:06 no 🙂‍↔️",
+      "likeCount": 1,
+      "timestamps": [
+        {
+          "timestampText": "2:06",
+          "seconds": 126,
+          "relativePosition": 0.5271966527196653
+        }
+      ],
+      "functionLabel": "other",
+      "sentimentScore": 0
+    },
+    {
+      "cleanedText": "3:35 omae wa mou shindeiru",
+      "likeCount": 1,
+      "timestamps": [
+        {
+          "timestampText": "3:35",
+          "seconds": 215,
+          "relativePosition": 0.899581589958159
+        }
+      ],
+      "functionLabel": "other",
+      "sentimentScore": 0
+    },
+    {
+      "cleanedText": "2:56 Agent Smith thinking : You’re not even looking at me when I’m trying to hit you. That’s just RUDE!!!",
+      "likeCount": 0,
+      "timestamps": [
+        {
+          "timestampText": "2:56",
+          "seconds": 176,
+          "relativePosition": 0.7364016736401674
+        }
+      ],
+      "functionLabel": "other",
+      "sentimentScore": 0
+    },
+    {
+      "cleanedText": "3:45 about sums it up",
+      "likeCount": 0,
+      "timestamps": [
+        {
+          "timestampText": "3:45",
+          "seconds": 225,
+          "relativePosition": 0.9414225941422594
+        }
+      ],
+      "functionLabel": "other",
+      "sentimentScore": 0
+    },
+    {
+      "cleanedText": "1:35 besuquearse* jajajajajaj 😅 excelente subtitulo 10/10",
+      "likeCount": 0,
+      "timestamps": [
+        {
+          "timestampText": "1:35",
+          "seconds": 95,
+          "relativePosition": 0.39748953974895396
+        }
+      ],
+      "functionLabel": "other",
+      "sentimentScore": 0
+    },
+    {
+      "cleanedText": "2:40 When DMT cracks in",
+      "likeCount": 0,
+      "timestamps": [
+        {
+          "timestampText": "2:40",
+          "seconds": 160,
+          "relativePosition": 0.6694560669456067
+        }
+      ],
+      "functionLabel": "other",
+      "sentimentScore": 0
+    },
+    {
+      "cleanedText": "3:45 auraaa",
+      "likeCount": 0,
+      "timestamps": [
+        {
+          "timestampText": "3:45",
+          "seconds": 225,
+          "relativePosition": 0.9414225941422594
+        }
+      ],
+      "functionLabel": "other",
+      "sentimentScore": 0
+    },
+    {
+      "cleanedText": "2:10 and this is when Fable model was nerfed (as of August-2026)",
+      "likeCount": 0,
+      "timestamps": [
+        {
+          "timestampText": "2:10",
+          "seconds": 130,
+          "relativePosition": 0.5439330543933054
+        }
+      ],
+      "functionLabel": "other",
+      "sentimentScore": 0
+    },
+    {
+      "cleanedText": "2:28 Me when I finally understand the code that gpt generated for me hehehe",
+      "likeCount": 0,
+      "timestamps": [
+        {
+          "timestampText": "2:28",
+          "seconds": 148,
+          "relativePosition": 0.6192468619246861
+        }
+      ],
+      "functionLabel": "other",
+      "sentimentScore": 0
+    },
+    {
+      "cleanedText": "0:55 me when my mom asks what i want to eat for dinner",
+      "likeCount": 0,
+      "timestamps": [
+        {
+          "timestampText": "0:55",
+          "seconds": 55,
+          "relativePosition": 0.2301255230125523
+        }
+      ],
+      "functionLabel": "other",
+      "sentimentScore": 0
+    },
+    {
+      "cleanedText": "2:37 when you can finally understand a foreign language after endless study",
+      "likeCount": 0,
+      "timestamps": [
+        {
+          "timestampText": "2:37",
+          "seconds": 157,
+          "relativePosition": 0.6569037656903766
+        }
+      ],
+      "functionLabel": "other",
+      "sentimentScore": 0
+    },
+    {
+      "cleanedText": "2:51 When the younger sibling grows taller than the older sibling.",
+      "likeCount": 0,
+      "timestamps": [
+        {
+          "timestampText": "2:51",
+          "seconds": 171,
+          "relativePosition": 0.7154811715481172
+        }
+      ],
+      "functionLabel": "other",
+      "sentimentScore": 0
+    },
+    {
+      "cleanedText": "2:48 When you're a level 99 and you enter an area of level 20s.",
+      "likeCount": 0,
+      "timestamps": [
+        {
+          "timestampText": "2:48",
+          "seconds": 168,
+          "relativePosition": 0.702928870292887
+        }
+      ],
+      "functionLabel": "other",
+      "sentimentScore": 0
+    },
+    {
+      "cleanedText": "1:40 el subtítulo dice : besuquearse jsjsjjs",
+      "likeCount": 0,
+      "timestamps": [
+        {
+          "timestampText": "1:40",
+          "seconds": 100,
+          "relativePosition": 0.41841004184100417
+        }
+      ],
+      "functionLabel": "other",
+      "sentimentScore": 0
+    },
+    {
+      "cleanedText": "0:55 \"Chicken.\"",
+      "likeCount": 0,
+      "timestamps": [
+        {
+          "timestampText": "0:55",
+          "seconds": 55,
+          "relativePosition": 0.2301255230125523
+        }
+      ],
+      "functionLabel": "other",
+      "sentimentScore": 0
+    },
+    {
+      "cleanedText": "3:13 Smith should of said \"Mr. Anderson if you k*ll me I will become more powerful than you can imagine\"",
+      "likeCount": 0,
+      "timestamps": [
+        {
+          "timestampText": "3:13",
+          "seconds": 193,
+          "relativePosition": 0.8075313807531381
+        }
+      ],
+      "functionLabel": "other",
+      "sentimentScore": 1
+    },
+    {
+      "cleanedText": "No. 2:06",
+      "likeCount": 1,
+      "timestamps": [
+        {
+          "timestampText": "2:06",
+          "seconds": 126,
+          "relativePosition": 0.5271966527196653
+        }
+      ],
+      "functionLabel": "other",
+      "sentimentScore": 0
+    },
+    {
+      "cleanedText": "1:54, what???????? He’s alive??????????🤨",
+      "likeCount": 0,
+      "timestamps": [
+        {
+          "timestampText": "1:54",
+          "seconds": 114,
+          "relativePosition": 0.4769874476987448
+        }
+      ],
+      "functionLabel": "other",
+      "sentimentScore": 0
+    },
+    {
+      "cleanedText": "2:55 I swear one day I did this.. It was the most amazing thing. It was just like this. Something inside kicked in and I was effortlessly blocking all of someone's swings. I also was looking away and not at him just like this. We possess something that can cause us to do this. That was the only moment in my life I remember that happening. I lost it but this is making me wonder how it happened. I SWEAR",
+      "likeCount": 0,
+      "timestamps": [
+        {
+          "timestampText": "2:55",
+          "seconds": 175,
+          "relativePosition": 0.7322175732217573
+        }
+      ],
+      "functionLabel": "excitement_appreciation",
+      "sentimentScore": 1
+    },
+    {
+      "cleanedText": "when your bored and its to damn easy 😁2:57",
+      "likeCount": 0,
+      "timestamps": [
+        {
+          "timestampText": "2:57",
+          "seconds": 177,
+          "relativePosition": 0.7405857740585774
+        }
+      ],
+      "functionLabel": "other",
+      "sentimentScore": 0
+    },
+    {
+      "cleanedText": "@2:36 He is the One.",
+      "likeCount": 0,
+      "timestamps": [
+        {
+          "timestampText": "2:36",
+          "seconds": 156,
+          "relativePosition": 0.6527196652719666
+        }
+      ],
+      "functionLabel": "other",
+      "sentimentScore": 0
+    },
+    {
+      "cleanedText": "02:35 How? He is the one",
+      "likeCount": 0,
+      "timestamps": [
+        {
+          "timestampText": "02:35",
+          "seconds": 155,
+          "relativePosition": 0.6485355648535565
+        }
+      ],
+      "functionLabel": "other",
+      "sentimentScore": 0
+    },
+    {
+      "cleanedText": "2:07 “No”",
+      "likeCount": 0,
+      "timestamps": [
+        {
+          "timestampText": "2:07",
+          "seconds": 127,
+          "relativePosition": 0.5313807531380753
+        }
+      ],
+      "functionLabel": "other",
+      "sentimentScore": 0
+    },
+    {
+      "cleanedText": "2:51",
+      "likeCount": 1,
+      "timestamps": [
+        {
+          "timestampText": "2:51",
+          "seconds": 171,
+          "relativePosition": 0.7154811715481172
+        }
+      ],
+      "functionLabel": "other",
+      "sentimentScore": 0
+    },
+    {
+      "cleanedText": "03:17 son Guku and Vegata fail.",
+      "likeCount": 0,
+      "timestamps": [
+        {
+          "timestampText": "03:17",
+          "seconds": 197,
+          "relativePosition": 0.8242677824267782
+        }
+      ],
+      "functionLabel": "other",
+      "sentimentScore": 0
+    },
+    {
+      "cleanedText": "2:07 No!",
+      "likeCount": 0,
+      "timestamps": [
+        {
+          "timestampText": "2:07",
+          "seconds": 127,
+          "relativePosition": 0.5313807531380753
+        }
+      ],
+      "functionLabel": "other",
+      "sentimentScore": 0
+    },
+    {
+      "cleanedText": "3:06 The agent on the right is holding back the one on the left. Never noticed that before.",
+      "likeCount": 0,
+      "timestamps": [
+        {
+          "timestampText": "3:06",
+          "seconds": 186,
+          "relativePosition": 0.7782426778242678
+        }
+      ],
+      "functionLabel": "other",
+      "sentimentScore": 0
+    },
+    {
+      "cleanedText": "“Oh I’m Neo and he’s Morpheus!” “Yes, and I’m Trinity” 1:31 “Oh no, hang on, I’m not Trinity!” “I withdraw my comment, I’m not Trinity. I repeat I withdraw my comment, I’m not Trinity”",
+      "likeCount": 0,
+      "timestamps": [
+        {
+          "timestampText": "1:31",
+          "seconds": 91,
+          "relativePosition": 0.3807531380753138
+        }
+      ],
+      "functionLabel": "other",
+      "sentimentScore": 0
+    },
+    {
+      "cleanedText": "3:18",
+      "likeCount": 0,
+      "timestamps": [
+        {
+          "timestampText": "3:18",
+          "seconds": 198,
+          "relativePosition": 0.8284518828451883
+        }
+      ],
+      "functionLabel": "other",
+      "sentimentScore": 0
+    },
+    {
+      "cleanedText": "2:50",
+      "likeCount": 0,
+      "timestamps": [
+        {
+          "timestampText": "2:50",
+          "seconds": 170,
+          "relativePosition": 0.7112970711297071
+        }
+      ],
+      "functionLabel": "other",
+      "sentimentScore": 0
+    },
+    {
+      "cleanedText": "3:53 👁️👁️",
+      "likeCount": 0,
+      "timestamps": [
+        {
+          "timestampText": "3:53",
+          "seconds": 233,
+          "relativePosition": 0.9748953974895398
+        }
+      ],
+      "functionLabel": "other",
+      "sentimentScore": 0
+    },
+    {
+      "cleanedText": "3:56 \"Ну нахер\"",
+      "likeCount": 0,
+      "timestamps": [
+        {
+          "timestampText": "3:56",
+          "seconds": 236,
+          "relativePosition": 0.9874476987447699
+        }
+      ],
+      "functionLabel": "other",
+      "sentimentScore": 0
+    },
+    {
+      "cleanedText": "2:55",
+      "likeCount": 0,
+      "timestamps": [
+        {
+          "timestampText": "2:55",
+          "seconds": 175,
+          "relativePosition": 0.7322175732217573
+        }
+      ],
+      "functionLabel": "other",
+      "sentimentScore": 0
+    },
+    {
+      "cleanedText": "2:06",
+      "likeCount": 0,
+      "timestamps": [
+        {
+          "timestampText": "2:06",
+          "seconds": 126,
+          "relativePosition": 0.5271966527196653
+        }
+      ],
+      "functionLabel": "other",
+      "sentimentScore": 0
+    },
+    {
+      "cleanedText": "2:40",
+      "likeCount": 0,
+      "timestamps": [
+        {
+          "timestampText": "2:40",
+          "seconds": 160,
+          "relativePosition": 0.6694560669456067
+        }
+      ],
+      "functionLabel": "other",
+      "sentimentScore": 0
+    },
+    {
+      "cleanedText": "in 2026: you can interpret the scene like this: @2:39 - when you realize your boss's/the government's gaslighting and their manipulations can no longer hurt you, they can call you whatever names but they are no longer hurtful because you realize it's all part of some greater bullshit",
+      "likeCount": 0,
+      "timestamps": [
+        {
+          "timestampText": "2:39",
+          "seconds": 159,
+          "relativePosition": 0.6652719665271967
+        }
+      ],
+      "functionLabel": "other",
+      "sentimentScore": 0
+    },
+    {
+      "cleanedText": "can somebody explain to me why he is seeing the matrix like this at 2:40 ?",
+      "likeCount": 0,
+      "timestamps": [
+        {
+          "timestampText": "2:40",
+          "seconds": 160,
+          "relativePosition": 0.6694560669456067
+        }
+      ],
+      "functionLabel": "navigation_indexing",
+      "sentimentScore": 0
+    },
+    {
+      "cleanedText": "Matrix 2:21",
+      "likeCount": 0,
+      "timestamps": [
+        {
+          "timestampText": "2:21",
+          "seconds": 141,
+          "relativePosition": 0.5899581589958159
+        }
+      ],
+      "functionLabel": "other",
+      "sentimentScore": 0
+    },
+    {
+      "cleanedText": "02:41",
+      "likeCount": 0,
+      "timestamps": [
+        {
+          "timestampText": "02:41",
+          "seconds": 161,
+          "relativePosition": 0.6736401673640168
+        }
+      ],
+      "functionLabel": "other",
+      "sentimentScore": 0
+    },
+    {
+      "cleanedText": "02:41 The ultimate way one can view the world.",
+      "likeCount": 3,
+      "timestamps": [
+        {
+          "timestampText": "02:41",
+          "seconds": 161,
+          "relativePosition": 0.6736401673640168
+        }
+      ],
+      "functionLabel": "other",
+      "sentimentScore": 0
+    },
+    {
+      "cleanedText": "2:08 2:12 الانتروبي",
+      "likeCount": 0,
+      "timestamps": [
+        {
+          "timestampText": "2:08",
+          "seconds": 128,
+          "relativePosition": 0.5355648535564853
+        },
+        {
+          "timestampText": "2:12",
+          "seconds": 132,
+          "relativePosition": 0.5523012552301255
+        }
+      ],
+      "functionLabel": "other",
+      "sentimentScore": 0
+    },
+    {
+      "cleanedText": "3:33 John 1:5 And the light shines in the darkness, and the darkness did not comprehend it.",
+      "likeCount": 0,
+      "timestamps": [
+        {
+          "timestampText": "3:33",
+          "seconds": 213,
+          "relativePosition": 0.891213389121339
+        }
+      ],
+      "functionLabel": "other",
+      "sentimentScore": 0
+    },
+    {
+      "cleanedText": "0:55 chicken",
+      "likeCount": 0,
+      "timestamps": [
+        {
+          "timestampText": "0:55",
+          "seconds": 55,
+          "relativePosition": 0.2301255230125523
+        }
+      ],
+      "functionLabel": "other",
+      "sentimentScore": 0
+    },
+    {
+      "cleanedText": "2:50 Cats VS snakes be like:",
+      "likeCount": 0,
+      "timestamps": [
+        {
+          "timestampText": "2:50",
+          "seconds": 170,
+          "relativePosition": 0.7112970711297071
+        }
+      ],
+      "functionLabel": "other",
+      "sentimentScore": 0
+    },
+    {
+      "cleanedText": "3:39, 3:40, & 3:41 Bye bye, Smith.",
+      "likeCount": 0,
+      "timestamps": [
+        {
+          "timestampText": "3:39",
+          "seconds": 219,
+          "relativePosition": 0.9163179916317992
+        },
+        {
+          "timestampText": "3:40",
+          "seconds": 220,
+          "relativePosition": 0.9205020920502092
+        },
+        {
+          "timestampText": "3:41",
+          "seconds": 221,
+          "relativePosition": 0.9246861924686193
+        }
+      ],
+      "functionLabel": "other",
+      "sentimentScore": 0
+    },
+    {
+      "cleanedText": "02:06 No. 03:56 Nope...",
+      "likeCount": 0,
+      "timestamps": [
+        {
+          "timestampText": "02:06",
+          "seconds": 126,
+          "relativePosition": 0.5271966527196653
+        },
+        {
+          "timestampText": "03:56",
+          "seconds": 236,
+          "relativePosition": 0.9874476987447699
+        }
+      ],
+      "functionLabel": "other",
+      "sentimentScore": 0
+    },
+    {
+      "cleanedText": "3:15 Neo worst mistake was to dive into Smith body",
+      "likeCount": 0,
+      "timestamps": [
+        {
+          "timestampText": "3:15",
+          "seconds": 195,
+          "relativePosition": 0.8158995815899581
+        }
+      ],
+      "functionLabel": "other",
+      "sentimentScore": -1
+    },
+    {
+      "cleanedText": "(0:26) \"I killed you Mr. Anderson, I watched you die.\" (1:08) \"With a certain satisfaction I might add.\" (2:01 - 3:40) \"And then something happened, something that I knew was impossible but it happened anyway. You destroyed ME, Mr. Anderson.\"",
+      "likeCount": 0,
+      "timestamps": [
+        {
+          "timestampText": "0:26",
+          "seconds": 26,
+          "relativePosition": 0.1087866108786611
+        },
+        {
+          "timestampText": "1:08",
+          "seconds": 68,
+          "relativePosition": 0.28451882845188287
+        },
+        {
+          "timestampText": "2:01",
+          "seconds": 121,
+          "relativePosition": 0.5062761506276151
+        },
+        {
+          "timestampText": "3:40",
+          "seconds": 220,
+          "relativePosition": 0.9205020920502092
+        }
+      ],
+      "functionLabel": "other",
+      "sentimentScore": 0
+    },
+    {
+      "cleanedText": "1:33 Trinity casually exploating the fact that Neo is unconscious/literaly dead and unable to consent, say no and/or resist. Lol",
+      "likeCount": 3,
+      "timestamps": [
+        {
+          "timestampText": "1:33",
+          "seconds": 93,
+          "relativePosition": 0.3891213389121339
+        }
+      ],
+      "functionLabel": "humor",
+      "sentimentScore": 0
+    },
+    {
+      "cleanedText": "2:51 Ai agent Vs human",
+      "likeCount": 0,
+      "timestamps": [
+        {
+          "timestampText": "2:51",
+          "seconds": 171,
+          "relativePosition": 0.7154811715481172
+        }
+      ],
+      "functionLabel": "other",
+      "sentimentScore": 0
+    },
+    {
+      "cleanedText": "1:42 that kiss wasn’t acting …..",
+      "likeCount": 3,
+      "timestamps": [
+        {
+          "timestampText": "1:42",
+          "seconds": 102,
+          "relativePosition": 0.42677824267782427
+        }
+      ],
+      "functionLabel": "other",
+      "sentimentScore": 0
+    },
+    {
+      "cleanedText": "2:35 When you realize that all the dictatorships, corrupt republics, cartels, criminal factions and everything bad in Latin America was caused by the Americans and the CIA",
+      "likeCount": 0,
+      "timestamps": [
+        {
+          "timestampText": "2:35",
+          "seconds": 155,
+          "relativePosition": 0.6485355648535565
+        }
+      ],
+      "functionLabel": "other",
+      "sentimentScore": -1
+    },
+    {
+      "cleanedText": "🦍 2:39 look closer. evolution is wrong. the bible is correct. the text books r some parts wrong, most right but some parts wrong. especially, evolution part and stuff.",
+      "likeCount": 0,
+      "timestamps": [
+        {
+          "timestampText": "2:39",
+          "seconds": 159,
+          "relativePosition": 0.6652719665271967
+        }
+      ],
+      "functionLabel": "other",
+      "sentimentScore": -3
+    },
+    {
+      "cleanedText": "@02:40 RIP to the terms Racist, Misogynist, Homophobe, Transphobe, Islamophobe, Anti-Semite, etc. They no longer hold any weight. America First 🇺🇸 🖕",
+      "likeCount": 0,
+      "timestamps": [
+        {
+          "timestampText": "02:40",
+          "seconds": 160,
+          "relativePosition": 0.6694560669456067
+        }
+      ],
+      "functionLabel": "other",
+      "sentimentScore": 0
+    }
+  ],
+  "bins": [
+    {
+      "binIndex": 0,
+      "relativeStart": 0,
+      "relativeEnd": 0.01,
+      "startSeconds": 0,
+      "endSeconds": 2.39,
+      "midpointSeconds": 1.195,
+      "isFirstBin": true,
+      "isLastBin": false,
+      "replayIntensity": 0.32490406075573475,
+      "localReplayProminence": 0.1373291587479631,
+      "timestampCommentCount": 2,
+      "timestampReferenceCount": 2,
+      "commentRateSmoothed": 1.8181818181818183,
+      "commentRateSmoothedNormalized": 0.006913238852402351,
+      "commentRateSmoothedLogNormalized": 0.34585598347131563,
+      "timestampCountRate": 0.009505703422053232,
+      "logNormalizedTimestampCount": 0.3667257913420846,
+      "meanAbsoluteSentiment": 0,
+      "functionCounts": {
+        "excitement_appreciation": 0,
+        "confusion": 0,
+        "humor": 0,
+        "instructional_reference": 0,
+        "quality_complaint": 0,
+        "navigation_indexing": 0,
+        "other": 2
+      },
+      "durationSeconds": 239,
+      "videoViewCount": 34010787,
+      "videoCommentCount": 10041,
+      "reliabilityWeight": 159.80014194059623
+    },
+    {
+      "binIndex": 1,
+      "relativeStart": 0.01,
+      "relativeEnd": 0.02,
+      "startSeconds": 2.39,
+      "endSeconds": 4.78,
+      "midpointSeconds": 3.585,
+      "isFirstBin": false,
+      "isLastBin": false,
+      "replayIntensity": 0.18757490200777166,
+      "localReplayProminence": -0.04163291121143761,
+      "timestampCommentCount": 2,
+      "timestampReferenceCount": 2,
+      "commentRateSmoothed": 1.5,
+      "commentRateSmoothedNormalized": 0.005703422053231939,
+      "commentRateSmoothedLogNormalized": 0.3058653605207225,
+      "timestampCountRate": 0.009505703422053232,
+      "logNormalizedTimestampCount": 0.3667257913420846,
+      "meanAbsoluteSentiment": 0,
+      "functionCounts": {
+        "excitement_appreciation": 0,
+        "confusion": 0,
+        "humor": 0,
+        "instructional_reference": 0,
+        "quality_complaint": 0,
+        "navigation_indexing": 0,
+        "other": 2
+      },
+      "durationSeconds": 239,
+      "videoViewCount": 34010787,
+      "videoCommentCount": 10041,
+      "reliabilityWeight": 159.80014194059623
+    },
+    {
+      "binIndex": 2,
+      "relativeStart": 0.02,
+      "relativeEnd": 0.03,
+      "startSeconds": 4.78,
+      "endSeconds": 7.17,
+      "midpointSeconds": 5.9750000000000005,
+      "isFirstBin": false,
+      "isLastBin": false,
+      "replayIntensity": 0.1335115656826838,
+      "localReplayProminence": -0.07158471877493458,
+      "timestampCommentCount": 1,
+      "timestampReferenceCount": 1,
+      "commentRateSmoothed": 1,
+      "commentRateSmoothedNormalized": 0.0038022813688212928,
+      "commentRateSmoothedLogNormalized": 0.23137821315975918,
+      "timestampCountRate": 0.005703422053231939,
+      "logNormalizedTimestampCount": 0.23137821315975918,
+      "meanAbsoluteSentiment": 0,
+      "functionCounts": {
+        "excitement_appreciation": 0,
+        "confusion": 0,
+        "humor": 0,
+        "instructional_reference": 0,
+        "quality_complaint": 0,
+        "navigation_indexing": 0,
+        "other": 1
+      },
+      "durationSeconds": 239,
+      "videoViewCount": 34010787,
+      "videoCommentCount": 10041,
+      "reliabilityWeight": 159.80014194059623
+    },
+    {
+      "binIndex": 3,
+      "relativeStart": 0.03,
+      "relativeEnd": 0.04,
+      "startSeconds": 7.17,
+      "endSeconds": 9.56,
+      "midpointSeconds": 8.365,
+      "isFirstBin": false,
+      "isLastBin": false,
+      "replayIntensity": 0.10280989060934866,
+      "localReplayProminence": -0.03615803166664498,
+      "timestampCommentCount": 0,
+      "timestampReferenceCount": 0,
+      "commentRateSmoothed": 0.5625,
+      "commentRateSmoothedNormalized": 0.0021387832699619773,
+      "commentRateSmoothedLogNormalized": 0.1489742947219266,
+      "timestampCountRate": 0.0019011406844106464,
+      "logNormalizedTimestampCount": 0,
+      "meanAbsoluteSentiment": 0,
+      "functionCounts": {
+        "excitement_appreciation": 0,
+        "confusion": 0,
+        "humor": 0,
+        "instructional_reference": 0,
+        "quality_complaint": 0,
+        "navigation_indexing": 0,
+        "other": 0
+      },
+      "durationSeconds": 239,
+      "videoViewCount": 34010787,
+      "videoCommentCount": 10041,
+      "reliabilityWeight": 159.80014194059623
+    },
+    {
+      "binIndex": 4,
+      "relativeStart": 0.04,
+      "relativeEnd": 0.05,
+      "startSeconds": 9.56,
+      "endSeconds": 11.950000000000001,
+      "midpointSeconds": 10.754999999999999,
+      "isFirstBin": false,
+      "isLastBin": false,
+      "replayIntensity": 0.09581729913752546,
+      "localReplayProminence": -0.009556807608740545,
+      "timestampCommentCount": 0,
+      "timestampReferenceCount": 0,
+      "commentRateSmoothed": 0.43749999999999994,
+      "commentRateSmoothedNormalized": 0.0016634980988593153,
+      "commentRateSmoothedLogNormalized": 0.12114082987089998,
+      "timestampCountRate": 0.0019011406844106464,
+      "logNormalizedTimestampCount": 0,
+      "meanAbsoluteSentiment": 0,
+      "functionCounts": {
+        "excitement_appreciation": 0,
+        "confusion": 0,
+        "humor": 0,
+        "instructional_reference": 0,
+        "quality_complaint": 0,
+        "navigation_indexing": 0,
+        "other": 0
+      },
+      "durationSeconds": 239,
+      "videoViewCount": 34010787,
+      "videoCommentCount": 10041,
+      "reliabilityWeight": 159.80014194059623
+    },
+    {
+      "binIndex": 5,
+      "relativeStart": 0.05,
+      "relativeEnd": 0.06,
+      "startSeconds": 11.950000000000001,
+      "endSeconds": 14.34,
+      "midpointSeconds": 13.145,
+      "isFirstBin": false,
+      "isLastBin": false,
+      "replayIntensity": 0.07980086394676555,
+      "localReplayProminence": -0.014625809716073787,
+      "timestampCommentCount": 1,
+      "timestampReferenceCount": 1,
+      "commentRateSmoothed": 1.1875,
+      "commentRateSmoothedNormalized": 0.004515209125475285,
+      "commentRateSmoothedLogNormalized": 0.2612914866123884,
+      "timestampCountRate": 0.005703422053231939,
+      "logNormalizedTimestampCount": 0.23137821315975918,
+      "meanAbsoluteSentiment": 0,
+      "functionCounts": {
+        "excitement_appreciation": 0,
+        "confusion": 0,
+        "humor": 0,
+        "instructional_reference": 0,
+        "quality_complaint": 0,
+        "navigation_indexing": 1,
+        "other": 0
+      },
+      "durationSeconds": 239,
+      "videoViewCount": 34010787,
+      "videoCommentCount": 10041,
+      "reliabilityWeight": 159.80014194059623
+    },
+    {
+      "binIndex": 6,
+      "relativeStart": 0.06,
+      "relativeEnd": 0.07,
+      "startSeconds": 14.34,
+      "endSeconds": 16.73,
+      "midpointSeconds": 15.535,
+      "isFirstBin": false,
+      "isLastBin": false,
+      "replayIntensity": 0.08465283124164392,
+      "localReplayProminence": -0.010123778701391348,
+      "timestampCommentCount": 1,
+      "timestampReferenceCount": 1,
+      "commentRateSmoothed": 1.5,
+      "commentRateSmoothedNormalized": 0.005703422053231939,
+      "commentRateSmoothedLogNormalized": 0.3058653605207225,
+      "timestampCountRate": 0.005703422053231939,
+      "logNormalizedTimestampCount": 0.23137821315975918,
+      "meanAbsoluteSentiment": 0,
+      "functionCounts": {
+        "excitement_appreciation": 0,
+        "confusion": 0,
+        "humor": 0,
+        "instructional_reference": 0,
+        "quality_complaint": 0,
+        "navigation_indexing": 0,
+        "other": 1
+      },
+      "durationSeconds": 239,
+      "videoViewCount": 34010787,
+      "videoCommentCount": 10041,
+      "reliabilityWeight": 159.80014194059623
+    },
+    {
+      "binIndex": 7,
+      "relativeStart": 0.07,
+      "relativeEnd": 0.08,
+      "startSeconds": 16.73,
+      "endSeconds": 19.12,
+      "midpointSeconds": 17.925000000000004,
+      "isFirstBin": false,
+      "isLastBin": false,
+      "replayIntensity": 0.10871166674481485,
+      "localReplayProminence": 0.014855726205928566,
+      "timestampCommentCount": 5,
+      "timestampReferenceCount": 5,
+      "commentRateSmoothed": 2.3125,
+      "commentRateSmoothedNormalized": 0.00879277566539924,
+      "commentRateSmoothedLogNormalized": 0.3998031472590319,
+      "timestampCountRate": 0.02091254752851711,
+      "logNormalizedTimestampCount": 0.5981040045018439,
+      "meanAbsoluteSentiment": 0.2,
+      "functionCounts": {
+        "excitement_appreciation": 0,
+        "confusion": 0,
+        "humor": 1,
+        "instructional_reference": 0,
+        "quality_complaint": 0,
+        "navigation_indexing": 2,
+        "other": 2
+      },
+      "durationSeconds": 239,
+      "videoViewCount": 34010787,
+      "videoCommentCount": 10041,
+      "reliabilityWeight": 159.80014194059623
+    },
+    {
+      "binIndex": 8,
+      "relativeStart": 0.08,
+      "relativeEnd": 0.09,
+      "startSeconds": 19.12,
+      "endSeconds": 21.509999999999998,
+      "midpointSeconds": 20.314999999999998,
+      "isFirstBin": false,
+      "isLastBin": false,
+      "replayIntensity": 0.11711412642824937,
+      "localReplayProminence": 0.019567970027198164,
+      "timestampCommentCount": 0,
+      "timestampReferenceCount": 0,
+      "commentRateSmoothed": 1.5,
+      "commentRateSmoothedNormalized": 0.005703422053231939,
+      "commentRateSmoothedLogNormalized": 0.3058653605207225,
+      "timestampCountRate": 0.0019011406844106464,
+      "logNormalizedTimestampCount": 0,
+      "meanAbsoluteSentiment": 0,
+      "functionCounts": {
+        "excitement_appreciation": 0,
+        "confusion": 0,
+        "humor": 0,
+        "instructional_reference": 0,
+        "quality_complaint": 0,
+        "navigation_indexing": 0,
+        "other": 0
+      },
+      "durationSeconds": 239,
+      "videoViewCount": 34010787,
+      "videoCommentCount": 10041,
+      "reliabilityWeight": 159.80014194059623
+    },
+    {
+      "binIndex": 9,
+      "relativeStart": 0.09,
+      "relativeEnd": 0.1,
+      "startSeconds": 21.509999999999998,
+      "endSeconds": 23.900000000000002,
+      "midpointSeconds": 22.705000000000002,
+      "isFirstBin": false,
+      "isLastBin": false,
+      "replayIntensity": 0.09927397121669493,
+      "localReplayProminence": -0.005658697854664982,
+      "timestampCommentCount": 1,
+      "timestampReferenceCount": 1,
+      "commentRateSmoothed": 1.375,
+      "commentRateSmoothedNormalized": 0.005228136882129277,
+      "commentRateSmoothedLogNormalized": 0.28874323821347814,
+      "timestampCountRate": 0.005703422053231939,
+      "logNormalizedTimestampCount": 0.23137821315975918,
+      "meanAbsoluteSentiment": 0,
+      "functionCounts": {
+        "excitement_appreciation": 0,
+        "confusion": 0,
+        "humor": 0,
+        "instructional_reference": 0,
+        "quality_complaint": 0,
+        "navigation_indexing": 0,
+        "other": 1
+      },
+      "durationSeconds": 239,
+      "videoViewCount": 34010787,
+      "videoCommentCount": 10041,
+      "reliabilityWeight": 159.80014194059623
+    },
+    {
+      "binIndex": 10,
+      "relativeStart": 0.1,
+      "relativeEnd": 0.11,
+      "startSeconds": 23.900000000000002,
+      "endSeconds": 26.29,
+      "midpointSeconds": 25.095000000000002,
+      "isFirstBin": false,
+      "isLastBin": false,
+      "replayIntensity": 0.0889722140410156,
+      "localReplayProminence": -0.010013013295309375,
+      "timestampCommentCount": 2,
+      "timestampReferenceCount": 2,
+      "commentRateSmoothed": 0.9375,
+      "commentRateSmoothedNormalized": 0.003564638783269962,
+      "commentRateSmoothedLogNormalized": 0.22078023730095014,
+      "timestampCountRate": 0.009505703422053232,
+      "logNormalizedTimestampCount": 0.3667257913420846,
+      "meanAbsoluteSentiment": 0,
+      "functionCounts": {
+        "excitement_appreciation": 0,
+        "confusion": 0,
+        "humor": 0,
+        "instructional_reference": 0,
+        "quality_complaint": 0,
+        "navigation_indexing": 0,
+        "other": 2
+      },
+      "durationSeconds": 239,
+      "videoViewCount": 34010787,
+      "videoCommentCount": 10041,
+      "reliabilityWeight": 159.80014194059623
+    },
+    {
+      "binIndex": 11,
+      "relativeStart": 0.11,
+      "relativeEnd": 0.12,
+      "startSeconds": 26.29,
+      "endSeconds": 28.68,
+      "midpointSeconds": 27.485,
+      "isFirstBin": false,
+      "isLastBin": false,
+      "replayIntensity": 0.08056758436403064,
+      "localReplayProminence": -0.004035836975447654,
+      "timestampCommentCount": 0,
+      "timestampReferenceCount": 0,
+      "commentRateSmoothed": 0.5,
+      "commentRateSmoothedNormalized": 0.0019011406844106464,
+      "commentRateSmoothedLogNormalized": 0.13534757818232546,
+      "timestampCountRate": 0.0019011406844106464,
+      "logNormalizedTimestampCount": 0,
+      "meanAbsoluteSentiment": 0,
+      "functionCounts": {
+        "excitement_appreciation": 0,
+        "confusion": 0,
+        "humor": 0,
+        "instructional_reference": 0,
+        "quality_complaint": 0,
+        "navigation_indexing": 0,
+        "other": 0
+      },
+      "durationSeconds": 239,
+      "videoViewCount": 34010787,
+      "videoCommentCount": 10041,
+      "reliabilityWeight": 159.80014194059623
+    },
+    {
+      "binIndex": 12,
+      "relativeStart": 0.12,
+      "relativeEnd": 0.13,
+      "startSeconds": 28.68,
+      "endSeconds": 31.07,
+      "midpointSeconds": 29.875,
+      "isFirstBin": false,
+      "isLastBin": false,
+      "replayIntensity": 0.06556407876072434,
+      "localReplayProminence": -0.00840433183473295,
+      "timestampCommentCount": 0,
+      "timestampReferenceCount": 0,
+      "commentRateSmoothed": 0.25,
+      "commentRateSmoothedNormalized": 0.0009505703422053232,
+      "commentRateSmoothedLogNormalized": 0.0744871473609633,
+      "timestampCountRate": 0.0019011406844106464,
+      "logNormalizedTimestampCount": 0,
+      "meanAbsoluteSentiment": 0,
+      "functionCounts": {
+        "excitement_appreciation": 0,
+        "confusion": 0,
+        "humor": 0,
+        "instructional_reference": 0,
+        "quality_complaint": 0,
+        "navigation_indexing": 0,
+        "other": 0
+      },
+      "durationSeconds": 239,
+      "videoViewCount": 34010787,
+      "videoCommentCount": 10041,
+      "reliabilityWeight": 159.80014194059623
+    },
+    {
+      "binIndex": 13,
+      "relativeStart": 0.13,
+      "relativeEnd": 0.14,
+      "startSeconds": 31.07,
+      "endSeconds": 33.46,
+      "midpointSeconds": 32.265,
+      "isFirstBin": false,
+      "isLastBin": false,
+      "replayIntensity": 0.05236543338132565,
+      "localReplayProminence": -0.007630424200267313,
+      "timestampCommentCount": 0,
+      "timestampReferenceCount": 0,
+      "commentRateSmoothed": 0.125,
+      "commentRateSmoothedNormalized": 0.0004752851711026616,
+      "commentRateSmoothedLogNormalized": 0.039316943204891736,
+      "timestampCountRate": 0.0019011406844106464,
+      "logNormalizedTimestampCount": 0,
+      "meanAbsoluteSentiment": 0,
+      "functionCounts": {
+        "excitement_appreciation": 0,
+        "confusion": 0,
+        "humor": 0,
+        "instructional_reference": 0,
+        "quality_complaint": 0,
+        "navigation_indexing": 0,
+        "other": 0
+      },
+      "durationSeconds": 239,
+      "videoViewCount": 34010787,
+      "videoCommentCount": 10041,
+      "reliabilityWeight": 159.80014194059623
+    },
+    {
+      "binIndex": 14,
+      "relativeStart": 0.14,
+      "relativeEnd": 0.15,
+      "startSeconds": 33.46,
+      "endSeconds": 35.85,
+      "midpointSeconds": 34.655,
+      "isFirstBin": false,
+      "isLastBin": false,
+      "replayIntensity": 0.03385590962002392,
+      "localReplayProminence": -0.012433050734931436,
+      "timestampCommentCount": 0,
+      "timestampReferenceCount": 0,
+      "commentRateSmoothed": 0.3125,
+      "commentRateSmoothedNormalized": 0.001188212927756654,
+      "commentRateSmoothedLogNormalized": 0.09077370427399137,
+      "timestampCountRate": 0.0019011406844106464,
+      "logNormalizedTimestampCount": 0,
+      "meanAbsoluteSentiment": 0,
+      "functionCounts": {
+        "excitement_appreciation": 0,
+        "confusion": 0,
+        "humor": 0,
+        "instructional_reference": 0,
+        "quality_complaint": 0,
+        "navigation_indexing": 0,
+        "other": 0
+      },
+      "durationSeconds": 239,
+      "videoViewCount": 34010787,
+      "videoCommentCount": 10041,
+      "reliabilityWeight": 159.80014194059623
+    },
+    {
+      "binIndex": 15,
+      "relativeStart": 0.15,
+      "relativeEnd": 0.16,
+      "startSeconds": 35.85,
+      "endSeconds": 38.24,
+      "midpointSeconds": 37.045,
+      "isFirstBin": false,
+      "isLastBin": false,
+      "replayIntensity": 0.02093736892281605,
+      "localReplayProminence": -0.015913413683230473,
+      "timestampCommentCount": 1,
+      "timestampReferenceCount": 1,
+      "commentRateSmoothed": 0.6875,
+      "commentRateSmoothedNormalized": 0.0026140684410646386,
+      "commentRateSmoothedLogNormalized": 0.17466452138721722,
+      "timestampCountRate": 0.005703422053231939,
+      "logNormalizedTimestampCount": 0.23137821315975918,
+      "meanAbsoluteSentiment": 1,
+      "functionCounts": {
+        "excitement_appreciation": 0,
+        "confusion": 0,
+        "humor": 0,
+        "instructional_reference": 1,
+        "quality_complaint": 0,
+        "navigation_indexing": 0,
+        "other": 0
+      },
+      "durationSeconds": 239,
+      "videoViewCount": 34010787,
+      "videoCommentCount": 10041,
+      "reliabilityWeight": 159.80014194059623
+    },
+    {
+      "binIndex": 16,
+      "relativeStart": 0.16,
+      "relativeEnd": 0.17,
+      "startSeconds": 38.24,
+      "endSeconds": 40.63,
+      "midpointSeconds": 39.435,
+      "isFirstBin": false,
+      "isLastBin": false,
+      "replayIntensity": 0.024331004816789997,
+      "localReplayProminence": -0.004054877605130437,
+      "timestampCommentCount": 1,
+      "timestampReferenceCount": 1,
+      "commentRateSmoothed": 0.8750000000000001,
+      "commentRateSmoothedNormalized": 0.0033269961977186314,
+      "commentRateSmoothedLogNormalized": 0.2098347255432888,
+      "timestampCountRate": 0.005703422053231939,
+      "logNormalizedTimestampCount": 0.23137821315975918,
+      "meanAbsoluteSentiment": 0,
+      "functionCounts": {
+        "excitement_appreciation": 0,
+        "confusion": 0,
+        "humor": 0,
+        "instructional_reference": 0,
+        "quality_complaint": 0,
+        "navigation_indexing": 0,
+        "other": 1
+      },
+      "durationSeconds": 239,
+      "videoViewCount": 34010787,
+      "videoCommentCount": 10041,
+      "reliabilityWeight": 159.80014194059623
+    },
+    {
+      "binIndex": 17,
+      "relativeStart": 0.17,
+      "relativeEnd": 0.18,
+      "startSeconds": 40.63,
+      "endSeconds": 43.019999999999996,
+      "midpointSeconds": 41.824999999999996,
+      "isFirstBin": false,
+      "isLastBin": false,
+      "replayIntensity": 0.030364368722921344,
+      "localReplayProminence": -0.00045270958584862214,
+      "timestampCommentCount": 1,
+      "timestampReferenceCount": 1,
+      "commentRateSmoothed": 1,
+      "commentRateSmoothedNormalized": 0.0038022813688212928,
+      "commentRateSmoothedLogNormalized": 0.23137821315975918,
+      "timestampCountRate": 0.005703422053231939,
+      "logNormalizedTimestampCount": 0.23137821315975918,
+      "meanAbsoluteSentiment": 0,
+      "functionCounts": {
+        "excitement_appreciation": 0,
+        "confusion": 0,
+        "humor": 0,
+        "instructional_reference": 0,
+        "quality_complaint": 0,
+        "navigation_indexing": 0,
+        "other": 1
+      },
+      "durationSeconds": 239,
+      "videoViewCount": 34010787,
+      "videoCommentCount": 10041,
+      "reliabilityWeight": 159.80014194059623
+    },
+    {
+      "binIndex": 18,
+      "relativeStart": 0.18,
+      "relativeEnd": 0.19,
+      "startSeconds": 43.019999999999996,
+      "endSeconds": 45.410000000000004,
+      "midpointSeconds": 44.214999999999996,
+      "isFirstBin": false,
+      "isLastBin": false,
+      "replayIntensity": 0.04718286118670385,
+      "localReplayProminence": 0.010105268160002255,
+      "timestampCommentCount": 1,
+      "timestampReferenceCount": 1,
+      "commentRateSmoothed": 0.8749999999999999,
+      "commentRateSmoothedNormalized": 0.0033269961977186306,
+      "commentRateSmoothedLogNormalized": 0.20983472554328875,
+      "timestampCountRate": 0.005703422053231939,
+      "logNormalizedTimestampCount": 0.23137821315975918,
+      "meanAbsoluteSentiment": 0,
+      "functionCounts": {
+        "excitement_appreciation": 0,
+        "confusion": 0,
+        "humor": 0,
+        "instructional_reference": 0,
+        "quality_complaint": 0,
+        "navigation_indexing": 0,
+        "other": 1
+      },
+      "durationSeconds": 239,
+      "videoViewCount": 34010787,
+      "videoCommentCount": 10041,
+      "reliabilityWeight": 159.80014194059623
+    },
+    {
+      "binIndex": 19,
+      "relativeStart": 0.19,
+      "relativeEnd": 0.2,
+      "startSeconds": 45.410000000000004,
+      "endSeconds": 47.800000000000004,
+      "midpointSeconds": 46.605000000000004,
+      "isFirstBin": false,
+      "isLastBin": false,
+      "replayIntensity": 0.05653740554039346,
+      "localReplayProminence": 0.017549237791892852,
+      "timestampCommentCount": 1,
+      "timestampReferenceCount": 1,
+      "commentRateSmoothed": 0.6875,
+      "commentRateSmoothedNormalized": 0.0026140684410646386,
+      "commentRateSmoothedLogNormalized": 0.17466452138721722,
+      "timestampCountRate": 0.005703422053231939,
+      "logNormalizedTimestampCount": 0.23137821315975918,
+      "meanAbsoluteSentiment": 0,
+      "functionCounts": {
+        "excitement_appreciation": 0,
+        "confusion": 0,
+        "humor": 0,
+        "instructional_reference": 0,
+        "quality_complaint": 0,
+        "navigation_indexing": 0,
+        "other": 1
+      },
+      "durationSeconds": 239,
+      "videoViewCount": 34010787,
+      "videoCommentCount": 10041,
+      "reliabilityWeight": 159.80014194059623
+    },
+    {
+      "binIndex": 20,
+      "relativeStart": 0.2,
+      "relativeEnd": 0.21,
+      "startSeconds": 47.800000000000004,
+      "endSeconds": 50.19,
+      "midpointSeconds": 48.995000000000005,
+      "isFirstBin": false,
+      "isLastBin": false,
+      "replayIntensity": 0.03941727333587655,
+      "localReplayProminence": -0.0024806678394843837,
+      "timestampCommentCount": 0,
+      "timestampReferenceCount": 0,
+      "commentRateSmoothed": 0.3125,
+      "commentRateSmoothedNormalized": 0.001188212927756654,
+      "commentRateSmoothedLogNormalized": 0.09077370427399137,
+      "timestampCountRate": 0.0019011406844106464,
+      "logNormalizedTimestampCount": 0,
+      "meanAbsoluteSentiment": 0,
+      "functionCounts": {
+        "excitement_appreciation": 0,
+        "confusion": 0,
+        "humor": 0,
+        "instructional_reference": 0,
+        "quality_complaint": 0,
+        "navigation_indexing": 0,
+        "other": 0
+      },
+      "durationSeconds": 239,
+      "videoViewCount": 34010787,
+      "videoCommentCount": 10041,
+      "reliabilityWeight": 159.80014194059623
+    },
+    {
+      "binIndex": 21,
+      "relativeStart": 0.21,
+      "relativeEnd": 0.22,
+      "startSeconds": 50.19,
+      "endSeconds": 52.58,
+      "midpointSeconds": 51.385,
+      "isFirstBin": false,
+      "isLastBin": false,
+      "replayIntensity": 0.021973556798985498,
+      "localReplayProminence": -0.018425640391335204,
+      "timestampCommentCount": 0,
+      "timestampReferenceCount": 0,
+      "commentRateSmoothed": 0.8750000000000001,
+      "commentRateSmoothedNormalized": 0.0033269961977186314,
+      "commentRateSmoothedLogNormalized": 0.2098347255432888,
+      "timestampCountRate": 0.0019011406844106464,
+      "logNormalizedTimestampCount": 0,
+      "meanAbsoluteSentiment": 0,
+      "functionCounts": {
+        "excitement_appreciation": 0,
+        "confusion": 0,
+        "humor": 0,
+        "instructional_reference": 0,
+        "quality_complaint": 0,
+        "navigation_indexing": 0,
+        "other": 0
+      },
+      "durationSeconds": 239,
+      "videoViewCount": 34010787,
+      "videoCommentCount": 10041,
+      "reliabilityWeight": 159.80014194059623
+    },
+    {
+      "binIndex": 22,
+      "relativeStart": 0.22,
+      "relativeEnd": 0.23,
+      "startSeconds": 52.58,
+      "endSeconds": 54.97,
+      "midpointSeconds": 53.775,
+      "isFirstBin": false,
+      "isLastBin": false,
+      "replayIntensity": 0.025242912694692036,
+      "localReplayProminence": -0.004574270170891386,
+      "timestampCommentCount": 0,
+      "timestampReferenceCount": 0,
+      "commentRateSmoothed": 1.125,
+      "commentRateSmoothedNormalized": 0.0042775665399239545,
+      "commentRateSmoothedLogNormalized": 0.25161520908613844,
+      "timestampCountRate": 0.0019011406844106464,
+      "logNormalizedTimestampCount": 0,
+      "meanAbsoluteSentiment": 0,
+      "functionCounts": {
+        "excitement_appreciation": 0,
+        "confusion": 0,
+        "humor": 0,
+        "instructional_reference": 0,
+        "quality_complaint": 0,
+        "navigation_indexing": 0,
+        "other": 0
+      },
+      "durationSeconds": 239,
+      "videoViewCount": 34010787,
+      "videoCommentCount": 10041,
+      "reliabilityWeight": 159.80014194059623
+    },
+    {
+      "binIndex": 23,
+      "relativeStart": 0.23,
+      "relativeEnd": 0.24,
+      "startSeconds": 54.97,
+      "endSeconds": 57.36,
+      "midpointSeconds": 56.165,
+      "isFirstBin": false,
+      "isLastBin": false,
+      "replayIntensity": 0.02806071846188815,
+      "localReplayProminence": 0.0028228814955743066,
+      "timestampCommentCount": 6,
+      "timestampReferenceCount": 6,
+      "commentRateSmoothed": 2.25,
+      "commentRateSmoothedNormalized": 0.008555133079847909,
+      "commentRateSmoothedLogNormalized": 0.39344470356937045,
+      "timestampCountRate": 0.024714828897338403,
+      "logNormalizedTimestampCount": 0.6495607655709434,
+      "meanAbsoluteSentiment": 0.16666666666666666,
+      "functionCounts": {
+        "excitement_appreciation": 0,
+        "confusion": 0,
+        "humor": 0,
+        "instructional_reference": 0,
+        "quality_complaint": 0,
+        "navigation_indexing": 2,
+        "other": 4
+      },
+      "durationSeconds": 239,
+      "videoViewCount": 34010787,
+      "videoCommentCount": 10041,
+      "reliabilityWeight": 159.80014194059623
+    },
+    {
+      "binIndex": 24,
+      "relativeStart": 0.24,
+      "relativeEnd": 0.25,
+      "startSeconds": 57.36,
+      "endSeconds": 59.75,
+      "midpointSeconds": 58.555,
+      "isFirstBin": false,
+      "isLastBin": false,
+      "replayIntensity": 0.028497041405263997,
+      "localReplayProminence": -0.0022652552035807086,
+      "timestampCommentCount": 0,
+      "timestampReferenceCount": 0,
+      "commentRateSmoothed": 1.125,
+      "commentRateSmoothedNormalized": 0.0042775665399239545,
+      "commentRateSmoothedLogNormalized": 0.25161520908613844,
+      "timestampCountRate": 0.0019011406844106464,
+      "logNormalizedTimestampCount": 0,
+      "meanAbsoluteSentiment": 0,
+      "functionCounts": {
+        "excitement_appreciation": 0,
+        "confusion": 0,
+        "humor": 0,
+        "instructional_reference": 0,
+        "quality_complaint": 0,
+        "navigation_indexing": 0,
+        "other": 0
+      },
+      "durationSeconds": 239,
+      "videoViewCount": 34010787,
+      "videoCommentCount": 10041,
+      "reliabilityWeight": 159.80014194059623
+    },
+    {
+      "binIndex": 25,
+      "relativeStart": 0.25,
+      "relativeEnd": 0.26,
+      "startSeconds": 59.75,
+      "endSeconds": 62.14,
+      "midpointSeconds": 60.945,
+      "isFirstBin": false,
+      "isLastBin": false,
+      "replayIntensity": 0.03898325866995393,
+      "localReplayProminence": 0.007302563704131897,
+      "timestampCommentCount": 0,
+      "timestampReferenceCount": 0,
+      "commentRateSmoothed": 0.75,
+      "commentRateSmoothedNormalized": 0.0028517110266159697,
+      "commentRateSmoothedLogNormalized": 0.1868043392514251,
+      "timestampCountRate": 0.0019011406844106464,
+      "logNormalizedTimestampCount": 0,
+      "meanAbsoluteSentiment": 0,
+      "functionCounts": {
+        "excitement_appreciation": 0,
+        "confusion": 0,
+        "humor": 0,
+        "instructional_reference": 0,
+        "quality_complaint": 0,
+        "navigation_indexing": 0,
+        "other": 0
+      },
+      "durationSeconds": 239,
+      "videoViewCount": 34010787,
+      "videoCommentCount": 10041,
+      "reliabilityWeight": 159.80014194059623
+    },
+    {
+      "binIndex": 26,
+      "relativeStart": 0.26,
+      "relativeEnd": 0.27,
+      "startSeconds": 62.14,
+      "endSeconds": 64.53,
+      "midpointSeconds": 63.335,
+      "isFirstBin": false,
+      "isLastBin": false,
+      "replayIntensity": 0.03848432503031396,
+      "localReplayProminence": 0.006129006726441073,
+      "timestampCommentCount": 0,
+      "timestampReferenceCount": 0,
+      "commentRateSmoothed": 0.375,
+      "commentRateSmoothedNormalized": 0.0014258555133079848,
+      "commentRateSmoothedLogNormalized": 0.10630246698939375,
+      "timestampCountRate": 0.0019011406844106464,
+      "logNormalizedTimestampCount": 0,
+      "meanAbsoluteSentiment": 0,
+      "functionCounts": {
+        "excitement_appreciation": 0,
+        "confusion": 0,
+        "humor": 0,
+        "instructional_reference": 0,
+        "quality_complaint": 0,
+        "navigation_indexing": 0,
+        "other": 0
+      },
+      "durationSeconds": 239,
+      "videoViewCount": 34010787,
+      "videoCommentCount": 10041,
+      "reliabilityWeight": 159.80014194059623
+    },
+    {
+      "binIndex": 27,
+      "relativeStart": 0.27,
+      "relativeEnd": 0.28,
+      "startSeconds": 64.53,
+      "endSeconds": 66.92,
+      "midpointSeconds": 65.72500000000001,
+      "isFirstBin": false,
+      "isLastBin": false,
+      "replayIntensity": 0.029585654836400722,
+      "localReplayProminence": -0.007331511134435524,
+      "timestampCommentCount": 0,
+      "timestampReferenceCount": 0,
+      "commentRateSmoothed": 0.5625,
+      "commentRateSmoothedNormalized": 0.0021387832699619773,
+      "commentRateSmoothedLogNormalized": 0.1489742947219266,
+      "timestampCountRate": 0.0019011406844106464,
+      "logNormalizedTimestampCount": 0,
+      "meanAbsoluteSentiment": 0,
+      "functionCounts": {
+        "excitement_appreciation": 0,
+        "confusion": 0,
+        "humor": 0,
+        "instructional_reference": 0,
+        "quality_complaint": 0,
+        "navigation_indexing": 0,
+        "other": 0
+      },
+      "durationSeconds": 239,
+      "videoViewCount": 34010787,
+      "videoCommentCount": 10041,
+      "reliabilityWeight": 159.80014194059623
+    },
+    {
+      "binIndex": 28,
+      "relativeStart": 0.28,
+      "relativeEnd": 0.29,
+      "startSeconds": 66.92,
+      "endSeconds": 69.31,
+      "midpointSeconds": 68.11500000000001,
+      "isFirstBin": false,
+      "isLastBin": false,
+      "replayIntensity": 0.033283914212240966,
+      "localReplayProminence": -0.0030796481098745027,
+      "timestampCommentCount": 3,
+      "timestampReferenceCount": 3,
+      "commentRateSmoothed": 1.2500000000000002,
+      "commentRateSmoothedNormalized": 0.004752851711026617,
+      "commentRateSmoothedLogNormalized": 0.27069515636465097,
+      "timestampCountRate": 0.013307984790874524,
+      "logNormalizedTimestampCount": 0.46275642631951835,
+      "meanAbsoluteSentiment": 0,
+      "functionCounts": {
+        "excitement_appreciation": 0,
+        "confusion": 0,
+        "humor": 0,
+        "instructional_reference": 0,
+        "quality_complaint": 0,
+        "navigation_indexing": 1,
+        "other": 2
+      },
+      "durationSeconds": 239,
+      "videoViewCount": 34010787,
+      "videoCommentCount": 10041,
+      "reliabilityWeight": 159.80014194059623
+    },
+    {
+      "binIndex": 29,
+      "relativeStart": 0.29,
+      "relativeEnd": 0.3,
+      "startSeconds": 69.31,
+      "endSeconds": 71.7,
+      "midpointSeconds": 70.505,
+      "isFirstBin": false,
+      "isLastBin": false,
+      "replayIntensity": 0.04102070709963172,
+      "localReplayProminence": 0.0006542051879525265,
+      "timestampCommentCount": 0,
+      "timestampReferenceCount": 0,
+      "commentRateSmoothed": 0.8750000000000001,
+      "commentRateSmoothedNormalized": 0.0033269961977186314,
+      "commentRateSmoothedLogNormalized": 0.2098347255432888,
+      "timestampCountRate": 0.0019011406844106464,
+      "logNormalizedTimestampCount": 0,
+      "meanAbsoluteSentiment": 0,
+      "functionCounts": {
+        "excitement_appreciation": 0,
+        "confusion": 0,
+        "humor": 0,
+        "instructional_reference": 0,
+        "quality_complaint": 0,
+        "navigation_indexing": 0,
+        "other": 0
+      },
+      "durationSeconds": 239,
+      "videoViewCount": 34010787,
+      "videoCommentCount": 10041,
+      "reliabilityWeight": 159.80014194059623
+    },
+    {
+      "binIndex": 30,
+      "relativeStart": 0.3,
+      "relativeEnd": 0.31,
+      "startSeconds": 71.7,
+      "endSeconds": 74.09,
+      "midpointSeconds": 72.895,
+      "isFirstBin": false,
+      "isLastBin": false,
+      "replayIntensity": 0.05822993668639602,
+      "localReplayProminence": 0.01497055503130592,
+      "timestampCommentCount": 1,
+      "timestampReferenceCount": 1,
+      "commentRateSmoothed": 0.9375,
+      "commentRateSmoothedNormalized": 0.003564638783269962,
+      "commentRateSmoothedLogNormalized": 0.22078023730095014,
+      "timestampCountRate": 0.005703422053231939,
+      "logNormalizedTimestampCount": 0.23137821315975918,
+      "meanAbsoluteSentiment": 0,
+      "functionCounts": {
+        "excitement_appreciation": 0,
+        "confusion": 0,
+        "humor": 0,
+        "instructional_reference": 0,
+        "quality_complaint": 0,
+        "navigation_indexing": 1,
+        "other": 0
+      },
+      "durationSeconds": 239,
+      "videoViewCount": 34010787,
+      "videoCommentCount": 10041,
+      "reliabilityWeight": 159.80014194059623
+    },
+    {
+      "binIndex": 31,
+      "relativeStart": 0.31,
+      "relativeEnd": 0.32,
+      "startSeconds": 74.09,
+      "endSeconds": 76.48,
+      "midpointSeconds": 75.285,
+      "isFirstBin": false,
+      "isLastBin": false,
+      "replayIntensity": 0.055473523653397736,
+      "localReplayProminence": 0.01258284588612197,
+      "timestampCommentCount": 1,
+      "timestampReferenceCount": 1,
+      "commentRateSmoothed": 0.5625,
+      "commentRateSmoothedNormalized": 0.0021387832699619773,
+      "commentRateSmoothedLogNormalized": 0.1489742947219266,
+      "timestampCountRate": 0.005703422053231939,
+      "logNormalizedTimestampCount": 0.23137821315975918,
+      "meanAbsoluteSentiment": 1,
+      "functionCounts": {
+        "excitement_appreciation": 0,
+        "confusion": 0,
+        "humor": 0,
+        "instructional_reference": 0,
+        "quality_complaint": 0,
+        "navigation_indexing": 0,
+        "other": 1
+      },
+      "durationSeconds": 239,
+      "videoViewCount": 34010787,
+      "videoCommentCount": 10041,
+      "reliabilityWeight": 159.80014194059623
+    },
+    {
+      "binIndex": 32,
+      "relativeStart": 0.32,
+      "relativeEnd": 0.33,
+      "startSeconds": 76.48,
+      "endSeconds": 78.87,
+      "midpointSeconds": 77.675,
+      "isFirstBin": false,
+      "isLastBin": false,
+      "replayIntensity": 0.029421389515799555,
+      "localReplayProminence": -0.01791623263249917,
+      "timestampCommentCount": 0,
+      "timestampReferenceCount": 0,
+      "commentRateSmoothed": 0.3125,
+      "commentRateSmoothedNormalized": 0.001188212927756654,
+      "commentRateSmoothedLogNormalized": 0.09077370427399137,
+      "timestampCountRate": 0.0019011406844106464,
+      "logNormalizedTimestampCount": 0,
+      "meanAbsoluteSentiment": 0,
+      "functionCounts": {
+        "excitement_appreciation": 0,
+        "confusion": 0,
+        "humor": 0,
+        "instructional_reference": 0,
+        "quality_complaint": 0,
+        "navigation_indexing": 0,
+        "other": 0
+      },
+      "durationSeconds": 239,
+      "videoViewCount": 34010787,
+      "videoCommentCount": 10041,
+      "reliabilityWeight": 159.80014194059623
+    },
+    {
+      "binIndex": 33,
+      "relativeStart": 0.33,
+      "relativeEnd": 0.34,
+      "startSeconds": 78.87,
+      "endSeconds": 81.26,
+      "midpointSeconds": 80.065,
+      "isFirstBin": false,
+      "isLastBin": false,
+      "replayIntensity": 0.0283094061051024,
+      "localReplayProminence": -0.012051254198122002,
+      "timestampCommentCount": 0,
+      "timestampReferenceCount": 0,
+      "commentRateSmoothed": 0.25,
+      "commentRateSmoothedNormalized": 0.0009505703422053232,
+      "commentRateSmoothedLogNormalized": 0.0744871473609633,
+      "timestampCountRate": 0.0019011406844106464,
+      "logNormalizedTimestampCount": 0,
+      "meanAbsoluteSentiment": 0,
+      "functionCounts": {
+        "excitement_appreciation": 0,
+        "confusion": 0,
+        "humor": 0,
+        "instructional_reference": 0,
+        "quality_complaint": 0,
+        "navigation_indexing": 0,
+        "other": 0
+      },
+      "durationSeconds": 239,
+      "videoViewCount": 34010787,
+      "videoCommentCount": 10041,
+      "reliabilityWeight": 159.80014194059623
+    },
+    {
+      "binIndex": 34,
+      "relativeStart": 0.34,
+      "relativeEnd": 0.35,
+      "startSeconds": 81.26,
+      "endSeconds": 83.64999999999999,
+      "midpointSeconds": 82.455,
+      "isFirstBin": false,
+      "isLastBin": false,
+      "replayIntensity": 0.03618706774047592,
+      "localReplayProminence": 0.0015141023625953667,
+      "timestampCommentCount": 0,
+      "timestampReferenceCount": 0,
+      "commentRateSmoothed": 0.1875,
+      "commentRateSmoothedNormalized": 0.0007129277566539924,
+      "commentRateSmoothedLogNormalized": 0.05736502505371899,
+      "timestampCountRate": 0.0019011406844106464,
+      "logNormalizedTimestampCount": 0,
+      "meanAbsoluteSentiment": 0,
+      "functionCounts": {
+        "excitement_appreciation": 0,
+        "confusion": 0,
+        "humor": 0,
+        "instructional_reference": 0,
+        "quality_complaint": 0,
+        "navigation_indexing": 0,
+        "other": 0
+      },
+      "durationSeconds": 239,
+      "videoViewCount": 34010787,
+      "videoCommentCount": 10041,
+      "reliabilityWeight": 159.80014194059623
+    },
+    {
+      "binIndex": 35,
+      "relativeStart": 0.35,
+      "relativeEnd": 0.36,
+      "startSeconds": 83.64999999999999,
+      "endSeconds": 86.03999999999999,
+      "midpointSeconds": 84.845,
+      "isFirstBin": false,
+      "isLastBin": false,
+      "replayIntensity": 0.0462881005127397,
+      "localReplayProminence": 0.007139005758879227,
+      "timestampCommentCount": 1,
+      "timestampReferenceCount": 1,
+      "commentRateSmoothed": 0.375,
+      "commentRateSmoothedNormalized": 0.0014258555133079848,
+      "commentRateSmoothedLogNormalized": 0.10630246698939375,
+      "timestampCountRate": 0.005703422053231939,
+      "logNormalizedTimestampCount": 0.23137821315975918,
+      "meanAbsoluteSentiment": 2,
+      "functionCounts": {
+        "excitement_appreciation": 0,
+        "confusion": 0,
+        "humor": 0,
+        "instructional_reference": 0,
+        "quality_complaint": 0,
+        "navigation_indexing": 0,
+        "other": 1
+      },
+      "durationSeconds": 239,
+      "videoViewCount": 34010787,
+      "videoCommentCount": 10041,
+      "reliabilityWeight": 159.80014194059623
+    },
+    {
+      "binIndex": 36,
+      "relativeStart": 0.36,
+      "relativeEnd": 0.37,
+      "startSeconds": 86.03999999999999,
+      "endSeconds": 88.42999999999999,
+      "midpointSeconds": 87.235,
+      "isFirstBin": false,
+      "isLastBin": false,
+      "replayIntensity": 0.05295081041600308,
+      "localReplayProminence": 0.005675501121716463,
+      "timestampCommentCount": 0,
+      "timestampReferenceCount": 0,
+      "commentRateSmoothed": 0.43749999999999994,
+      "commentRateSmoothedNormalized": 0.0016634980988593153,
+      "commentRateSmoothedLogNormalized": 0.12114082987089998,
+      "timestampCountRate": 0.0019011406844106464,
+      "logNormalizedTimestampCount": 0,
+      "meanAbsoluteSentiment": 0,
+      "functionCounts": {
+        "excitement_appreciation": 0,
+        "confusion": 0,
+        "humor": 0,
+        "instructional_reference": 0,
+        "quality_complaint": 0,
+        "navigation_indexing": 0,
+        "other": 0
+      },
+      "durationSeconds": 239,
+      "videoViewCount": 34010787,
+      "videoCommentCount": 10041,
+      "reliabilityWeight": 159.80014194059623
+    },
+    {
+      "binIndex": 37,
+      "relativeStart": 0.37,
+      "relativeEnd": 0.38,
+      "startSeconds": 88.42999999999999,
+      "endSeconds": 90.82000000000001,
+      "midpointSeconds": 89.625,
+      "isFirstBin": false,
+      "isLastBin": false,
+      "replayIntensity": 0.05935075962964423,
+      "localReplayProminence": 0.001704859687791542,
+      "timestampCommentCount": 0,
+      "timestampReferenceCount": 0,
+      "commentRateSmoothed": 1,
+      "commentRateSmoothedNormalized": 0.0038022813688212928,
+      "commentRateSmoothedLogNormalized": 0.23137821315975918,
+      "timestampCountRate": 0.0019011406844106464,
+      "logNormalizedTimestampCount": 0,
+      "meanAbsoluteSentiment": 0,
+      "functionCounts": {
+        "excitement_appreciation": 0,
+        "confusion": 0,
+        "humor": 0,
+        "instructional_reference": 0,
+        "quality_complaint": 0,
+        "navigation_indexing": 0,
+        "other": 0
+      },
+      "durationSeconds": 239,
+      "videoViewCount": 34010787,
+      "videoCommentCount": 10041,
+      "reliabilityWeight": 159.80014194059623
+    },
+    {
+      "binIndex": 38,
+      "relativeStart": 0.38,
+      "relativeEnd": 0.39,
+      "startSeconds": 90.82000000000001,
+      "endSeconds": 93.21000000000001,
+      "midpointSeconds": 92.015,
+      "isFirstBin": false,
+      "isLastBin": false,
+      "replayIntensity": 0.07369878889681528,
+      "localReplayProminence": 0.007316069431964625,
+      "timestampCommentCount": 2,
+      "timestampReferenceCount": 2,
+      "commentRateSmoothed": 1.5,
+      "commentRateSmoothedNormalized": 0.005703422053231939,
+      "commentRateSmoothedLogNormalized": 0.3058653605207225,
+      "timestampCountRate": 0.009505703422053232,
+      "logNormalizedTimestampCount": 0.3667257913420846,
+      "meanAbsoluteSentiment": 0,
+      "functionCounts": {
+        "excitement_appreciation": 0,
+        "confusion": 0,
+        "humor": 1,
+        "instructional_reference": 0,
+        "quality_complaint": 0,
+        "navigation_indexing": 0,
+        "other": 1
+      },
+      "durationSeconds": 239,
+      "videoViewCount": 34010787,
+      "videoCommentCount": 10041,
+      "reliabilityWeight": 159.80014194059623
+    },
+    {
+      "binIndex": 39,
+      "relativeStart": 0.39,
+      "relativeEnd": 0.4,
+      "startSeconds": 93.21000000000001,
+      "endSeconds": 95.60000000000001,
+      "midpointSeconds": 94.405,
+      "isFirstBin": false,
+      "isLastBin": false,
+      "replayIntensity": 0.08684658834890466,
+      "localReplayProminence": 0.01165996039378829,
+      "timestampCommentCount": 4,
+      "timestampReferenceCount": 4,
+      "commentRateSmoothed": 2.1250000000000004,
+      "commentRateSmoothedNormalized": 0.008079847908745249,
+      "commentRateSmoothedLogNormalized": 0.3803525078816859,
+      "timestampCountRate": 0.017110266159695818,
+      "logNormalizedTimestampCount": 0.5372435736804817,
+      "meanAbsoluteSentiment": 0,
+      "functionCounts": {
+        "excitement_appreciation": 0,
+        "confusion": 0,
+        "humor": 1,
+        "instructional_reference": 0,
+        "quality_complaint": 0,
+        "navigation_indexing": 0,
+        "other": 3
+      },
+      "durationSeconds": 239,
+      "videoViewCount": 34010787,
+      "videoCommentCount": 10041,
+      "reliabilityWeight": 159.80014194059623
+    },
+    {
+      "binIndex": 40,
+      "relativeStart": 0.4,
+      "relativeEnd": 0.41,
+      "startSeconds": 95.60000000000001,
+      "endSeconds": 97.99,
+      "midpointSeconds": 96.795,
+      "isFirstBin": false,
+      "isLastBin": false,
+      "replayIntensity": 0.09251033533888958,
+      "localReplayProminence": 0.0031002790044387107,
+      "timestampCommentCount": 0,
+      "timestampReferenceCount": 0,
+      "commentRateSmoothed": 1.5,
+      "commentRateSmoothedNormalized": 0.005703422053231939,
+      "commentRateSmoothedLogNormalized": 0.3058653605207225,
+      "timestampCountRate": 0.0019011406844106464,
+      "logNormalizedTimestampCount": 0,
+      "meanAbsoluteSentiment": 0,
+      "functionCounts": {
+        "excitement_appreciation": 0,
+        "confusion": 0,
+        "humor": 0,
+        "instructional_reference": 0,
+        "quality_complaint": 0,
+        "navigation_indexing": 0,
+        "other": 0
+      },
+      "durationSeconds": 239,
+      "videoViewCount": 34010787,
+      "videoCommentCount": 10041,
+      "reliabilityWeight": 159.80014194059623
+    },
+    {
+      "binIndex": 41,
+      "relativeStart": 0.41,
+      "relativeEnd": 0.42,
+      "startSeconds": 97.99,
+      "endSeconds": 100.38,
+      "midpointSeconds": 99.185,
+      "isFirstBin": false,
+      "isLastBin": false,
+      "replayIntensity": 0.10768479175763265,
+      "localReplayProminence": 0.003934613158653663,
+      "timestampCommentCount": 2,
+      "timestampReferenceCount": 2,
+      "commentRateSmoothed": 1.4375,
+      "commentRateSmoothedNormalized": 0.005465779467680608,
+      "commentRateSmoothedLogNormalized": 0.2974140685919367,
+      "timestampCountRate": 0.009505703422053232,
+      "logNormalizedTimestampCount": 0.3667257913420846,
+      "meanAbsoluteSentiment": 0,
+      "functionCounts": {
+        "excitement_appreciation": 0,
+        "confusion": 0,
+        "humor": 0,
+        "instructional_reference": 0,
+        "quality_complaint": 0,
+        "navigation_indexing": 0,
+        "other": 2
+      },
+      "durationSeconds": 239,
+      "videoViewCount": 34010787,
+      "videoCommentCount": 10041,
+      "reliabilityWeight": 159.80014194059623
+    },
+    {
+      "binIndex": 42,
+      "relativeStart": 0.42,
+      "relativeEnd": 0.43,
+      "startSeconds": 100.38,
+      "endSeconds": 102.77,
+      "midpointSeconds": 101.575,
+      "isFirstBin": false,
+      "isLastBin": false,
+      "replayIntensity": 0.1318936121091427,
+      "localReplayProminence": 0.019244630350959455,
+      "timestampCommentCount": 1,
+      "timestampReferenceCount": 1,
+      "commentRateSmoothed": 0.8750000000000001,
+      "commentRateSmoothedNormalized": 0.0033269961977186314,
+      "commentRateSmoothedLogNormalized": 0.2098347255432888,
+      "timestampCountRate": 0.005703422053231939,
+      "logNormalizedTimestampCount": 0.23137821315975918,
+      "meanAbsoluteSentiment": 0,
+      "functionCounts": {
+        "excitement_appreciation": 0,
+        "confusion": 0,
+        "humor": 0,
+        "instructional_reference": 0,
+        "quality_complaint": 0,
+        "navigation_indexing": 0,
+        "other": 1
+      },
+      "durationSeconds": 239,
+      "videoViewCount": 34010787,
+      "videoCommentCount": 10041,
+      "reliabilityWeight": 159.80014194059623
+    },
+    {
+      "binIndex": 43,
+      "relativeStart": 0.43,
+      "relativeEnd": 0.44,
+      "startSeconds": 102.77,
+      "endSeconds": 105.16,
+      "midpointSeconds": 103.965,
+      "isFirstBin": false,
+      "isLastBin": false,
+      "replayIntensity": 0.13775181817802745,
+      "localReplayProminence": 0.0042517761539039856,
+      "timestampCommentCount": 0,
+      "timestampReferenceCount": 0,
+      "commentRateSmoothed": 0.75,
+      "commentRateSmoothedNormalized": 0.0028517110266159697,
+      "commentRateSmoothedLogNormalized": 0.1868043392514251,
+      "timestampCountRate": 0.0019011406844106464,
+      "logNormalizedTimestampCount": 0,
+      "meanAbsoluteSentiment": 0,
+      "functionCounts": {
+        "excitement_appreciation": 0,
+        "confusion": 0,
+        "humor": 0,
+        "instructional_reference": 0,
+        "quality_complaint": 0,
+        "navigation_indexing": 0,
+        "other": 0
+      },
+      "durationSeconds": 239,
+      "videoViewCount": 34010787,
+      "videoCommentCount": 10041,
+      "reliabilityWeight": 159.80014194059623
+    },
+    {
+      "binIndex": 44,
+      "relativeStart": 0.44,
+      "relativeEnd": 0.45,
+      "startSeconds": 105.16,
+      "endSeconds": 107.55,
+      "midpointSeconds": 106.355,
+      "isFirstBin": false,
+      "isLastBin": false,
+      "replayIntensity": 0.16092172220559506,
+      "localReplayProminence": -0.005971861253959571,
+      "timestampCommentCount": 1,
+      "timestampReferenceCount": 1,
+      "commentRateSmoothed": 0.9375,
+      "commentRateSmoothedNormalized": 0.003564638783269962,
+      "commentRateSmoothedLogNormalized": 0.22078023730095014,
+      "timestampCountRate": 0.005703422053231939,
+      "logNormalizedTimestampCount": 0.23137821315975918,
+      "meanAbsoluteSentiment": 0,
+      "functionCounts": {
+        "excitement_appreciation": 0,
+        "confusion": 0,
+        "humor": 0,
+        "instructional_reference": 0,
+        "quality_complaint": 0,
+        "navigation_indexing": 0,
+        "other": 1
+      },
+      "durationSeconds": 239,
+      "videoViewCount": 34010787,
+      "videoCommentCount": 10041,
+      "reliabilityWeight": 159.80014194059623
+    },
+    {
+      "binIndex": 45,
+      "relativeStart": 0.45,
+      "relativeEnd": 0.46,
+      "startSeconds": 107.55,
+      "endSeconds": 109.94,
+      "midpointSeconds": 108.745,
+      "isFirstBin": false,
+      "isLastBin": false,
+      "replayIntensity": 0.23103532009149375,
+      "localReplayProminence": 0.024711670262189983,
+      "timestampCommentCount": 1,
+      "timestampReferenceCount": 1,
+      "commentRateSmoothed": 1.3125,
+      "commentRateSmoothedNormalized": 0.004990494296577947,
+      "commentRateSmoothedLogNormalized": 0.2798411586392833,
+      "timestampCountRate": 0.005703422053231939,
+      "logNormalizedTimestampCount": 0.23137821315975918,
+      "meanAbsoluteSentiment": 0,
+      "functionCounts": {
+        "excitement_appreciation": 0,
+        "confusion": 0,
+        "humor": 0,
+        "instructional_reference": 0,
+        "quality_complaint": 0,
+        "navigation_indexing": 0,
+        "other": 1
+      },
+      "durationSeconds": 239,
+      "videoViewCount": 34010787,
+      "videoCommentCount": 10041,
+      "reliabilityWeight": 159.80014194059623
+    },
+    {
+      "binIndex": 46,
+      "relativeStart": 0.46,
+      "relativeEnd": 0.47,
+      "startSeconds": 109.94,
+      "endSeconds": 112.33,
+      "midpointSeconds": 111.13499999999999,
+      "isFirstBin": false,
+      "isLastBin": false,
+      "replayIntensity": 0.3202974091042882,
+      "localReplayProminence": 0.07190637422415222,
+      "timestampCommentCount": 2,
+      "timestampReferenceCount": 2,
+      "commentRateSmoothed": 1.625,
+      "commentRateSmoothedNormalized": 0.006178707224334601,
+      "commentRateSmoothedLogNormalized": 0.32215191743375055,
+      "timestampCountRate": 0.009505703422053232,
+      "logNormalizedTimestampCount": 0.3667257913420846,
+      "meanAbsoluteSentiment": 0.5,
+      "functionCounts": {
+        "excitement_appreciation": 1,
+        "confusion": 0,
+        "humor": 0,
+        "instructional_reference": 0,
+        "quality_complaint": 0,
+        "navigation_indexing": 0,
+        "other": 1
+      },
+      "durationSeconds": 239,
+      "videoViewCount": 34010787,
+      "videoCommentCount": 10041,
+      "reliabilityWeight": 159.80014194059623
+    },
+    {
+      "binIndex": 47,
+      "relativeStart": 0.47,
+      "relativeEnd": 0.48,
+      "startSeconds": 112.33,
+      "endSeconds": 114.72,
+      "midpointSeconds": 113.52499999999999,
+      "isFirstBin": false,
+      "isLastBin": false,
+      "replayIntensity": 0.3532160623433192,
+      "localReplayProminence": 0.03793106886422093,
+      "timestampCommentCount": 3,
+      "timestampReferenceCount": 3,
+      "commentRateSmoothed": 1.7499999999999998,
+      "commentRateSmoothedNormalized": 0.006653992395437261,
+      "commentRateSmoothedLogNormalized": 0.3376806801491529,
+      "timestampCountRate": 0.013307984790874524,
+      "logNormalizedTimestampCount": 0.46275642631951835,
+      "meanAbsoluteSentiment": 0,
+      "functionCounts": {
+        "excitement_appreciation": 0,
+        "confusion": 0,
+        "humor": 0,
+        "instructional_reference": 0,
+        "quality_complaint": 0,
+        "navigation_indexing": 0,
+        "other": 3
+      },
+      "durationSeconds": 239,
+      "videoViewCount": 34010787,
+      "videoCommentCount": 10041,
+      "reliabilityWeight": 159.80014194059623
+    },
+    {
+      "binIndex": 48,
+      "relativeStart": 0.48,
+      "relativeEnd": 0.49,
+      "startSeconds": 114.72,
+      "endSeconds": 117.11,
+      "midpointSeconds": 115.91499999999999,
+      "isFirstBin": false,
+      "isLastBin": false,
+      "replayIntensity": 0.3945222512415122,
+      "localReplayProminence": 0.017522385894575943,
+      "timestampCommentCount": 0,
+      "timestampReferenceCount": 0,
+      "commentRateSmoothed": 1.375,
+      "commentRateSmoothedNormalized": 0.005228136882129277,
+      "commentRateSmoothedLogNormalized": 0.28874323821347814,
+      "timestampCountRate": 0.0019011406844106464,
+      "logNormalizedTimestampCount": 0,
+      "meanAbsoluteSentiment": 0,
+      "functionCounts": {
+        "excitement_appreciation": 0,
+        "confusion": 0,
+        "humor": 0,
+        "instructional_reference": 0,
+        "quality_complaint": 0,
+        "navigation_indexing": 0,
+        "other": 0
+      },
+      "durationSeconds": 239,
+      "videoViewCount": 34010787,
+      "videoCommentCount": 10041,
+      "reliabilityWeight": 159.80014194059623
+    },
+    {
+      "binIndex": 49,
+      "relativeStart": 0.49,
+      "relativeEnd": 0.5,
+      "startSeconds": 117.11,
+      "endSeconds": 119.5,
+      "midpointSeconds": 118.30499999999999,
+      "isFirstBin": false,
+      "isLastBin": false,
+      "replayIntensity": 0.4574861245932006,
+      "localReplayProminence": 0.033095493530426456,
+      "timestampCommentCount": 1,
+      "timestampReferenceCount": 1,
+      "commentRateSmoothed": 1.3125,
+      "commentRateSmoothedNormalized": 0.004990494296577947,
+      "commentRateSmoothedLogNormalized": 0.2798411586392833,
+      "timestampCountRate": 0.005703422053231939,
+      "logNormalizedTimestampCount": 0.23137821315975918,
+      "meanAbsoluteSentiment": 1,
+      "functionCounts": {
+        "excitement_appreciation": 0,
+        "confusion": 0,
+        "humor": 0,
+        "instructional_reference": 0,
+        "quality_complaint": 0,
+        "navigation_indexing": 1,
+        "other": 0
+      },
+      "durationSeconds": 239,
+      "videoViewCount": 34010787,
+      "videoCommentCount": 10041,
+      "reliabilityWeight": 159.80014194059623
+    },
+    {
+      "binIndex": 50,
+      "relativeStart": 0.5,
+      "relativeEnd": 0.51,
+      "startSeconds": 119.5,
+      "endSeconds": 121.89,
+      "midpointSeconds": 120.69500000000001,
+      "isFirstBin": false,
+      "isLastBin": false,
+      "replayIntensity": 0.525433579603491,
+      "localReplayProminence": 0.04869951293714797,
+      "timestampCommentCount": 3,
+      "timestampReferenceCount": 3,
+      "commentRateSmoothed": 2.4375,
+      "commentRateSmoothedNormalized": 0.0092680608365019,
+      "commentRateSmoothedLogNormalized": 0.4121678275101162,
+      "timestampCountRate": 0.013307984790874524,
+      "logNormalizedTimestampCount": 0.46275642631951835,
+      "meanAbsoluteSentiment": 0,
+      "functionCounts": {
+        "excitement_appreciation": 0,
+        "confusion": 0,
+        "humor": 0,
+        "instructional_reference": 0,
+        "quality_complaint": 0,
+        "navigation_indexing": 1,
+        "other": 2
+      },
+      "durationSeconds": 239,
+      "videoViewCount": 34010787,
+      "videoCommentCount": 10041,
+      "reliabilityWeight": 159.80014194059623
+    },
+    {
+      "binIndex": 51,
+      "relativeStart": 0.51,
+      "relativeEnd": 0.52,
+      "startSeconds": 121.89,
+      "endSeconds": 124.28,
+      "midpointSeconds": 123.08500000000001,
+      "isFirstBin": false,
+      "isLastBin": false,
+      "replayIntensity": 0.5781938241643163,
+      "localReplayProminence": 0.04677279977475146,
+      "timestampCommentCount": 0,
+      "timestampReferenceCount": 0,
+      "commentRateSmoothed": 3.1249999999999996,
+      "commentRateSmoothedNormalized": 0.011882129277566537,
+      "commentRateSmoothedLogNormalized": 0.4730282583314784,
+      "timestampCountRate": 0.0019011406844106464,
+      "logNormalizedTimestampCount": 0,
+      "meanAbsoluteSentiment": 0,
+      "functionCounts": {
+        "excitement_appreciation": 0,
+        "confusion": 0,
+        "humor": 0,
+        "instructional_reference": 0,
+        "quality_complaint": 0,
+        "navigation_indexing": 0,
+        "other": 0
+      },
+      "durationSeconds": 239,
+      "videoViewCount": 34010787,
+      "videoCommentCount": 10041,
+      "reliabilityWeight": 159.80014194059623
+    },
+    {
+      "binIndex": 52,
+      "relativeStart": 0.52,
+      "relativeEnd": 0.53,
+      "startSeconds": 124.28,
+      "endSeconds": 126.67,
+      "midpointSeconds": 125.47500000000001,
+      "isFirstBin": false,
+      "isLastBin": false,
+      "replayIntensity": 0.611343368972003,
+      "localReplayProminence": 0.04639373168571592,
+      "timestampCommentCount": 9,
+      "timestampReferenceCount": 9,
+      "commentRateSmoothed": 5.25,
+      "commentRateSmoothedNormalized": 0.019961977186311788,
+      "commentRateSmoothedLogNormalized": 0.611730721041445,
+      "timestampCountRate": 0.03612167300380228,
+      "logNormalizedTimestampCount": 0.768621786840241,
+      "meanAbsoluteSentiment": 0.1111111111111111,
+      "functionCounts": {
+        "excitement_appreciation": 0,
+        "confusion": 0,
+        "humor": 0,
+        "instructional_reference": 0,
+        "quality_complaint": 0,
+        "navigation_indexing": 0,
+        "other": 9
+      },
+      "durationSeconds": 239,
+      "videoViewCount": 34010787,
+      "videoCommentCount": 10041,
+      "reliabilityWeight": 159.80014194059623
+    },
+    {
+      "binIndex": 53,
+      "relativeStart": 0.53,
+      "relativeEnd": 0.54,
+      "startSeconds": 126.67,
+      "endSeconds": 129.06,
+      "midpointSeconds": 127.86500000000001,
+      "isFirstBin": false,
+      "isLastBin": false,
+      "replayIntensity": 0.5912215080910541,
+      "localReplayProminence": 0.03413462259883371,
+      "timestampCommentCount": 6,
+      "timestampReferenceCount": 6,
+      "commentRateSmoothed": 4.75,
+      "commentRateSmoothedNormalized": 0.01806083650190114,
+      "commentRateSmoothedLogNormalized": 0.5838972561904183,
+      "timestampCountRate": 0.024714828897338403,
+      "logNormalizedTimestampCount": 0.6495607655709434,
+      "meanAbsoluteSentiment": 0,
+      "functionCounts": {
+        "excitement_appreciation": 0,
+        "confusion": 0,
+        "humor": 0,
+        "instructional_reference": 0,
+        "quality_complaint": 0,
+        "navigation_indexing": 1,
+        "other": 5
+      },
+      "durationSeconds": 239,
+      "videoViewCount": 34010787,
+      "videoCommentCount": 10041,
+      "reliabilityWeight": 159.80014194059623
+    },
+    {
+      "binIndex": 54,
+      "relativeStart": 0.54,
+      "relativeEnd": 0.55,
+      "startSeconds": 129.06,
+      "endSeconds": 131.45000000000002,
+      "midpointSeconds": 130.255,
+      "isFirstBin": false,
+      "isLastBin": false,
+      "replayIntensity": 0.48172346334034166,
+      "localReplayProminence": -0.05094198143557738,
+      "timestampCommentCount": 3,
+      "timestampReferenceCount": 3,
+      "commentRateSmoothed": 3.75,
+      "commentRateSmoothedNormalized": 0.014258555133079848,
+      "commentRateSmoothedLogNormalized": 0.5201214513732374,
+      "timestampCountRate": 0.013307984790874524,
+      "logNormalizedTimestampCount": 0.46275642631951835,
+      "meanAbsoluteSentiment": 0,
+      "functionCounts": {
+        "excitement_appreciation": 0,
+        "confusion": 0,
+        "humor": 0,
+        "instructional_reference": 0,
+        "quality_complaint": 0,
+        "navigation_indexing": 0,
+        "other": 3
+      },
+      "durationSeconds": 239,
+      "videoViewCount": 34010787,
+      "videoCommentCount": 10041,
+      "reliabilityWeight": 159.80014194059623
+    },
+    {
+      "binIndex": 55,
+      "relativeStart": 0.55,
+      "relativeEnd": 0.56,
+      "startSeconds": 131.45000000000002,
+      "endSeconds": 133.84,
+      "midpointSeconds": 132.645,
+      "isFirstBin": false,
+      "isLastBin": false,
+      "replayIntensity": 0.39543145726470014,
+      "localReplayProminence": -0.07085368624179528,
+      "timestampCommentCount": 2,
+      "timestampReferenceCount": 2,
+      "commentRateSmoothed": 2.1875,
+      "commentRateSmoothedNormalized": 0.008317490494296578,
+      "commentRateSmoothedLogNormalized": 0.3869627872684639,
+      "timestampCountRate": 0.009505703422053232,
+      "logNormalizedTimestampCount": 0.3667257913420846,
+      "meanAbsoluteSentiment": 0,
+      "functionCounts": {
+        "excitement_appreciation": 0,
+        "confusion": 0,
+        "humor": 0,
+        "instructional_reference": 0,
+        "quality_complaint": 0,
+        "navigation_indexing": 0,
+        "other": 2
+      },
+      "durationSeconds": 239,
+      "videoViewCount": 34010787,
+      "videoCommentCount": 10041,
+      "reliabilityWeight": 159.80014194059623
+    },
+    {
+      "binIndex": 56,
+      "relativeStart": 0.56,
+      "relativeEnd": 0.57,
+      "startSeconds": 133.84,
+      "endSeconds": 136.23,
+      "midpointSeconds": 135.035,
+      "isFirstBin": false,
+      "isLastBin": false,
+      "replayIntensity": 0.3259104590880904,
+      "localReplayProminence": -0.0647747329695289,
+      "timestampCommentCount": 0,
+      "timestampReferenceCount": 0,
+      "commentRateSmoothed": 1.3125,
+      "commentRateSmoothedNormalized": 0.004990494296577947,
+      "commentRateSmoothedLogNormalized": 0.2798411586392833,
+      "timestampCountRate": 0.0019011406844106464,
+      "logNormalizedTimestampCount": 0,
+      "meanAbsoluteSentiment": 0,
+      "functionCounts": {
+        "excitement_appreciation": 0,
+        "confusion": 0,
+        "humor": 0,
+        "instructional_reference": 0,
+        "quality_complaint": 0,
+        "navigation_indexing": 0,
+        "other": 0
+      },
+      "durationSeconds": 239,
+      "videoViewCount": 34010787,
+      "videoCommentCount": 10041,
+      "reliabilityWeight": 159.80014194059623
+    },
+    {
+      "binIndex": 57,
+      "relativeStart": 0.57,
+      "relativeEnd": 0.58,
+      "startSeconds": 136.23,
+      "endSeconds": 138.62,
+      "midpointSeconds": 137.42499999999998,
+      "isFirstBin": false,
+      "isLastBin": false,
+      "replayIntensity": 0.2949006555678162,
+      "localReplayProminence": -0.04104186808248961,
+      "timestampCommentCount": 1,
+      "timestampReferenceCount": 1,
+      "commentRateSmoothed": 1.1875,
+      "commentRateSmoothedNormalized": 0.004515209125475285,
+      "commentRateSmoothedLogNormalized": 0.2612914866123884,
+      "timestampCountRate": 0.005703422053231939,
+      "logNormalizedTimestampCount": 0.23137821315975918,
+      "meanAbsoluteSentiment": 1,
+      "functionCounts": {
+        "excitement_appreciation": 0,
+        "confusion": 0,
+        "humor": 0,
+        "instructional_reference": 0,
+        "quality_complaint": 0,
+        "navigation_indexing": 0,
+        "other": 1
+      },
+      "durationSeconds": 239,
+      "videoViewCount": 34010787,
+      "videoCommentCount": 10041,
+      "reliabilityWeight": 159.80014194059623
+    },
+    {
+      "binIndex": 58,
+      "relativeStart": 0.58,
+      "relativeEnd": 0.59,
+      "startSeconds": 138.62,
+      "endSeconds": 141.01,
+      "midpointSeconds": 139.815,
+      "isFirstBin": false,
+      "isLastBin": false,
+      "replayIntensity": 0.28648565459812697,
+      "localReplayProminence": -0.015039423960603482,
+      "timestampCommentCount": 3,
+      "timestampReferenceCount": 3,
+      "commentRateSmoothed": 1.4375000000000002,
+      "commentRateSmoothedNormalized": 0.005465779467680609,
+      "commentRateSmoothedLogNormalized": 0.29741406859193675,
+      "timestampCountRate": 0.013307984790874524,
+      "logNormalizedTimestampCount": 0.46275642631951835,
+      "meanAbsoluteSentiment": 0.6666666666666666,
+      "functionCounts": {
+        "excitement_appreciation": 1,
+        "confusion": 0,
+        "humor": 0,
+        "instructional_reference": 0,
+        "quality_complaint": 0,
+        "navigation_indexing": 0,
+        "other": 2
+      },
+      "durationSeconds": 239,
+      "videoViewCount": 34010787,
+      "videoCommentCount": 10041,
+      "reliabilityWeight": 159.80014194059623
+    },
+    {
+      "binIndex": 59,
+      "relativeStart": 0.59,
+      "relativeEnd": 0.6,
+      "startSeconds": 141.01,
+      "endSeconds": 143.4,
+      "midpointSeconds": 142.20499999999998,
+      "isFirstBin": false,
+      "isLastBin": false,
+      "replayIntensity": 0.28376412102028487,
+      "localReplayProminence": -0.006194842274231616,
+      "timestampCommentCount": 0,
+      "timestampReferenceCount": 0,
+      "commentRateSmoothed": 1.125,
+      "commentRateSmoothedNormalized": 0.0042775665399239545,
+      "commentRateSmoothedLogNormalized": 0.25161520908613844,
+      "timestampCountRate": 0.0019011406844106464,
+      "logNormalizedTimestampCount": 0,
+      "meanAbsoluteSentiment": 0,
+      "functionCounts": {
+        "excitement_appreciation": 0,
+        "confusion": 0,
+        "humor": 0,
+        "instructional_reference": 0,
+        "quality_complaint": 0,
+        "navigation_indexing": 0,
+        "other": 0
+      },
+      "durationSeconds": 239,
+      "videoViewCount": 34010787,
+      "videoCommentCount": 10041,
+      "reliabilityWeight": 159.80014194059623
+    },
+    {
+      "binIndex": 60,
+      "relativeStart": 0.6,
+      "relativeEnd": 0.61,
+      "startSeconds": 143.4,
+      "endSeconds": 145.79,
+      "midpointSeconds": 144.595,
+      "isFirstBin": false,
+      "isLastBin": false,
+      "replayIntensity": 0.2884905797176064,
+      "localReplayProminence": -0.0028911760148143117,
+      "timestampCommentCount": 1,
+      "timestampReferenceCount": 1,
+      "commentRateSmoothed": 1.2500000000000002,
+      "commentRateSmoothedNormalized": 0.004752851711026617,
+      "commentRateSmoothedLogNormalized": 0.27069515636465097,
+      "timestampCountRate": 0.005703422053231939,
+      "logNormalizedTimestampCount": 0.23137821315975918,
+      "meanAbsoluteSentiment": 1,
+      "functionCounts": {
+        "excitement_appreciation": 1,
+        "confusion": 0,
+        "humor": 0,
+        "instructional_reference": 0,
+        "quality_complaint": 0,
+        "navigation_indexing": 0,
+        "other": 0
+      },
+      "durationSeconds": 239,
+      "videoViewCount": 34010787,
+      "videoCommentCount": 10041,
+      "reliabilityWeight": 159.80014194059623
+    },
+    {
+      "binIndex": 61,
+      "relativeStart": 0.61,
+      "relativeEnd": 0.62,
+      "startSeconds": 145.79,
+      "endSeconds": 148.18,
+      "midpointSeconds": 146.98499999999999,
+      "isFirstBin": false,
+      "isLastBin": false,
+      "replayIntensity": 0.3038954915788503,
+      "localReplayProminence": -0.001598838483295728,
+      "timestampCommentCount": 2,
+      "timestampReferenceCount": 2,
+      "commentRateSmoothed": 1.125,
+      "commentRateSmoothedNormalized": 0.0042775665399239545,
+      "commentRateSmoothedLogNormalized": 0.25161520908613844,
+      "timestampCountRate": 0.009505703422053232,
+      "logNormalizedTimestampCount": 0.3667257913420846,
+      "meanAbsoluteSentiment": 0,
+      "functionCounts": {
+        "excitement_appreciation": 0,
+        "confusion": 0,
+        "humor": 0,
+        "instructional_reference": 0,
+        "quality_complaint": 0,
+        "navigation_indexing": 0,
+        "other": 2
+      },
+      "durationSeconds": 239,
+      "videoViewCount": 34010787,
+      "videoCommentCount": 10041,
+      "reliabilityWeight": 159.80014194059623
+    },
+    {
+      "binIndex": 62,
+      "relativeStart": 0.62,
+      "relativeEnd": 0.63,
+      "startSeconds": 148.18,
+      "endSeconds": 150.57,
+      "midpointSeconds": 149.375,
+      "isFirstBin": false,
+      "isLastBin": false,
+      "replayIntensity": 0.3442282894485468,
+      "localReplayProminence": 0.01670903543616481,
+      "timestampCommentCount": 1,
+      "timestampReferenceCount": 1,
+      "commentRateSmoothed": 1.5,
+      "commentRateSmoothedNormalized": 0.005703422053231939,
+      "commentRateSmoothedLogNormalized": 0.3058653605207225,
+      "timestampCountRate": 0.005703422053231939,
+      "logNormalizedTimestampCount": 0.23137821315975918,
+      "meanAbsoluteSentiment": 0,
+      "functionCounts": {
+        "excitement_appreciation": 0,
+        "confusion": 0,
+        "humor": 0,
+        "instructional_reference": 0,
+        "quality_complaint": 0,
+        "navigation_indexing": 0,
+        "other": 1
+      },
+      "durationSeconds": 239,
+      "videoViewCount": 34010787,
+      "videoCommentCount": 10041,
+      "reliabilityWeight": 159.80014194059623
+    },
+    {
+      "binIndex": 63,
+      "relativeStart": 0.63,
+      "relativeEnd": 0.64,
+      "startSeconds": 150.57,
+      "endSeconds": 152.96,
+      "midpointSeconds": 151.76500000000001,
+      "isFirstBin": false,
+      "isLastBin": false,
+      "replayIntensity": 0.39017169074068914,
+      "localReplayProminence": 0.03350381398350155,
+      "timestampCommentCount": 0,
+      "timestampReferenceCount": 0,
+      "commentRateSmoothed": 1.875,
+      "commentRateSmoothedNormalized": 0.007129277566539924,
+      "commentRateSmoothedLogNormalized": 0.3525190430306592,
+      "timestampCountRate": 0.0019011406844106464,
+      "logNormalizedTimestampCount": 0,
+      "meanAbsoluteSentiment": 0,
+      "functionCounts": {
+        "excitement_appreciation": 0,
+        "confusion": 0,
+        "humor": 0,
+        "instructional_reference": 0,
+        "quality_complaint": 0,
+        "navigation_indexing": 0,
+        "other": 0
+      },
+      "durationSeconds": 239,
+      "videoViewCount": 34010787,
+      "videoCommentCount": 10041,
+      "reliabilityWeight": 159.80014194059623
+    },
+    {
+      "binIndex": 64,
+      "relativeStart": 0.64,
+      "relativeEnd": 0.65,
+      "startSeconds": 152.96,
+      "endSeconds": 155.35,
+      "midpointSeconds": 154.155,
+      "isFirstBin": false,
+      "isLastBin": false,
+      "replayIntensity": 0.4218798492441657,
+      "localReplayProminence": 0.027722823518452122,
+      "timestampCommentCount": 5,
+      "timestampReferenceCount": 5,
+      "commentRateSmoothed": 4.25,
+      "commentRateSmoothedNormalized": 0.016159695817490494,
+      "commentRateSmoothedLogNormalized": 0.5535301305935098,
+      "timestampCountRate": 0.02091254752851711,
+      "logNormalizedTimestampCount": 0.5981040045018439,
+      "meanAbsoluteSentiment": 0.4,
+      "functionCounts": {
+        "excitement_appreciation": 0,
+        "confusion": 0,
+        "humor": 0,
+        "instructional_reference": 0,
+        "quality_complaint": 0,
+        "navigation_indexing": 1,
+        "other": 4
+      },
+      "durationSeconds": 239,
+      "videoViewCount": 34010787,
+      "videoCommentCount": 10041,
+      "reliabilityWeight": 159.80014194059623
+    },
+    {
+      "binIndex": 65,
+      "relativeStart": 0.65,
+      "relativeEnd": 0.66,
+      "startSeconds": 155.35,
+      "endSeconds": 157.74,
+      "midpointSeconds": 156.54500000000002,
+      "isFirstBin": false,
+      "isLastBin": false,
+      "replayIntensity": 0.4480710969879047,
+      "localReplayProminence": 0.0281040686925218,
+      "timestampCommentCount": 4,
+      "timestampReferenceCount": 4,
+      "commentRateSmoothed": 5.0625,
+      "commentRateSmoothedNormalized": 0.019249049429657796,
+      "commentRateSmoothedLogNormalized": 0.6015631877963686,
+      "timestampCountRate": 0.017110266159695818,
+      "logNormalizedTimestampCount": 0.5372435736804817,
+      "meanAbsoluteSentiment": 0,
+      "functionCounts": {
+        "excitement_appreciation": 0,
+        "confusion": 0,
+        "humor": 0,
+        "instructional_reference": 0,
+        "quality_complaint": 0,
+        "navigation_indexing": 0,
+        "other": 4
+      },
+      "durationSeconds": 239,
+      "videoViewCount": 34010787,
+      "videoCommentCount": 10041,
+      "reliabilityWeight": 159.80014194059623
+    },
+    {
+      "binIndex": 66,
+      "relativeStart": 0.66,
+      "relativeEnd": 0.67,
+      "startSeconds": 157.74,
+      "endSeconds": 160.13,
+      "midpointSeconds": 158.935,
+      "isFirstBin": false,
+      "isLastBin": false,
+      "replayIntensity": 0.4478495449012938,
+      "localReplayProminence": 0.007493980537171485,
+      "timestampCommentCount": 12,
+      "timestampReferenceCount": 12,
+      "commentRateSmoothed": 6.437499999999999,
+      "commentRateSmoothedNormalized": 0.02447718631178707,
+      "commentRateSmoothedLogNormalized": 0.6697977614973226,
+      "timestampCountRate": 0.04752851711026616,
+      "logNormalizedTimestampCount": 0.8562011298888889,
+      "meanAbsoluteSentiment": 0.25,
+      "functionCounts": {
+        "excitement_appreciation": 0,
+        "confusion": 0,
+        "humor": 0,
+        "instructional_reference": 0,
+        "quality_complaint": 0,
+        "navigation_indexing": 1,
+        "other": 11
+      },
+      "durationSeconds": 239,
+      "videoViewCount": 34010787,
+      "videoCommentCount": 10041,
+      "reliabilityWeight": 159.80014194059623
+    },
+    {
+      "binIndex": 67,
+      "relativeStart": 0.67,
+      "relativeEnd": 0.68,
+      "startSeconds": 160.13,
+      "endSeconds": 162.52,
+      "midpointSeconds": 161.32500000000002,
+      "isFirstBin": false,
+      "isLastBin": false,
+      "replayIntensity": 0.45111574686029643,
+      "localReplayProminence": -0.00840620044028989,
+      "timestampCommentCount": 3,
+      "timestampReferenceCount": 3,
+      "commentRateSmoothed": 3.8749999999999996,
+      "commentRateSmoothedNormalized": 0.014733840304182507,
+      "commentRateSmoothedLogNormalized": 0.5287922817516959,
+      "timestampCountRate": 0.013307984790874524,
+      "logNormalizedTimestampCount": 0.46275642631951835,
+      "meanAbsoluteSentiment": 0,
+      "functionCounts": {
+        "excitement_appreciation": 0,
+        "confusion": 0,
+        "humor": 0,
+        "instructional_reference": 0,
+        "quality_complaint": 0,
+        "navigation_indexing": 0,
+        "other": 3
+      },
+      "durationSeconds": 239,
+      "videoViewCount": 34010787,
+      "videoCommentCount": 10041,
+      "reliabilityWeight": 159.80014194059623
+    },
+    {
+      "binIndex": 68,
+      "relativeStart": 0.68,
+      "relativeEnd": 0.69,
+      "startSeconds": 162.52,
+      "endSeconds": 164.91,
+      "midpointSeconds": 163.715,
+      "isFirstBin": false,
+      "isLastBin": false,
+      "replayIntensity": 0.4826452000125604,
+      "localReplayProminence": -0.006654093752401502,
+      "timestampCommentCount": 0,
+      "timestampReferenceCount": 0,
+      "commentRateSmoothed": 2.9375,
+      "commentRateSmoothedNormalized": 0.011169201520912548,
+      "commentRateSmoothedLogNormalized": 0.457499495616076,
+      "timestampCountRate": 0.0019011406844106464,
+      "logNormalizedTimestampCount": 0,
+      "meanAbsoluteSentiment": 0,
+      "functionCounts": {
+        "excitement_appreciation": 0,
+        "confusion": 0,
+        "humor": 0,
+        "instructional_reference": 0,
+        "quality_complaint": 0,
+        "navigation_indexing": 0,
+        "other": 0
+      },
+      "durationSeconds": 239,
+      "videoViewCount": 34010787,
+      "videoCommentCount": 10041,
+      "reliabilityWeight": 159.80014194059623
+    },
+    {
+      "binIndex": 69,
+      "relativeStart": 0.69,
+      "relativeEnd": 0.7,
+      "startSeconds": 164.91,
+      "endSeconds": 167.29999999999998,
+      "midpointSeconds": 166.105,
+      "isFirstBin": false,
+      "isLastBin": false,
+      "replayIntensity": 0.5689325895332956,
+      "localReplayProminence": 0.006285287038095055,
+      "timestampCommentCount": 0,
+      "timestampReferenceCount": 0,
+      "commentRateSmoothed": 4.0625,
+      "commentRateSmoothedNormalized": 0.015446768060836502,
+      "commentRateSmoothedLogNormalized": 0.5413903127293018,
+      "timestampCountRate": 0.0019011406844106464,
+      "logNormalizedTimestampCount": 0,
+      "meanAbsoluteSentiment": 0,
+      "functionCounts": {
+        "excitement_appreciation": 0,
+        "confusion": 0,
+        "humor": 0,
+        "instructional_reference": 0,
+        "quality_complaint": 0,
+        "navigation_indexing": 0,
+        "other": 0
+      },
+      "durationSeconds": 239,
+      "videoViewCount": 34010787,
+      "videoCommentCount": 10041,
+      "reliabilityWeight": 159.80014194059623
+    },
+    {
+      "binIndex": 70,
+      "relativeStart": 0.7,
+      "relativeEnd": 0.71,
+      "startSeconds": 167.29999999999998,
+      "endSeconds": 169.69,
+      "midpointSeconds": 168.495,
+      "isFirstBin": false,
+      "isLastBin": false,
+      "replayIntensity": 0.754180960612745,
+      "localReplayProminence": 0.09384191713285372,
+      "timestampCommentCount": 7,
+      "timestampReferenceCount": 7,
+      "commentRateSmoothed": 6.5625,
+      "commentRateSmoothedNormalized": 0.024952471482889736,
+      "commentRateSmoothedLogNormalized": 0.6753613602983058,
+      "timestampCountRate": 0.028517110266159697,
+      "logNormalizedTimestampCount": 0.6941346394792774,
+      "meanAbsoluteSentiment": 0,
+      "functionCounts": {
+        "excitement_appreciation": 0,
+        "confusion": 0,
+        "humor": 0,
+        "instructional_reference": 1,
+        "quality_complaint": 0,
+        "navigation_indexing": 1,
+        "other": 5
+      },
+      "durationSeconds": 239,
+      "videoViewCount": 34010787,
+      "videoCommentCount": 10041,
+      "reliabilityWeight": 159.80014194059623
+    },
+    {
+      "binIndex": 71,
+      "relativeStart": 0.71,
+      "relativeEnd": 0.72,
+      "startSeconds": 169.69,
+      "endSeconds": 172.07999999999998,
+      "midpointSeconds": 170.885,
+      "isFirstBin": false,
+      "isLastBin": false,
+      "replayIntensity": 0.9294393408938177,
+      "localReplayProminence": 0.15583427869882416,
+      "timestampCommentCount": 19,
+      "timestampReferenceCount": 19,
+      "commentRateSmoothed": 10.125,
+      "commentRateSmoothedNormalized": 0.03849809885931559,
+      "commentRateSmoothedLogNormalized": 0.8042089906766443,
+      "timestampCountRate": 0.0741444866920152,
+      "logNormalizedTimestampCount": 1,
+      "meanAbsoluteSentiment": 0.15789473684210525,
+      "functionCounts": {
+        "excitement_appreciation": 0,
+        "confusion": 0,
+        "humor": 0,
+        "instructional_reference": 1,
+        "quality_complaint": 0,
+        "navigation_indexing": 1,
+        "other": 17
+      },
+      "durationSeconds": 239,
+      "videoViewCount": 34010787,
+      "videoCommentCount": 10041,
+      "reliabilityWeight": 159.80014194059623
+    },
+    {
+      "binIndex": 72,
+      "relativeStart": 0.72,
+      "relativeEnd": 0.73,
+      "startSeconds": 172.07999999999998,
+      "endSeconds": 174.47,
+      "midpointSeconds": 173.275,
+      "isFirstBin": false,
+      "isLastBin": false,
+      "replayIntensity": 0.9977016364389402,
+      "localReplayProminence": 0.11582242713012725,
+      "timestampCommentCount": 3,
+      "timestampReferenceCount": 3,
+      "commentRateSmoothed": 7.749999999999999,
+      "commentRateSmoothedNormalized": 0.029467680608365014,
+      "commentRateSmoothedLogNormalized": 0.7240479129319068,
+      "timestampCountRate": 0.013307984790874524,
+      "logNormalizedTimestampCount": 0.46275642631951835,
+      "meanAbsoluteSentiment": 0,
+      "functionCounts": {
+        "excitement_appreciation": 0,
+        "confusion": 0,
+        "humor": 0,
+        "instructional_reference": 0,
+        "quality_complaint": 0,
+        "navigation_indexing": 0,
+        "other": 3
+      },
+      "durationSeconds": 239,
+      "videoViewCount": 34010787,
+      "videoCommentCount": 10041,
+      "reliabilityWeight": 159.80014194059623
+    },
+    {
+      "binIndex": 73,
+      "relativeStart": 0.73,
+      "relativeEnd": 0.74,
+      "startSeconds": 174.47,
+      "endSeconds": 176.85999999999999,
+      "midpointSeconds": 175.665,
+      "isFirstBin": false,
+      "isLastBin": false,
+      "replayIntensity": 0.9620173264198757,
+      "localReplayProminence": 0.04077263286962707,
+      "timestampCommentCount": 9,
+      "timestampReferenceCount": 9,
+      "commentRateSmoothed": 7.3125,
+      "commentRateSmoothedNormalized": 0.0278041825095057,
+      "commentRateSmoothedLogNormalized": 0.7069257906246624,
+      "timestampCountRate": 0.03612167300380228,
+      "logNormalizedTimestampCount": 0.768621786840241,
+      "meanAbsoluteSentiment": 0.2222222222222222,
+      "functionCounts": {
+        "excitement_appreciation": 2,
+        "confusion": 0,
+        "humor": 0,
+        "instructional_reference": 0,
+        "quality_complaint": 0,
+        "navigation_indexing": 0,
+        "other": 7
+      },
+      "durationSeconds": 239,
+      "videoViewCount": 34010787,
+      "videoCommentCount": 10041,
+      "reliabilityWeight": 159.80014194059623
+    },
+    {
+      "binIndex": 74,
+      "relativeStart": 0.74,
+      "relativeEnd": 0.75,
+      "startSeconds": 176.85999999999999,
+      "endSeconds": 179.25,
+      "midpointSeconds": 178.055,
+      "isFirstBin": false,
+      "isLastBin": false,
+      "replayIntensity": 0.8365931033179882,
+      "localReplayProminence": -0.030037951343411917,
+      "timestampCommentCount": 4,
+      "timestampReferenceCount": 4,
+      "commentRateSmoothed": 4.1875,
+      "commentRateSmoothedNormalized": 0.015922053231939164,
+      "commentRateSmoothedLogNormalized": 0.549532379809022,
+      "timestampCountRate": 0.017110266159695818,
+      "logNormalizedTimestampCount": 0.5372435736804817,
+      "meanAbsoluteSentiment": 0.5,
+      "functionCounts": {
+        "excitement_appreciation": 0,
+        "confusion": 0,
+        "humor": 0,
+        "instructional_reference": 0,
+        "quality_complaint": 0,
+        "navigation_indexing": 1,
+        "other": 3
+      },
+      "durationSeconds": 239,
+      "videoViewCount": 34010787,
+      "videoCommentCount": 10041,
+      "reliabilityWeight": 159.80014194059623
+    },
+    {
+      "binIndex": 75,
+      "relativeStart": 0.75,
+      "relativeEnd": 0.76,
+      "startSeconds": 179.25,
+      "endSeconds": 181.64000000000001,
+      "midpointSeconds": 180.445,
+      "isFirstBin": false,
+      "isLastBin": false,
+      "replayIntensity": 0.6401742011253841,
+      "localReplayProminence": -0.1116359635272024,
+      "timestampCommentCount": 2,
+      "timestampReferenceCount": 2,
+      "commentRateSmoothed": 4,
+      "commentRateSmoothedNormalized": 0.015209125475285171,
+      "commentRateSmoothedLogNormalized": 0.5372435736804817,
+      "timestampCountRate": 0.009505703422053232,
+      "logNormalizedTimestampCount": 0.3667257913420846,
+      "meanAbsoluteSentiment": 0,
+      "functionCounts": {
+        "excitement_appreciation": 0,
+        "confusion": 0,
+        "humor": 0,
+        "instructional_reference": 0,
+        "quality_complaint": 0,
+        "navigation_indexing": 1,
+        "other": 1
+      },
+      "durationSeconds": 239,
+      "videoViewCount": 34010787,
+      "videoCommentCount": 10041,
+      "reliabilityWeight": 159.80014194059623
+    },
+    {
+      "binIndex": 76,
+      "relativeStart": 0.76,
+      "relativeEnd": 0.77,
+      "startSeconds": 181.64000000000001,
+      "endSeconds": 184.03,
+      "midpointSeconds": 182.835,
+      "isFirstBin": false,
+      "isLastBin": false,
+      "replayIntensity": 0.4568200642198954,
+      "localReplayProminence": -0.14811251266219605,
+      "timestampCommentCount": 2,
+      "timestampReferenceCount": 2,
+      "commentRateSmoothed": 3.25,
+      "commentRateSmoothedNormalized": 0.012357414448669201,
+      "commentRateSmoothedLogNormalized": 0.48299342224589753,
+      "timestampCountRate": 0.009505703422053232,
+      "logNormalizedTimestampCount": 0.3667257913420846,
+      "meanAbsoluteSentiment": 1,
+      "functionCounts": {
+        "excitement_appreciation": 0,
+        "confusion": 0,
+        "humor": 0,
+        "instructional_reference": 0,
+        "quality_complaint": 0,
+        "navigation_indexing": 1,
+        "other": 1
+      },
+      "durationSeconds": 239,
+      "videoViewCount": 34010787,
+      "videoCommentCount": 10041,
+      "reliabilityWeight": 159.80014194059623
+    },
+    {
+      "binIndex": 77,
+      "relativeStart": 0.77,
+      "relativeEnd": 0.78,
+      "startSeconds": 184.03,
+      "endSeconds": 186.42000000000002,
+      "midpointSeconds": 185.225,
+      "isFirstBin": false,
+      "isLastBin": false,
+      "replayIntensity": 0.3380304262029019,
+      "localReplayProminence": -0.11651525784870348,
+      "timestampCommentCount": 8,
+      "timestampReferenceCount": 8,
+      "commentRateSmoothed": 3.9375,
+      "commentRateSmoothedNormalized": 0.01497148288973384,
+      "commentRateSmoothedLogNormalized": 0.5330446730250713,
+      "timestampCountRate": 0.03231939163498099,
+      "logNormalizedTimestampCount": 0.7334515826841693,
+      "meanAbsoluteSentiment": 0,
+      "functionCounts": {
+        "excitement_appreciation": 0,
+        "confusion": 0,
+        "humor": 1,
+        "instructional_reference": 0,
+        "quality_complaint": 0,
+        "navigation_indexing": 3,
+        "other": 4
+      },
+      "durationSeconds": 239,
+      "videoViewCount": 34010787,
+      "videoCommentCount": 10041,
+      "reliabilityWeight": 159.80014194059623
+    },
+    {
+      "binIndex": 78,
+      "relativeStart": 0.78,
+      "relativeEnd": 0.79,
+      "startSeconds": 186.42000000000002,
+      "endSeconds": 188.81,
+      "midpointSeconds": 187.615,
+      "isFirstBin": false,
+      "isLastBin": false,
+      "replayIntensity": 0.2666427868095368,
+      "localReplayProminence": -0.07150921221830614,
+      "timestampCommentCount": 1,
+      "timestampReferenceCount": 1,
+      "commentRateSmoothed": 2.6875000000000004,
+      "commentRateSmoothedNormalized": 0.010218631178707227,
+      "commentRateSmoothedLogNormalized": 0.43560258477898317,
+      "timestampCountRate": 0.005703422053231939,
+      "logNormalizedTimestampCount": 0.23137821315975918,
+      "meanAbsoluteSentiment": 1,
+      "functionCounts": {
+        "excitement_appreciation": 0,
+        "confusion": 0,
+        "humor": 0,
+        "instructional_reference": 0,
+        "quality_complaint": 0,
+        "navigation_indexing": 0,
+        "other": 1
+      },
+      "durationSeconds": 239,
+      "videoViewCount": 34010787,
+      "videoCommentCount": 10041,
+      "reliabilityWeight": 159.80014194059623
+    },
+    {
+      "binIndex": 79,
+      "relativeStart": 0.79,
+      "relativeEnd": 0.8,
+      "startSeconds": 188.81,
+      "endSeconds": 191.20000000000002,
+      "midpointSeconds": 190.005,
+      "isFirstBin": false,
+      "isLastBin": false,
+      "replayIntensity": 0.21960550666073136,
+      "localReplayProminence": -0.047485234895845,
+      "timestampCommentCount": 1,
+      "timestampReferenceCount": 1,
+      "commentRateSmoothed": 2.375,
+      "commentRateSmoothedNormalized": 0.00903041825095057,
+      "commentRateSmoothedLogNormalized": 0.40604273454697637,
+      "timestampCountRate": 0.005703422053231939,
+      "logNormalizedTimestampCount": 0.23137821315975918,
+      "meanAbsoluteSentiment": 0,
+      "functionCounts": {
+        "excitement_appreciation": 0,
+        "confusion": 0,
+        "humor": 0,
+        "instructional_reference": 0,
+        "quality_complaint": 0,
+        "navigation_indexing": 0,
+        "other": 1
+      },
+      "durationSeconds": 239,
+      "videoViewCount": 34010787,
+      "videoCommentCount": 10041,
+      "reliabilityWeight": 159.80014194059623
+    },
+    {
+      "binIndex": 80,
+      "relativeStart": 0.8,
+      "relativeEnd": 0.81,
+      "startSeconds": 191.20000000000002,
+      "endSeconds": 193.59,
+      "midpointSeconds": 192.395,
+      "isFirstBin": false,
+      "isLastBin": false,
+      "replayIntensity": 0.19659901165729043,
+      "localReplayProminence": -0.030006394247661966,
+      "timestampCommentCount": 3,
+      "timestampReferenceCount": 3,
+      "commentRateSmoothed": 2.3125,
+      "commentRateSmoothedNormalized": 0.00879277566539924,
+      "commentRateSmoothedLogNormalized": 0.3998031472590319,
+      "timestampCountRate": 0.013307984790874524,
+      "logNormalizedTimestampCount": 0.46275642631951835,
+      "meanAbsoluteSentiment": 0.6666666666666666,
+      "functionCounts": {
+        "excitement_appreciation": 0,
+        "confusion": 0,
+        "humor": 0,
+        "instructional_reference": 0,
+        "quality_complaint": 0,
+        "navigation_indexing": 1,
+        "other": 2
+      },
+      "durationSeconds": 239,
+      "videoViewCount": 34010787,
+      "videoCommentCount": 10041,
+      "reliabilityWeight": 159.80014194059623
+    },
+    {
+      "binIndex": 81,
+      "relativeStart": 0.81,
+      "relativeEnd": 0.82,
+      "startSeconds": 193.59,
+      "endSeconds": 195.98,
+      "midpointSeconds": 194.785,
+      "isFirstBin": false,
+      "isLastBin": false,
+      "replayIntensity": 0.19356792424458907,
+      "localReplayProminence": -0.01600885085055645,
+      "timestampCommentCount": 2,
+      "timestampReferenceCount": 2,
+      "commentRateSmoothed": 2.3125,
+      "commentRateSmoothedNormalized": 0.00879277566539924,
+      "commentRateSmoothedLogNormalized": 0.3998031472590319,
+      "timestampCountRate": 0.009505703422053232,
+      "logNormalizedTimestampCount": 0.3667257913420846,
+      "meanAbsoluteSentiment": 1,
+      "functionCounts": {
+        "excitement_appreciation": 0,
+        "confusion": 0,
+        "humor": 0,
+        "instructional_reference": 0,
+        "quality_complaint": 0,
+        "navigation_indexing": 0,
+        "other": 2
+      },
+      "durationSeconds": 239,
+      "videoViewCount": 34010787,
+      "videoCommentCount": 10041,
+      "reliabilityWeight": 159.80014194059623
+    },
+    {
+      "binIndex": 82,
+      "relativeStart": 0.82,
+      "relativeEnd": 0.83,
+      "startSeconds": 195.98,
+      "endSeconds": 198.37,
+      "midpointSeconds": 197.17499999999998,
+      "isFirstBin": false,
+      "isLastBin": false,
+      "replayIntensity": 0.21252580696741483,
+      "localReplayProminence": 0.01040863644952017,
+      "timestampCommentCount": 4,
+      "timestampReferenceCount": 4,
+      "commentRateSmoothed": 2.6875000000000004,
+      "commentRateSmoothedNormalized": 0.010218631178707227,
+      "commentRateSmoothedLogNormalized": 0.43560258477898317,
+      "timestampCountRate": 0.017110266159695818,
+      "logNormalizedTimestampCount": 0.5372435736804817,
+      "meanAbsoluteSentiment": 0.25,
+      "functionCounts": {
+        "excitement_appreciation": 0,
+        "confusion": 0,
+        "humor": 0,
+        "instructional_reference": 0,
+        "quality_complaint": 0,
+        "navigation_indexing": 1,
+        "other": 3
+      },
+      "durationSeconds": 239,
+      "videoViewCount": 34010787,
+      "videoCommentCount": 10041,
+      "reliabilityWeight": 159.80014194059623
+    },
+    {
+      "binIndex": 83,
+      "relativeStart": 0.83,
+      "relativeEnd": 0.84,
+      "startSeconds": 198.37,
+      "endSeconds": 200.76,
+      "midpointSeconds": 199.565,
+      "isFirstBin": false,
+      "isLastBin": false,
+      "replayIntensity": 0.21618457565180438,
+      "localReplayProminence": 0.025061337066062533,
+      "timestampCommentCount": 1,
+      "timestampReferenceCount": 1,
+      "commentRateSmoothed": 1.8749999999999998,
+      "commentRateSmoothedNormalized": 0.007129277566539923,
+      "commentRateSmoothedLogNormalized": 0.3525190430306592,
+      "timestampCountRate": 0.005703422053231939,
+      "logNormalizedTimestampCount": 0.23137821315975918,
+      "meanAbsoluteSentiment": 0,
+      "functionCounts": {
+        "excitement_appreciation": 0,
+        "confusion": 0,
+        "humor": 0,
+        "instructional_reference": 0,
+        "quality_complaint": 0,
+        "navigation_indexing": 1,
+        "other": 0
+      },
+      "durationSeconds": 239,
+      "videoViewCount": 34010787,
+      "videoCommentCount": 10041,
+      "reliabilityWeight": 159.80014194059623
+    },
+    {
+      "binIndex": 84,
+      "relativeStart": 0.84,
+      "relativeEnd": 0.85,
+      "startSeconds": 200.76,
+      "endSeconds": 203.15,
+      "midpointSeconds": 201.95499999999998,
+      "isFirstBin": false,
+      "isLastBin": false,
+      "replayIntensity": 0.1672759845452217,
+      "localReplayProminence": -0.014780751510463458,
+      "timestampCommentCount": 2,
+      "timestampReferenceCount": 2,
+      "commentRateSmoothed": 1.7499999999999998,
+      "commentRateSmoothedNormalized": 0.006653992395437261,
+      "commentRateSmoothedLogNormalized": 0.3376806801491529,
+      "timestampCountRate": 0.009505703422053232,
+      "logNormalizedTimestampCount": 0.3667257913420846,
+      "meanAbsoluteSentiment": 0.5,
+      "functionCounts": {
+        "excitement_appreciation": 0,
+        "confusion": 0,
+        "humor": 1,
+        "instructional_reference": 0,
+        "quality_complaint": 0,
+        "navigation_indexing": 0,
+        "other": 1
+      },
+      "durationSeconds": 239,
+      "videoViewCount": 34010787,
+      "videoCommentCount": 10041,
+      "reliabilityWeight": 159.80014194059623
+    },
+    {
+      "binIndex": 85,
+      "relativeStart": 0.85,
+      "relativeEnd": 0.86,
+      "startSeconds": 203.15,
+      "endSeconds": 205.54,
+      "midpointSeconds": 204.345,
+      "isFirstBin": false,
+      "isLastBin": false,
+      "replayIntensity": 0.11745982554783616,
+      "localReplayProminence": -0.03871891126119187,
+      "timestampCommentCount": 1,
+      "timestampReferenceCount": 1,
+      "commentRateSmoothed": 1.0625,
+      "commentRateSmoothedNormalized": 0.004039923954372623,
+      "commentRateSmoothedLogNormalized": 0.2416500451717192,
+      "timestampCountRate": 0.005703422053231939,
+      "logNormalizedTimestampCount": 0.23137821315975918,
+      "meanAbsoluteSentiment": 0,
+      "functionCounts": {
+        "excitement_appreciation": 0,
+        "confusion": 0,
+        "humor": 0,
+        "instructional_reference": 0,
+        "quality_complaint": 0,
+        "navigation_indexing": 0,
+        "other": 1
+      },
+      "durationSeconds": 239,
+      "videoViewCount": 34010787,
+      "videoCommentCount": 10041,
+      "reliabilityWeight": 159.80014194059623
+    },
+    {
+      "binIndex": 86,
+      "relativeStart": 0.86,
+      "relativeEnd": 0.87,
+      "startSeconds": 205.54,
+      "endSeconds": 207.93,
+      "midpointSeconds": 206.73499999999999,
+      "isFirstBin": false,
+      "isLastBin": false,
+      "replayIntensity": 0.085075650230058,
+      "localReplayProminence": -0.034434436282904754,
+      "timestampCommentCount": 1,
+      "timestampReferenceCount": 1,
+      "commentRateSmoothed": 0.8125,
+      "commentRateSmoothedNormalized": 0.0030893536121673003,
+      "commentRateSmoothedLogNormalized": 0.19851810957764968,
+      "timestampCountRate": 0.005703422053231939,
+      "logNormalizedTimestampCount": 0.23137821315975918,
+      "meanAbsoluteSentiment": 0,
+      "functionCounts": {
+        "excitement_appreciation": 0,
+        "confusion": 0,
+        "humor": 0,
+        "instructional_reference": 0,
+        "quality_complaint": 0,
+        "navigation_indexing": 0,
+        "other": 1
+      },
+      "durationSeconds": 239,
+      "videoViewCount": 34010787,
+      "videoCommentCount": 10041,
+      "reliabilityWeight": 159.80014194059623
+    },
+    {
+      "binIndex": 87,
+      "relativeStart": 0.87,
+      "relativeEnd": 0.88,
+      "startSeconds": 207.93,
+      "endSeconds": 210.32,
+      "midpointSeconds": 209.125,
+      "isFirstBin": false,
+      "isLastBin": false,
+      "replayIntensity": 0.07379444944583045,
+      "localReplayProminence": -0.018600918783779133,
+      "timestampCommentCount": 0,
+      "timestampReferenceCount": 0,
+      "commentRateSmoothed": 0.6875,
+      "commentRateSmoothedNormalized": 0.0026140684410646386,
+      "commentRateSmoothedLogNormalized": 0.17466452138721722,
+      "timestampCountRate": 0.0019011406844106464,
+      "logNormalizedTimestampCount": 0,
+      "meanAbsoluteSentiment": 0,
+      "functionCounts": {
+        "excitement_appreciation": 0,
+        "confusion": 0,
+        "humor": 0,
+        "instructional_reference": 0,
+        "quality_complaint": 0,
+        "navigation_indexing": 0,
+        "other": 0
+      },
+      "durationSeconds": 239,
+      "videoViewCount": 34010787,
+      "videoCommentCount": 10041,
+      "reliabilityWeight": 159.80014194059623
+    },
+    {
+      "binIndex": 88,
+      "relativeStart": 0.88,
+      "relativeEnd": 0.89,
+      "startSeconds": 210.32,
+      "endSeconds": 212.71,
+      "midpointSeconds": 211.51500000000001,
+      "isFirstBin": false,
+      "isLastBin": false,
+      "replayIntensity": 0.0746506289109346,
+      "localReplayProminence": -0.00272657916742107,
+      "timestampCommentCount": 0,
+      "timestampReferenceCount": 0,
+      "commentRateSmoothed": 0.6875,
+      "commentRateSmoothedNormalized": 0.0026140684410646386,
+      "commentRateSmoothedLogNormalized": 0.17466452138721722,
+      "timestampCountRate": 0.0019011406844106464,
+      "logNormalizedTimestampCount": 0,
+      "meanAbsoluteSentiment": 0,
+      "functionCounts": {
+        "excitement_appreciation": 0,
+        "confusion": 0,
+        "humor": 0,
+        "instructional_reference": 0,
+        "quality_complaint": 0,
+        "navigation_indexing": 0,
+        "other": 0
+      },
+      "durationSeconds": 239,
+      "videoViewCount": 34010787,
+      "videoCommentCount": 10041,
+      "reliabilityWeight": 159.80014194059623
+    },
+    {
+      "binIndex": 89,
+      "relativeStart": 0.89,
+      "relativeEnd": 0.9,
+      "startSeconds": 212.71,
+      "endSeconds": 215.1,
+      "midpointSeconds": 213.905,
+      "isFirstBin": false,
+      "isLastBin": false,
+      "replayIntensity": 0.07326152455917857,
+      "localReplayProminence": -0.004009251008713743,
+      "timestampCommentCount": 3,
+      "timestampReferenceCount": 3,
+      "commentRateSmoothed": 1.375,
+      "commentRateSmoothedNormalized": 0.005228136882129277,
+      "commentRateSmoothedLogNormalized": 0.28874323821347814,
+      "timestampCountRate": 0.013307984790874524,
+      "logNormalizedTimestampCount": 0.46275642631951835,
+      "meanAbsoluteSentiment": 0,
+      "functionCounts": {
+        "excitement_appreciation": 0,
+        "confusion": 0,
+        "humor": 0,
+        "instructional_reference": 0,
+        "quality_complaint": 0,
+        "navigation_indexing": 0,
+        "other": 3
+      },
+      "durationSeconds": 239,
+      "videoViewCount": 34010787,
+      "videoCommentCount": 10041,
+      "reliabilityWeight": 159.80014194059623
+    },
+    {
+      "binIndex": 90,
+      "relativeStart": 0.9,
+      "relativeEnd": 0.91,
+      "startSeconds": 215.1,
+      "endSeconds": 217.49,
+      "midpointSeconds": 216.29500000000002,
+      "isFirstBin": false,
+      "isLastBin": false,
+      "replayIntensity": 0.08336724834691187,
+      "localReplayProminence": -0.0013202602426458931,
+      "timestampCommentCount": 0,
+      "timestampReferenceCount": 0,
+      "commentRateSmoothed": 1.6875,
+      "commentRateSmoothedNormalized": 0.006416349809885932,
+      "commentRateSmoothedLogNormalized": 0.3300065904357137,
+      "timestampCountRate": 0.0019011406844106464,
+      "logNormalizedTimestampCount": 0,
+      "meanAbsoluteSentiment": 0,
+      "functionCounts": {
+        "excitement_appreciation": 0,
+        "confusion": 0,
+        "humor": 0,
+        "instructional_reference": 0,
+        "quality_complaint": 0,
+        "navigation_indexing": 0,
+        "other": 0
+      },
+      "durationSeconds": 239,
+      "videoViewCount": 34010787,
+      "videoCommentCount": 10041,
+      "reliabilityWeight": 159.80014194059623
+    },
+    {
+      "binIndex": 91,
+      "relativeStart": 0.91,
+      "relativeEnd": 0.92,
+      "startSeconds": 217.49,
+      "endSeconds": 219.88,
+      "midpointSeconds": 218.685,
+      "isFirstBin": false,
+      "isLastBin": false,
+      "replayIntensity": 0.10615037229856014,
+      "localReplayProminence": 0.013451034776316567,
+      "timestampCommentCount": 2,
+      "timestampReferenceCount": 2,
+      "commentRateSmoothed": 2.25,
+      "commentRateSmoothedNormalized": 0.008555133079847909,
+      "commentRateSmoothedLogNormalized": 0.39344470356937045,
+      "timestampCountRate": 0.009505703422053232,
+      "logNormalizedTimestampCount": 0.3667257913420846,
+      "meanAbsoluteSentiment": 0,
+      "functionCounts": {
+        "excitement_appreciation": 0,
+        "confusion": 0,
+        "humor": 0,
+        "instructional_reference": 0,
+        "quality_complaint": 0,
+        "navigation_indexing": 0,
+        "other": 2
+      },
+      "durationSeconds": 239,
+      "videoViewCount": 34010787,
+      "videoCommentCount": 10041,
+      "reliabilityWeight": 159.80014194059623
+    },
+    {
+      "binIndex": 92,
+      "relativeStart": 0.92,
+      "relativeEnd": 0.93,
+      "startSeconds": 219.88,
+      "endSeconds": 222.27,
+      "midpointSeconds": 221.07500000000002,
+      "isFirstBin": false,
+      "isLastBin": false,
+      "replayIntensity": 0.12146923966064024,
+      "localReplayProminence": 0.022134423526746633,
+      "timestampCommentCount": 5,
+      "timestampReferenceCount": 6,
+      "commentRateSmoothed": 4.25,
+      "commentRateSmoothedNormalized": 0.016159695817490494,
+      "commentRateSmoothedLogNormalized": 0.5535301305935098,
+      "timestampCountRate": 0.024714828897338403,
+      "logNormalizedTimestampCount": 0.6495607655709434,
+      "meanAbsoluteSentiment": 0.16666666666666666,
+      "functionCounts": {
+        "excitement_appreciation": 1,
+        "confusion": 0,
+        "humor": 0,
+        "instructional_reference": 0,
+        "quality_complaint": 0,
+        "navigation_indexing": 0,
+        "other": 5
+      },
+      "durationSeconds": 239,
+      "videoViewCount": 34010787,
+      "videoCommentCount": 10041,
+      "reliabilityWeight": 159.80014194059623
+    },
+    {
+      "binIndex": 93,
+      "relativeStart": 0.93,
+      "relativeEnd": 0.94,
+      "startSeconds": 222.27,
+      "endSeconds": 224.66,
+      "midpointSeconds": 223.465,
+      "isFirstBin": false,
+      "isLastBin": false,
+      "replayIntensity": 0.1084868277562088,
+      "localReplayProminence": 0.0030125999186294827,
+      "timestampCommentCount": 0,
+      "timestampReferenceCount": 0,
+      "commentRateSmoothed": 3.9375,
+      "commentRateSmoothedNormalized": 0.01497148288973384,
+      "commentRateSmoothedLogNormalized": 0.5330446730250713,
+      "timestampCountRate": 0.0019011406844106464,
+      "logNormalizedTimestampCount": 0,
+      "meanAbsoluteSentiment": 0,
+      "functionCounts": {
+        "excitement_appreciation": 0,
+        "confusion": 0,
+        "humor": 0,
+        "instructional_reference": 0,
+        "quality_complaint": 0,
+        "navigation_indexing": 0,
+        "other": 0
+      },
+      "durationSeconds": 239,
+      "videoViewCount": 34010787,
+      "videoCommentCount": 10041,
+      "reliabilityWeight": 159.80014194059623
+    },
+    {
+      "binIndex": 94,
+      "relativeStart": 0.94,
+      "relativeEnd": 0.95,
+      "startSeconds": 224.66,
+      "endSeconds": 227.04999999999998,
+      "midpointSeconds": 225.855,
+      "isFirstBin": false,
+      "isLastBin": false,
+      "replayIntensity": 0.08880307155353753,
+      "localReplayProminence": -0.010040248132663812,
+      "timestampCommentCount": 13,
+      "timestampReferenceCount": 13,
+      "commentRateSmoothed": 5.8125,
+      "commentRateSmoothedNormalized": 0.022100760456273766,
+      "commentRateSmoothedLogNormalized": 0.6404975427637397,
+      "timestampCountRate": 0.051330798479087454,
+      "logNormalizedTimestampCount": 0.8809389787307027,
+      "meanAbsoluteSentiment": 0.07692307692307693,
+      "functionCounts": {
+        "excitement_appreciation": 0,
+        "confusion": 0,
+        "humor": 0,
+        "instructional_reference": 0,
+        "quality_complaint": 0,
+        "navigation_indexing": 1,
+        "other": 12
+      },
+      "durationSeconds": 239,
+      "videoViewCount": 34010787,
+      "videoCommentCount": 10041,
+      "reliabilityWeight": 159.80014194059623
+    },
+    {
+      "binIndex": 95,
+      "relativeStart": 0.95,
+      "relativeEnd": 0.96,
+      "startSeconds": 227.04999999999998,
+      "endSeconds": 229.44,
+      "midpointSeconds": 228.245,
+      "isFirstBin": false,
+      "isLastBin": false,
+      "replayIntensity": 0.06657389164175499,
+      "localReplayProminence": -0.012117922995069919,
+      "timestampCommentCount": 1,
+      "timestampReferenceCount": 1,
+      "commentRateSmoothed": 3.5625,
+      "commentRateSmoothedNormalized": 0.013545627376425855,
+      "commentRateSmoothedLogNormalized": 0.5066776935670162,
+      "timestampCountRate": 0.005703422053231939,
+      "logNormalizedTimestampCount": 0.23137821315975918,
+      "meanAbsoluteSentiment": 0,
+      "functionCounts": {
+        "excitement_appreciation": 0,
+        "confusion": 0,
+        "humor": 0,
+        "instructional_reference": 0,
+        "quality_complaint": 0,
+        "navigation_indexing": 0,
+        "other": 1
+      },
+      "durationSeconds": 239,
+      "videoViewCount": 34010787,
+      "videoCommentCount": 10041,
+      "reliabilityWeight": 159.80014194059623
+    },
+    {
+      "binIndex": 96,
+      "relativeStart": 0.96,
+      "relativeEnd": 0.97,
+      "startSeconds": 229.44,
+      "endSeconds": 231.82999999999998,
+      "midpointSeconds": 230.635,
+      "isFirstBin": false,
+      "isLastBin": false,
+      "replayIntensity": 0.03878554460072842,
+      "localReplayProminence": -0.019258036798041493,
+      "timestampCommentCount": 0,
+      "timestampReferenceCount": 0,
+      "commentRateSmoothed": 3.9375,
+      "commentRateSmoothedNormalized": 0.01497148288973384,
+      "commentRateSmoothedLogNormalized": 0.5330446730250713,
+      "timestampCountRate": 0.0019011406844106464,
+      "logNormalizedTimestampCount": 0,
+      "meanAbsoluteSentiment": 0,
+      "functionCounts": {
+        "excitement_appreciation": 0,
+        "confusion": 0,
+        "humor": 0,
+        "instructional_reference": 0,
+        "quality_complaint": 0,
+        "navigation_indexing": 0,
+        "other": 0
+      },
+      "durationSeconds": 239,
+      "videoViewCount": 34010787,
+      "videoCommentCount": 10041,
+      "reliabilityWeight": 159.80014194059623
+    },
+    {
+      "binIndex": 97,
+      "relativeStart": 0.97,
+      "relativeEnd": 0.98,
+      "startSeconds": 231.82999999999998,
+      "endSeconds": 234.22,
+      "midpointSeconds": 233.025,
+      "isFirstBin": false,
+      "isLastBin": false,
+      "replayIntensity": 0.018753781001017173,
+      "localReplayProminence": -0.018183528324982542,
+      "timestampCommentCount": 6,
+      "timestampReferenceCount": 6,
+      "commentRateSmoothed": 3.8749999999999996,
+      "commentRateSmoothedNormalized": 0.014733840304182507,
+      "commentRateSmoothedLogNormalized": 0.5287922817516959,
+      "timestampCountRate": 0.024714828897338403,
+      "logNormalizedTimestampCount": 0.6495607655709434,
+      "meanAbsoluteSentiment": 0,
+      "functionCounts": {
+        "excitement_appreciation": 0,
+        "confusion": 0,
+        "humor": 0,
+        "instructional_reference": 0,
+        "quality_complaint": 0,
+        "navigation_indexing": 0,
+        "other": 6
+      },
+      "durationSeconds": 239,
+      "videoViewCount": 34010787,
+      "videoCommentCount": 10041,
+      "reliabilityWeight": 159.80014194059623
+    },
+    {
+      "binIndex": 98,
+      "relativeStart": 0.98,
+      "relativeEnd": 0.99,
+      "startSeconds": 234.22,
+      "endSeconds": 236.60999999999999,
+      "midpointSeconds": 235.415,
+      "isFirstBin": false,
+      "isLastBin": false,
+      "replayIntensity": 0.00545249173551574,
+      "localReplayProminence": -0.1618539223597866,
+      "timestampCommentCount": 8,
+      "timestampReferenceCount": 8,
+      "commentRateSmoothed": 4.714285714285715,
+      "commentRateSmoothedNormalized": 0.017925040738728956,
+      "commentRateSmoothedLogNormalized": 0.5818174475888158,
+      "timestampCountRate": 0.03231939163498099,
+      "logNormalizedTimestampCount": 0.7334515826841693,
+      "meanAbsoluteSentiment": 0.25,
+      "functionCounts": {
+        "excitement_appreciation": 0,
+        "confusion": 0,
+        "humor": 0,
+        "instructional_reference": 0,
+        "quality_complaint": 0,
+        "navigation_indexing": 0,
+        "other": 8
+      },
+      "durationSeconds": 239,
+      "videoViewCount": 34010787,
+      "videoCommentCount": 10041,
+      "reliabilityWeight": 159.80014194059623
+    },
+    {
+      "binIndex": 99,
+      "relativeStart": 0.99,
+      "relativeEnd": 1,
+      "startSeconds": 236.60999999999999,
+      "endSeconds": 239,
+      "midpointSeconds": 237.805,
+      "isFirstBin": false,
+      "isLastBin": true,
+      "replayIntensity": 0.4443799166841614,
+      "localReplayProminence": 0.43227678031589495,
+      "timestampCommentCount": 0,
+      "timestampReferenceCount": 0,
+      "commentRateSmoothed": 3.272727272727273,
+      "commentRateSmoothedNormalized": 0.01244382993432423,
+      "commentRateSmoothedLogNormalized": 0.4847737368696191,
+      "timestampCountRate": 0.0019011406844106464,
+      "logNormalizedTimestampCount": 0,
+      "meanAbsoluteSentiment": 0,
+      "functionCounts": {
+        "excitement_appreciation": 0,
+        "confusion": 0,
+        "humor": 0,
+        "instructional_reference": 0,
+        "quality_complaint": 0,
+        "navigation_indexing": 0,
+        "other": 0
+      },
+      "durationSeconds": 239,
+      "videoViewCount": 34010787,
+      "videoCommentCount": 10041,
+      "reliabilityWeight": 159.80014194059623
+    }
+  ]
+}

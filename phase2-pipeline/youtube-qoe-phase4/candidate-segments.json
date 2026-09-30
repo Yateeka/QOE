@@ -1,0 +1,998 @@
+{
+  "selection": "Two high and two low standardized behavioral salience segments per video, at least five bins apart.",
+  "segments": [
+    {
+      "videoId": "q89vpZ1kwpM",
+      "category": "Sports",
+      "binIndex": 48,
+      "startSeconds": 105.6,
+      "endSeconds": 107.8,
+      "midpointSeconds": 106.7,
+      "salienceIndex": 2.770856900465705,
+      "salienceTier": "high"
+    },
+    {
+      "videoId": "q89vpZ1kwpM",
+      "category": "Sports",
+      "binIndex": 99,
+      "startSeconds": 217.8,
+      "endSeconds": 220,
+      "midpointSeconds": 218.9,
+      "salienceIndex": 1.8102138796085894,
+      "salienceTier": "high"
+    },
+    {
+      "videoId": "q89vpZ1kwpM",
+      "category": "Sports",
+      "binIndex": 7,
+      "startSeconds": 15.400000000000002,
+      "endSeconds": 17.6,
+      "midpointSeconds": 16.500000000000004,
+      "salienceIndex": -0.5099273605681762,
+      "salienceTier": "low"
+    },
+    {
+      "videoId": "q89vpZ1kwpM",
+      "category": "Sports",
+      "binIndex": 37,
+      "startSeconds": 81.4,
+      "endSeconds": 83.6,
+      "midpointSeconds": 82.5,
+      "salienceIndex": -0.430856427622114,
+      "salienceTier": "low"
+    },
+    {
+      "videoId": "rzj4FFi7wt8",
+      "category": "Sports",
+      "binIndex": 92,
+      "startSeconds": 838.12,
+      "endSeconds": 847.23,
+      "midpointSeconds": 842.6750000000001,
+      "salienceIndex": 1.9029476357063224,
+      "salienceTier": "high"
+    },
+    {
+      "videoId": "rzj4FFi7wt8",
+      "category": "Sports",
+      "binIndex": 53,
+      "startSeconds": 482.83000000000004,
+      "endSeconds": 491.94000000000005,
+      "midpointSeconds": 487.38500000000005,
+      "salienceIndex": 1.5004069303660152,
+      "salienceTier": "high"
+    },
+    {
+      "videoId": "rzj4FFi7wt8",
+      "category": "Sports",
+      "binIndex": 76,
+      "startSeconds": 692.36,
+      "endSeconds": 701.47,
+      "midpointSeconds": 696.915,
+      "salienceIndex": -0.965786966399704,
+      "salienceTier": "low"
+    },
+    {
+      "videoId": "rzj4FFi7wt8",
+      "category": "Sports",
+      "binIndex": 39,
+      "startSeconds": 355.29,
+      "endSeconds": 364.40000000000003,
+      "midpointSeconds": 359.845,
+      "salienceIndex": -0.8860684108029265,
+      "salienceTier": "low"
+    },
+    {
+      "videoId": "aE4BdIP6bvc",
+      "category": "Sports",
+      "binIndex": 35,
+      "startSeconds": 302.4,
+      "endSeconds": 311.03999999999996,
+      "midpointSeconds": 306.71999999999997,
+      "salienceIndex": 2.427577013682193,
+      "salienceTier": "high"
+    },
+    {
+      "videoId": "aE4BdIP6bvc",
+      "category": "Sports",
+      "binIndex": 3,
+      "startSeconds": 25.919999999999998,
+      "endSeconds": 34.56,
+      "midpointSeconds": 30.240000000000002,
+      "salienceIndex": 2.2396309069443223,
+      "salienceTier": "high"
+    },
+    {
+      "videoId": "aE4BdIP6bvc",
+      "category": "Sports",
+      "binIndex": 79,
+      "startSeconds": 682.5600000000001,
+      "endSeconds": 691.2,
+      "midpointSeconds": 686.88,
+      "salienceIndex": -0.753150853079576,
+      "salienceTier": "low"
+    },
+    {
+      "videoId": "aE4BdIP6bvc",
+      "category": "Sports",
+      "binIndex": 63,
+      "startSeconds": 544.32,
+      "endSeconds": 552.96,
+      "midpointSeconds": 548.64,
+      "salienceIndex": -0.6823999173727822,
+      "salienceTier": "low"
+    },
+    {
+      "videoId": "ecKnyyuMsmw",
+      "category": "Sports",
+      "binIndex": 26,
+      "startSeconds": 108.94,
+      "endSeconds": 113.13000000000001,
+      "midpointSeconds": 111.03500000000001,
+      "salienceIndex": 1.881453058385452,
+      "salienceTier": "high"
+    },
+    {
+      "videoId": "ecKnyyuMsmw",
+      "category": "Sports",
+      "binIndex": 18,
+      "startSeconds": 75.42,
+      "endSeconds": 79.61,
+      "midpointSeconds": 77.515,
+      "salienceIndex": 1.3801439720658024,
+      "salienceTier": "high"
+    },
+    {
+      "videoId": "ecKnyyuMsmw",
+      "category": "Sports",
+      "binIndex": 98,
+      "startSeconds": 410.62,
+      "endSeconds": 414.81,
+      "midpointSeconds": 412.715,
+      "salienceIndex": -1.1029589301796188,
+      "salienceTier": "low"
+    },
+    {
+      "videoId": "ecKnyyuMsmw",
+      "category": "Sports",
+      "binIndex": 56,
+      "startSeconds": 234.64000000000001,
+      "endSeconds": 238.82999999999998,
+      "midpointSeconds": 236.73499999999999,
+      "salienceIndex": -0.8810278791692345,
+      "salienceTier": "low"
+    },
+    {
+      "videoId": "5qjnDd1rsII",
+      "category": "Gaming",
+      "binIndex": 99,
+      "startSeconds": 1093.95,
+      "endSeconds": 1105,
+      "midpointSeconds": 1099.475,
+      "salienceIndex": 2.5574046902141174,
+      "salienceTier": "high"
+    },
+    {
+      "videoId": "5qjnDd1rsII",
+      "category": "Gaming",
+      "binIndex": 0,
+      "startSeconds": 0,
+      "endSeconds": 11.05,
+      "midpointSeconds": 5.525,
+      "salienceIndex": 2.4222958685431166,
+      "salienceTier": "high"
+    },
+    {
+      "videoId": "5qjnDd1rsII",
+      "category": "Gaming",
+      "binIndex": 86,
+      "startSeconds": 950.3,
+      "endSeconds": 961.35,
+      "midpointSeconds": 955.825,
+      "salienceIndex": -1.0111210210980417,
+      "salienceTier": "low"
+    },
+    {
+      "videoId": "5qjnDd1rsII",
+      "category": "Gaming",
+      "binIndex": 57,
+      "startSeconds": 629.8499999999999,
+      "endSeconds": 640.9,
+      "midpointSeconds": 635.375,
+      "salienceIndex": -0.6619846474472382,
+      "salienceTier": "low"
+    },
+    {
+      "videoId": "iOztnsBPrAA",
+      "category": "Gaming",
+      "binIndex": 90,
+      "startSeconds": 957.6,
+      "endSeconds": 968.24,
+      "midpointSeconds": 962.9200000000001,
+      "salienceIndex": 3.873421408567811,
+      "salienceTier": "high"
+    },
+    {
+      "videoId": "iOztnsBPrAA",
+      "category": "Gaming",
+      "binIndex": 3,
+      "startSeconds": 31.919999999999998,
+      "endSeconds": 42.56,
+      "midpointSeconds": 37.24,
+      "salienceIndex": 1.3469953069866842,
+      "salienceTier": "high"
+    },
+    {
+      "videoId": "iOztnsBPrAA",
+      "category": "Gaming",
+      "binIndex": 98,
+      "startSeconds": 1042.72,
+      "endSeconds": 1053.36,
+      "midpointSeconds": 1048.04,
+      "salienceIndex": -0.540241138821028,
+      "salienceTier": "low"
+    },
+    {
+      "videoId": "iOztnsBPrAA",
+      "category": "Gaming",
+      "binIndex": 24,
+      "startSeconds": 255.35999999999999,
+      "endSeconds": 266,
+      "midpointSeconds": 260.68,
+      "salienceIndex": -0.5000444628009869,
+      "salienceTier": "low"
+    },
+    {
+      "videoId": "hDkuUZ3F1GU",
+      "category": "Gaming",
+      "binIndex": 78,
+      "startSeconds": 2303.34,
+      "endSeconds": 2332.87,
+      "midpointSeconds": 2318.105,
+      "salienceIndex": 2.243726341477307,
+      "salienceTier": "high"
+    },
+    {
+      "videoId": "hDkuUZ3F1GU",
+      "category": "Gaming",
+      "binIndex": 97,
+      "startSeconds": 2864.41,
+      "endSeconds": 2893.94,
+      "midpointSeconds": 2879.1749999999997,
+      "salienceIndex": 1.9874571991469596,
+      "salienceTier": "high"
+    },
+    {
+      "videoId": "hDkuUZ3F1GU",
+      "category": "Gaming",
+      "binIndex": 3,
+      "startSeconds": 88.59,
+      "endSeconds": 118.12,
+      "midpointSeconds": 103.355,
+      "salienceIndex": -0.9635353773140656,
+      "salienceTier": "low"
+    },
+    {
+      "videoId": "hDkuUZ3F1GU",
+      "category": "Gaming",
+      "binIndex": 87,
+      "startSeconds": 2569.11,
+      "endSeconds": 2598.64,
+      "midpointSeconds": 2583.875,
+      "salienceIndex": -0.9128122258566624,
+      "salienceTier": "low"
+    },
+    {
+      "videoId": "tylNqtyj0gs",
+      "category": "Gaming",
+      "binIndex": 96,
+      "startSeconds": 2407.68,
+      "endSeconds": 2432.7599999999998,
+      "midpointSeconds": 2420.22,
+      "salienceIndex": 3.353564818163946,
+      "salienceTier": "high"
+    },
+    {
+      "videoId": "tylNqtyj0gs",
+      "category": "Gaming",
+      "binIndex": 76,
+      "startSeconds": 1906.08,
+      "endSeconds": 1931.16,
+      "midpointSeconds": 1918.6200000000001,
+      "salienceIndex": 1.829084287201598,
+      "salienceTier": "high"
+    },
+    {
+      "videoId": "tylNqtyj0gs",
+      "category": "Gaming",
+      "binIndex": 81,
+      "startSeconds": 2031.4800000000002,
+      "endSeconds": 2056.56,
+      "midpointSeconds": 2044.0199999999998,
+      "salienceIndex": -0.7999620490030823,
+      "salienceTier": "low"
+    },
+    {
+      "videoId": "tylNqtyj0gs",
+      "category": "Gaming",
+      "binIndex": 40,
+      "startSeconds": 1003.2,
+      "endSeconds": 1028.28,
+      "midpointSeconds": 1015.7400000000001,
+      "salienceIndex": -0.7840566893524896,
+      "salienceTier": "low"
+    },
+    {
+      "videoId": "BF2TZq-ntRQ",
+      "category": "Education",
+      "binIndex": 75,
+      "startSeconds": 558.75,
+      "endSeconds": 566.2,
+      "midpointSeconds": 562.475,
+      "salienceIndex": 2.1945870549357522,
+      "salienceTier": "high"
+    },
+    {
+      "videoId": "BF2TZq-ntRQ",
+      "category": "Education",
+      "binIndex": 66,
+      "startSeconds": 491.70000000000005,
+      "endSeconds": 499.15000000000003,
+      "midpointSeconds": 495.425,
+      "salienceIndex": 2.0417521607408737,
+      "salienceTier": "high"
+    },
+    {
+      "videoId": "BF2TZq-ntRQ",
+      "category": "Education",
+      "binIndex": 98,
+      "startSeconds": 730.1,
+      "endSeconds": 737.55,
+      "midpointSeconds": 733.825,
+      "salienceIndex": -1.1980585087891227,
+      "salienceTier": "low"
+    },
+    {
+      "videoId": "BF2TZq-ntRQ",
+      "category": "Education",
+      "binIndex": 54,
+      "startSeconds": 402.3,
+      "endSeconds": 409.75000000000006,
+      "midpointSeconds": 406.02500000000003,
+      "salienceIndex": -0.6534649376042263,
+      "salienceTier": "low"
+    },
+    {
+      "videoId": "w2itwFJCgFQ",
+      "category": "Education",
+      "binIndex": 64,
+      "startSeconds": 620.16,
+      "endSeconds": 629.85,
+      "midpointSeconds": 625.005,
+      "salienceIndex": 4.064985234425826,
+      "salienceTier": "high"
+    },
+    {
+      "videoId": "w2itwFJCgFQ",
+      "category": "Education",
+      "binIndex": 34,
+      "startSeconds": 329.46000000000004,
+      "endSeconds": 339.15,
+      "midpointSeconds": 334.30499999999995,
+      "salienceIndex": 2.021715723167879,
+      "salienceTier": "high"
+    },
+    {
+      "videoId": "w2itwFJCgFQ",
+      "category": "Education",
+      "binIndex": 78,
+      "startSeconds": 755.82,
+      "endSeconds": 765.51,
+      "midpointSeconds": 760.6650000000001,
+      "salienceIndex": -0.8513930158424993,
+      "salienceTier": "low"
+    },
+    {
+      "videoId": "w2itwFJCgFQ",
+      "category": "Education",
+      "binIndex": 83,
+      "startSeconds": 804.27,
+      "endSeconds": 813.9599999999999,
+      "midpointSeconds": 809.115,
+      "salienceIndex": -0.7276307173747126,
+      "salienceTier": "low"
+    },
+    {
+      "videoId": "094y1Z2wpJg",
+      "category": "Education",
+      "binIndex": 56,
+      "startSeconds": 744.2400000000001,
+      "endSeconds": 757.53,
+      "midpointSeconds": 750.8849999999999,
+      "salienceIndex": 2.3453474498069613,
+      "salienceTier": "high"
+    },
+    {
+      "videoId": "094y1Z2wpJg",
+      "category": "Education",
+      "binIndex": 99,
+      "startSeconds": 1315.71,
+      "endSeconds": 1329,
+      "midpointSeconds": 1322.355,
+      "salienceIndex": 2.1848326429570752,
+      "salienceTier": "high"
+    },
+    {
+      "videoId": "094y1Z2wpJg",
+      "category": "Education",
+      "binIndex": 77,
+      "startSeconds": 1023.33,
+      "endSeconds": 1036.6200000000001,
+      "midpointSeconds": 1029.9750000000001,
+      "salienceIndex": -0.8381751456748107,
+      "salienceTier": "low"
+    },
+    {
+      "videoId": "094y1Z2wpJg",
+      "category": "Education",
+      "binIndex": 94,
+      "startSeconds": 1249.26,
+      "endSeconds": 1262.55,
+      "midpointSeconds": 1255.905,
+      "salienceIndex": -0.733429569152403,
+      "salienceTier": "low"
+    },
+    {
+      "videoId": "arj7oStGLkU",
+      "category": "Education",
+      "binIndex": 17,
+      "startSeconds": 143.48000000000002,
+      "endSeconds": 151.92,
+      "midpointSeconds": 147.7,
+      "salienceIndex": 1.6199801881063234,
+      "salienceTier": "high"
+    },
+    {
+      "videoId": "arj7oStGLkU",
+      "category": "Education",
+      "binIndex": 96,
+      "startSeconds": 810.24,
+      "endSeconds": 818.68,
+      "midpointSeconds": 814.4599999999999,
+      "salienceIndex": 1.5076588950386514,
+      "salienceTier": "high"
+    },
+    {
+      "videoId": "arj7oStGLkU",
+      "category": "Education",
+      "binIndex": 11,
+      "startSeconds": 92.84,
+      "endSeconds": 101.28,
+      "midpointSeconds": 97.05999999999999,
+      "salienceIndex": -1.0100615022445136,
+      "salienceTier": "low"
+    },
+    {
+      "videoId": "arj7oStGLkU",
+      "category": "Education",
+      "binIndex": 70,
+      "startSeconds": 590.8,
+      "endSeconds": 599.24,
+      "midpointSeconds": 595.02,
+      "salienceIndex": -0.8948980576203793,
+      "salienceTier": "low"
+    },
+    {
+      "videoId": "doNKdpo1vF8",
+      "category": "Entertainment",
+      "binIndex": 99,
+      "startSeconds": 297.99,
+      "endSeconds": 301,
+      "midpointSeconds": 299.495,
+      "salienceIndex": 2.8157128405787857,
+      "salienceTier": "high"
+    },
+    {
+      "videoId": "doNKdpo1vF8",
+      "category": "Entertainment",
+      "binIndex": 37,
+      "startSeconds": 111.37,
+      "endSeconds": 114.38,
+      "midpointSeconds": 112.875,
+      "salienceIndex": 1.2673956020634356,
+      "salienceTier": "high"
+    },
+    {
+      "videoId": "doNKdpo1vF8",
+      "category": "Entertainment",
+      "binIndex": 94,
+      "startSeconds": 282.94,
+      "endSeconds": 285.95,
+      "midpointSeconds": 284.445,
+      "salienceIndex": -0.6182552318068314,
+      "salienceTier": "low"
+    },
+    {
+      "videoId": "doNKdpo1vF8",
+      "category": "Entertainment",
+      "binIndex": 88,
+      "startSeconds": 264.88,
+      "endSeconds": 267.89,
+      "midpointSeconds": 266.385,
+      "salienceIndex": -0.5867449127484978,
+      "salienceTier": "low"
+    },
+    {
+      "videoId": "H-0RHqDWcJE",
+      "category": "Entertainment",
+      "binIndex": 71,
+      "startSeconds": 169.69,
+      "endSeconds": 172.07999999999998,
+      "midpointSeconds": 170.885,
+      "salienceIndex": 2.078708360478656,
+      "salienceTier": "high"
+    },
+    {
+      "videoId": "H-0RHqDWcJE",
+      "category": "Entertainment",
+      "binIndex": 99,
+      "startSeconds": 236.60999999999999,
+      "endSeconds": 239,
+      "midpointSeconds": 237.805,
+      "salienceIndex": 2.076183591081496,
+      "salienceTier": "high"
+    },
+    {
+      "videoId": "H-0RHqDWcJE",
+      "category": "Entertainment",
+      "binIndex": 13,
+      "startSeconds": 31.07,
+      "endSeconds": 33.46,
+      "midpointSeconds": 32.265,
+      "salienceIndex": -0.7671861645318206,
+      "salienceTier": "low"
+    },
+    {
+      "videoId": "H-0RHqDWcJE",
+      "category": "Entertainment",
+      "binIndex": 33,
+      "startSeconds": 78.87,
+      "endSeconds": 81.26,
+      "midpointSeconds": 80.065,
+      "salienceIndex": -0.7598592473315586,
+      "salienceTier": "low"
+    },
+    {
+      "videoId": "ZD1QrIe--_Y",
+      "category": "Entertainment",
+      "binIndex": 49,
+      "startSeconds": 369.95,
+      "endSeconds": 377.5,
+      "midpointSeconds": 373.725,
+      "salienceIndex": 2.927955930776384,
+      "salienceTier": "high"
+    },
+    {
+      "videoId": "ZD1QrIe--_Y",
+      "category": "Entertainment",
+      "binIndex": 99,
+      "startSeconds": 747.45,
+      "endSeconds": 755,
+      "midpointSeconds": 751.225,
+      "salienceIndex": 2.8438601568227773,
+      "salienceTier": "high"
+    },
+    {
+      "videoId": "ZD1QrIe--_Y",
+      "category": "Entertainment",
+      "binIndex": 75,
+      "startSeconds": 566.25,
+      "endSeconds": 573.8,
+      "midpointSeconds": 570.025,
+      "salienceIndex": -0.7610127101456922,
+      "salienceTier": "low"
+    },
+    {
+      "videoId": "ZD1QrIe--_Y",
+      "category": "Entertainment",
+      "binIndex": 7,
+      "startSeconds": 52.85000000000001,
+      "endSeconds": 60.4,
+      "midpointSeconds": 56.62500000000001,
+      "salienceIndex": -0.7221810638310245,
+      "salienceTier": "low"
+    },
+    {
+      "videoId": "UBA3OQSJU58",
+      "category": "Entertainment",
+      "binIndex": 99,
+      "startSeconds": 356.4,
+      "endSeconds": 360,
+      "midpointSeconds": 358.2,
+      "salienceIndex": 1.3887820508053477,
+      "salienceTier": "high"
+    },
+    {
+      "videoId": "UBA3OQSJU58",
+      "category": "Entertainment",
+      "binIndex": 75,
+      "startSeconds": 270,
+      "endSeconds": 273.6,
+      "midpointSeconds": 271.8,
+      "salienceIndex": 1.3454379322589654,
+      "salienceTier": "high"
+    },
+    {
+      "videoId": "UBA3OQSJU58",
+      "category": "Entertainment",
+      "binIndex": 87,
+      "startSeconds": 313.2,
+      "endSeconds": 316.8,
+      "midpointSeconds": 315,
+      "salienceIndex": -0.6087008154488317,
+      "salienceTier": "low"
+    },
+    {
+      "videoId": "UBA3OQSJU58",
+      "category": "Entertainment",
+      "binIndex": 94,
+      "startSeconds": 338.4,
+      "endSeconds": 342,
+      "midpointSeconds": 340.2,
+      "salienceIndex": -0.5591261284707694,
+      "salienceTier": "low"
+    },
+    {
+      "videoId": "L_Guz73e6fw",
+      "category": "Podcasts and Interviews",
+      "binIndex": 99,
+      "startSeconds": 8550.63,
+      "endSeconds": 8637,
+      "midpointSeconds": 8593.815,
+      "salienceIndex": 2.6101109089750194,
+      "salienceTier": "high"
+    },
+    {
+      "videoId": "L_Guz73e6fw",
+      "category": "Podcasts and Interviews",
+      "binIndex": 84,
+      "startSeconds": 7255.08,
+      "endSeconds": 7341.45,
+      "midpointSeconds": 7298.264999999999,
+      "salienceIndex": 2.016004512854807,
+      "salienceTier": "high"
+    },
+    {
+      "videoId": "L_Guz73e6fw",
+      "category": "Podcasts and Interviews",
+      "binIndex": 77,
+      "startSeconds": 6650.49,
+      "endSeconds": 6736.860000000001,
+      "midpointSeconds": 6693.675,
+      "salienceIndex": -1.3672257549525113,
+      "salienceTier": "low"
+    },
+    {
+      "videoId": "L_Guz73e6fw",
+      "category": "Podcasts and Interviews",
+      "binIndex": 20,
+      "startSeconds": 1727.4,
+      "endSeconds": 1813.77,
+      "midpointSeconds": 1770.585,
+      "salienceIndex": -1.0490022624662696,
+      "salienceTier": "low"
+    },
+    {
+      "videoId": "jvqFAi7vkBc",
+      "category": "Podcasts and Interviews",
+      "binIndex": 99,
+      "startSeconds": 6840.9,
+      "endSeconds": 6910,
+      "midpointSeconds": 6875.45,
+      "salienceIndex": 2.579626210879072,
+      "salienceTier": "high"
+    },
+    {
+      "videoId": "jvqFAi7vkBc",
+      "category": "Podcasts and Interviews",
+      "binIndex": 0,
+      "startSeconds": 0,
+      "endSeconds": 69.10000000000001,
+      "midpointSeconds": 34.550000000000004,
+      "salienceIndex": 2.491558786917441,
+      "salienceTier": "high"
+    },
+    {
+      "videoId": "jvqFAi7vkBc",
+      "category": "Podcasts and Interviews",
+      "binIndex": 7,
+      "startSeconds": 483.70000000000005,
+      "endSeconds": 552.8000000000001,
+      "midpointSeconds": 518.2500000000001,
+      "salienceIndex": -1.230010841835335,
+      "salienceTier": "low"
+    },
+    {
+      "videoId": "jvqFAi7vkBc",
+      "category": "Podcasts and Interviews",
+      "binIndex": 90,
+      "startSeconds": 6219,
+      "endSeconds": 6288.1,
+      "midpointSeconds": 6253.55,
+      "salienceIndex": -1.1080708856595456,
+      "salienceTier": "low"
+    },
+    {
+      "videoId": "QmOF0crdyRU",
+      "category": "Podcasts and Interviews",
+      "binIndex": 77,
+      "startSeconds": 6307.84,
+      "endSeconds": 6389.76,
+      "midpointSeconds": 6348.8,
+      "salienceIndex": 1.8295337731872572,
+      "salienceTier": "high"
+    },
+    {
+      "videoId": "QmOF0crdyRU",
+      "category": "Podcasts and Interviews",
+      "binIndex": 6,
+      "startSeconds": 491.52,
+      "endSeconds": 573.44,
+      "midpointSeconds": 532.48,
+      "salienceIndex": 1.412304690166068,
+      "salienceTier": "high"
+    },
+    {
+      "videoId": "QmOF0crdyRU",
+      "category": "Podcasts and Interviews",
+      "binIndex": 88,
+      "startSeconds": 7208.96,
+      "endSeconds": 7290.88,
+      "midpointSeconds": 7249.92,
+      "salienceIndex": -1.2085231623800814,
+      "salienceTier": "low"
+    },
+    {
+      "videoId": "QmOF0crdyRU",
+      "category": "Podcasts and Interviews",
+      "binIndex": 97,
+      "startSeconds": 7946.24,
+      "endSeconds": 8028.16,
+      "midpointSeconds": 7987.2,
+      "salienceIndex": -1.1762026918127932,
+      "salienceTier": "low"
+    },
+    {
+      "videoId": "GrhLT9P61Z8",
+      "category": "Podcasts and Interviews",
+      "binIndex": 99,
+      "startSeconds": 12151.26,
+      "endSeconds": 12274,
+      "midpointSeconds": 12212.63,
+      "salienceIndex": 3.837496126234448,
+      "salienceTier": "high"
+    },
+    {
+      "videoId": "GrhLT9P61Z8",
+      "category": "Podcasts and Interviews",
+      "binIndex": 0,
+      "startSeconds": 0,
+      "endSeconds": 122.74000000000001,
+      "midpointSeconds": 61.370000000000005,
+      "salienceIndex": 1.8978675773406022,
+      "salienceTier": "high"
+    },
+    {
+      "videoId": "GrhLT9P61Z8",
+      "category": "Podcasts and Interviews",
+      "binIndex": 67,
+      "startSeconds": 8223.58,
+      "endSeconds": 8346.32,
+      "midpointSeconds": 8284.95,
+      "salienceIndex": -0.8384917105186304,
+      "salienceTier": "low"
+    },
+    {
+      "videoId": "GrhLT9P61Z8",
+      "category": "Podcasts and Interviews",
+      "binIndex": 76,
+      "startSeconds": 9328.24,
+      "endSeconds": 9450.98,
+      "midpointSeconds": 9389.61,
+      "salienceIndex": -0.7763923048524753,
+      "salienceTier": "low"
+    },
+    {
+      "videoId": "9BMhFmNzw-o",
+      "category": "Instructional Content",
+      "binIndex": 33,
+      "startSeconds": 36.300000000000004,
+      "endSeconds": 37.400000000000006,
+      "midpointSeconds": 36.85,
+      "salienceIndex": 1.724190847492962,
+      "salienceTier": "high"
+    },
+    {
+      "videoId": "9BMhFmNzw-o",
+      "category": "Instructional Content",
+      "binIndex": 56,
+      "startSeconds": 61.60000000000001,
+      "endSeconds": 62.699999999999996,
+      "midpointSeconds": 62.14999999999999,
+      "salienceIndex": 1.698609270083394,
+      "salienceTier": "high"
+    },
+    {
+      "videoId": "9BMhFmNzw-o",
+      "category": "Instructional Content",
+      "binIndex": 95,
+      "startSeconds": 104.5,
+      "endSeconds": 105.6,
+      "midpointSeconds": 105.05,
+      "salienceIndex": -0.572908380624192,
+      "salienceTier": "low"
+    },
+    {
+      "videoId": "9BMhFmNzw-o",
+      "category": "Instructional Content",
+      "binIndex": 3,
+      "startSeconds": 3.3,
+      "endSeconds": 4.4,
+      "midpointSeconds": 3.8500000000000005,
+      "salienceIndex": -0.46675969612862617,
+      "salienceTier": "low"
+    },
+    {
+      "videoId": "joBmbh0AGSQ",
+      "category": "Instructional Content",
+      "binIndex": 89,
+      "startSeconds": 298.15,
+      "endSeconds": 301.5,
+      "midpointSeconds": 299.825,
+      "salienceIndex": 2.7007743444806223,
+      "salienceTier": "high"
+    },
+    {
+      "videoId": "joBmbh0AGSQ",
+      "category": "Instructional Content",
+      "binIndex": 67,
+      "startSeconds": 224.45000000000002,
+      "endSeconds": 227.8,
+      "midpointSeconds": 226.12500000000003,
+      "salienceIndex": 1.5340409766515057,
+      "salienceTier": "high"
+    },
+    {
+      "videoId": "joBmbh0AGSQ",
+      "category": "Instructional Content",
+      "binIndex": 98,
+      "startSeconds": 328.3,
+      "endSeconds": 331.65,
+      "midpointSeconds": 329.975,
+      "salienceIndex": -1.5864316770346625,
+      "salienceTier": "low"
+    },
+    {
+      "videoId": "joBmbh0AGSQ",
+      "category": "Instructional Content",
+      "binIndex": 1,
+      "startSeconds": 3.35,
+      "endSeconds": 6.7,
+      "midpointSeconds": 5.0249999999999995,
+      "salienceIndex": -0.7966383622804425,
+      "salienceTier": "low"
+    },
+    {
+      "videoId": "rfscVS0vtbw",
+      "category": "Instructional Content",
+      "binIndex": 56,
+      "startSeconds": 8966.720000000001,
+      "endSeconds": 9126.839999999998,
+      "midpointSeconds": 9046.779999999999,
+      "salienceIndex": 2.3155002210773525,
+      "salienceTier": "high"
+    },
+    {
+      "videoId": "rfscVS0vtbw",
+      "category": "Instructional Content",
+      "binIndex": 2,
+      "startSeconds": 320.24,
+      "endSeconds": 480.35999999999996,
+      "midpointSeconds": 400.3,
+      "salienceIndex": 2.3001924055974463,
+      "salienceTier": "high"
+    },
+    {
+      "videoId": "rfscVS0vtbw",
+      "category": "Instructional Content",
+      "binIndex": 80,
+      "startSeconds": 12809.6,
+      "endSeconds": 12969.720000000001,
+      "midpointSeconds": 12889.660000000002,
+      "salienceIndex": -1.2772655558960124,
+      "salienceTier": "low"
+    },
+    {
+      "videoId": "rfscVS0vtbw",
+      "category": "Instructional Content",
+      "binIndex": 99,
+      "startSeconds": 15851.88,
+      "endSeconds": 16012,
+      "midpointSeconds": 15931.94,
+      "salienceIndex": -1.2394888833288096,
+      "salienceTier": "low"
+    },
+    {
+      "videoId": "fKxG8KjH1Qg",
+      "category": "Instructional Content",
+      "binIndex": 35,
+      "startSeconds": 88.55,
+      "endSeconds": 91.08,
+      "midpointSeconds": 89.815,
+      "salienceIndex": 2.253304779383736,
+      "salienceTier": "high"
+    },
+    {
+      "videoId": "fKxG8KjH1Qg",
+      "category": "Instructional Content",
+      "binIndex": 51,
+      "startSeconds": 129.03,
+      "endSeconds": 131.56,
+      "midpointSeconds": 130.29500000000002,
+      "salienceIndex": 1.953558428608732,
+      "salienceTier": "high"
+    },
+    {
+      "videoId": "fKxG8KjH1Qg",
+      "category": "Instructional Content",
+      "binIndex": 98,
+      "startSeconds": 247.94,
+      "endSeconds": 250.47,
+      "midpointSeconds": 249.20499999999998,
+      "salienceIndex": -1.7107105719372449,
+      "salienceTier": "low"
+    },
+    {
+      "videoId": "fKxG8KjH1Qg",
+      "category": "Instructional Content",
+      "binIndex": 82,
+      "startSeconds": 207.45999999999998,
+      "endSeconds": 209.98999999999998,
+      "midpointSeconds": 208.725,
+      "salienceIndex": -0.8200838872791235,
+      "salienceTier": "low"
+    }
+  ],
+  "conditions": [
+    {
+      "impairment": "rebuffering",
+      "severity": "2s",
+      "severityValue": 2
+    },
+    {
+      "impairment": "rebuffering",
+      "severity": "5s",
+      "severityValue": 5
+    },
+    {
+      "impairment": "bitrate_reduction",
+      "severity": "50_percent",
+      "severityValue": 0.5
+    },
+    {
+      "impairment": "bitrate_reduction",
+      "severity": "25_percent",
+      "severityValue": 0.75
+    },
+    {
+      "impairment": "resolution_reduction",
+      "severity": "50_percent",
+      "severityValue": 0.5
+    },
+    {
+      "impairment": "resolution_reduction",
+      "severity": "25_percent",
+      "severityValue": 0.75
+    }
+  ],
+  "plannedMeasurementRows": 576
+}

@@ -1,0 +1,710 @@
+{
+  "instructions": "Independently label each sampled comment with one of the seven function categories; fill humanFunction. Then run npm run validate:labels -- <path-to-completed-template.json>.",
+  "labels": [
+    "excitement_appreciation",
+    "confusion",
+    "humor",
+    "instructional_reference",
+    "quality_complaint",
+    "navigation_indexing",
+    "other"
+  ],
+  "items": [
+    {
+      "videoId": "q89vpZ1kwpM",
+      "text": "1:47",
+      "predictedFunction": "other",
+      "humanFunction": ""
+    },
+    {
+      "videoId": "rzj4FFi7wt8",
+      "text": "6:50 that coach in the background is like Snape spelling in the Quiddich game...",
+      "predictedFunction": "other",
+      "humanFunction": ""
+    },
+    {
+      "videoId": "rzj4FFi7wt8",
+      "text": "3:37-4:08 / 8:13-8:51 That commentator is really biased against Korean archer. He doesn't realise archery was the national sport in Korea before League of Legends...",
+      "predictedFunction": "other",
+      "humanFunction": ""
+    },
+    {
+      "videoId": "rzj4FFi7wt8",
+      "text": "14:29 I like the fact that the third place is always happier than second",
+      "predictedFunction": "other",
+      "humanFunction": ""
+    },
+    {
+      "videoId": "rzj4FFi7wt8",
+      "text": "13:40 THEYRE SO RESPECTFUL 😭",
+      "predictedFunction": "other",
+      "humanFunction": ""
+    },
+    {
+      "videoId": "rzj4FFi7wt8",
+      "text": "14:15 The way the guy in second place stares longingly at the gold medal 🥺",
+      "predictedFunction": "other",
+      "humanFunction": ""
+    },
+    {
+      "videoId": "aE4BdIP6bvc",
+      "text": "12:40 \"And I have never seen a goal less celebrated in my life\" 😂😂😂",
+      "predictedFunction": "other",
+      "humanFunction": ""
+    },
+    {
+      "videoId": "aE4BdIP6bvc",
+      "text": "5:52 one of the most famous woman in football😂😂",
+      "predictedFunction": "other",
+      "humanFunction": ""
+    },
+    {
+      "videoId": "aE4BdIP6bvc",
+      "text": "German guys at 11:05 “guys please stop. We still need to get back to hotel.”",
+      "predictedFunction": "navigation_indexing",
+      "humanFunction": ""
+    },
+    {
+      "videoId": "aE4BdIP6bvc",
+      "text": "5:25 \"The little boy is crying his eyes out\" cracked me up bad",
+      "predictedFunction": "other",
+      "humanFunction": ""
+    },
+    {
+      "videoId": "aE4BdIP6bvc",
+      "text": "1:41 bro was doing the salute lol.",
+      "predictedFunction": "humor",
+      "humanFunction": ""
+    },
+    {
+      "videoId": "ecKnyyuMsmw",
+      "text": "OMG 01:18 so fierce and elegant at the same time…",
+      "predictedFunction": "other",
+      "humanFunction": ""
+    },
+    {
+      "videoId": "ecKnyyuMsmw",
+      "text": "I’m in love with her face expression after landing 1:42",
+      "predictedFunction": "other",
+      "humanFunction": ""
+    },
+    {
+      "videoId": "ecKnyyuMsmw",
+      "text": "Aww 0:56 did someone yell out “you’re beautiful”",
+      "predictedFunction": "excitement_appreciation",
+      "humanFunction": ""
+    },
+    {
+      "videoId": "ecKnyyuMsmw",
+      "text": "1:13 뒤에 배너 지나가는 속도가 ㄷㄷ. 김연아 스피드 때문에 뒤에 배너들이 블러처리돼서 첫 컴비네이션뛸때 유독 김연아한테 포커스가 맞춰지면서 초점이 빨려들어갈거같음",
+      "predictedFunction": "other",
+      "humanFunction": ""
+    },
+    {
+      "videoId": "ecKnyyuMsmw",
+      "text": "2:58 favorite part",
+      "predictedFunction": "other",
+      "humanFunction": ""
+    },
+    {
+      "videoId": "5qjnDd1rsII",
+      "text": "0:10 revisit this series every year. You are missed, techno.",
+      "predictedFunction": "other",
+      "humanFunction": ""
+    },
+    {
+      "videoId": "5qjnDd1rsII",
+      "text": "1:20 *_\"I dropped out of Collage for this :)\" Miss u man <3_*",
+      "predictedFunction": "other",
+      "humanFunction": ""
+    },
+    {
+      "videoId": "5qjnDd1rsII",
+      "text": "0:15 I'll never forget that line. I know its too late to say this but thank you for training me in that Highpixel event I'll never forget",
+      "predictedFunction": "excitement_appreciation",
+      "humanFunction": ""
+    },
+    {
+      "videoId": "5qjnDd1rsII",
+      "text": "6:55 “what was i gonna do? Farm potatoes by hand for hundreds of hours. Im not gonna do that.” Little did he know that in about a month of time he would spend 14 hours per day farming potatoes by hand for weeks on end...",
+      "predictedFunction": "other",
+      "humanFunction": ""
+    },
+    {
+      "videoId": "5qjnDd1rsII",
+      "text": "17:37 How squid kid felt about the white listed accounts",
+      "predictedFunction": "other",
+      "humanFunction": ""
+    },
+    {
+      "videoId": "iOztnsBPrAA",
+      "text": "2:35 “THE BITE? WHAT BITE?” little did he know he’d make history years later",
+      "predictedFunction": "other",
+      "humanFunction": ""
+    },
+    {
+      "videoId": "iOztnsBPrAA",
+      "text": "12:01 The 2026 subtitles really got more unique! It added a dash when Markiplier didn’t finish the work panic and said another sentence like “I am pan- I AM LOOSING MY [ _ ] RIGHT NOW.”",
+      "predictedFunction": "other",
+      "humanFunction": ""
+    },
+    {
+      "videoId": "iOztnsBPrAA",
+      "text": "9:47 “If you made it to day two, congrats!” Mark: (clown honk sound)",
+      "predictedFunction": "other",
+      "humanFunction": ""
+    },
+    {
+      "videoId": "iOztnsBPrAA",
+      "text": "2:34 Caller: “But then there was the Bite of ‘87.” Mark: “THE BITE?!” Caller: “Yeah…” The way he seemed to answer Mark sounded too real 🤣",
+      "predictedFunction": "other",
+      "humanFunction": ""
+    },
+    {
+      "videoId": "iOztnsBPrAA",
+      "text": "2:34 i like how the phone guy paused for a moment to let markiplier say \"THE BITE!?\" and then he said Yeah.",
+      "predictedFunction": "other",
+      "humanFunction": ""
+    },
+    {
+      "videoId": "hDkuUZ3F1GU",
+      "text": "48:25 Antforst didn’t want to live in the same world as enderman 😭😭",
+      "predictedFunction": "other",
+      "humanFunction": ""
+    },
+    {
+      "videoId": "hDkuUZ3F1GU",
+      "text": "13:49 I feel like I’m watching a shark attack documentary",
+      "predictedFunction": "other",
+      "humanFunction": ""
+    },
+    {
+      "videoId": "hDkuUZ3F1GU",
+      "text": "27:35 The way dream just starts singing hallelujah and then everyone joined in is actually killing me",
+      "predictedFunction": "other",
+      "humanFunction": ""
+    },
+    {
+      "videoId": "hDkuUZ3F1GU",
+      "text": "Dream: You guys are the best, i appreciate you for the journey. 33:33",
+      "predictedFunction": "excitement_appreciation",
+      "humanFunction": ""
+    },
+    {
+      "videoId": "hDkuUZ3F1GU",
+      "text": "Sapnap's scream at 47:46",
+      "predictedFunction": "navigation_indexing",
+      "humanFunction": ""
+    },
+    {
+      "videoId": "tylNqtyj0gs",
+      "text": "What Dream said in the extra scenes: 1.5 Million likes and we Will do 3 hunters and im gonna try to kill the wither. Edit: if you dont believe me you can check the extra scenes video yourself dream says it at 9:00 (not this video)",
+      "predictedFunction": "navigation_indexing",
+      "humanFunction": ""
+    },
+    {
+      "videoId": "tylNqtyj0gs",
+      "text": "40:18 this was like thr best thing I've ever seen in my life. Better than every clutch in minecraft history. This guy has two brains instead of one.",
+      "predictedFunction": "other",
+      "humanFunction": ""
+    },
+    {
+      "videoId": "tylNqtyj0gs",
+      "text": "36:01 “oh myyy how the turns have tabled” great English",
+      "predictedFunction": "excitement_appreciation",
+      "humanFunction": ""
+    },
+    {
+      "videoId": "tylNqtyj0gs",
+      "text": "27:24 DREAM: LAKJSDFFJFUIKJEHEHDHFHFNFKJ BAD: WHAT IS THAT EVEN MEAN? SAPNAP: YO YO THAT MEANS ''OH MY GOD I'M GOING TO DIE!''",
+      "predictedFunction": "other",
+      "humanFunction": ""
+    },
+    {
+      "videoId": "tylNqtyj0gs",
+      "text": "2:34 Dream executed a leap of faith in Assassin's Creed.",
+      "predictedFunction": "other",
+      "humanFunction": ""
+    },
+    {
+      "videoId": "BF2TZq-ntRQ",
+      "text": "9:24 That face got me. It looks so sad 😭",
+      "predictedFunction": "other",
+      "humanFunction": ""
+    },
+    {
+      "videoId": "BF2TZq-ntRQ",
+      "text": "8:48 A kiss from a baby seal :3",
+      "predictedFunction": "other",
+      "humanFunction": ""
+    },
+    {
+      "videoId": "BF2TZq-ntRQ",
+      "text": "7:18 Here you go, that's a big fat sausage replay button",
+      "predictedFunction": "other",
+      "humanFunction": ""
+    },
+    {
+      "videoId": "BF2TZq-ntRQ",
+      "text": "7:30 Aww she gave the look of hope to her child, \"You gotta survive on your own honey\" edit: wow thanks for the likes. bless your soul <3",
+      "predictedFunction": "excitement_appreciation",
+      "humanFunction": ""
+    },
+    {
+      "videoId": "BF2TZq-ntRQ",
+      "text": "9:23 Look at the pups face, it looks like it's about to cry. I'm balling my eyes out from that face omfg it's so sad-",
+      "predictedFunction": "other",
+      "humanFunction": ""
+    },
+    {
+      "videoId": "w2itwFJCgFQ",
+      "text": "10:15 \"These three quads are cooperatively carrying a sky net.\" *no reaction from the audience*",
+      "predictedFunction": "other",
+      "humanFunction": ""
+    },
+    {
+      "videoId": "w2itwFJCgFQ",
+      "text": "11:48 *THE FORCE IS STRONG WITH THIS ONE*",
+      "predictedFunction": "other",
+      "humanFunction": ""
+    },
+    {
+      "videoId": "w2itwFJCgFQ",
+      "text": "6:50 and every quad enthusiast cried",
+      "predictedFunction": "other",
+      "humanFunction": ""
+    },
+    {
+      "videoId": "w2itwFJCgFQ",
+      "text": "11:48 WOW! He's a Jedi",
+      "predictedFunction": "excitement_appreciation",
+      "humanFunction": ""
+    },
+    {
+      "videoId": "w2itwFJCgFQ",
+      "text": "May the force be with you 11:46",
+      "predictedFunction": "other",
+      "humanFunction": ""
+    },
+    {
+      "videoId": "094y1Z2wpJg",
+      "text": "10:38 imagine if the 295147905179352825857th number is the one that disproves the conjecture",
+      "predictedFunction": "other",
+      "humanFunction": ""
+    },
+    {
+      "videoId": "094y1Z2wpJg",
+      "text": "12:35 love thisss 🤌🏻😂",
+      "predictedFunction": "other",
+      "humanFunction": ""
+    },
+    {
+      "videoId": "094y1Z2wpJg",
+      "text": "12:35 Thought it is Derek himself lol",
+      "predictedFunction": "humor",
+      "humanFunction": ""
+    },
+    {
+      "videoId": "094y1Z2wpJg",
+      "text": "12:34 \"one of the world's greatest living mathematicians...\" the editing really got me laughing. Nicely done.",
+      "predictedFunction": "other",
+      "humanFunction": ""
+    },
+    {
+      "videoId": "094y1Z2wpJg",
+      "text": "2:03 I love how you stopped at 26",
+      "predictedFunction": "other",
+      "humanFunction": ""
+    },
+    {
+      "videoId": "arj7oStGLkU",
+      "text": "13:46 true savage moment",
+      "predictedFunction": "other",
+      "humanFunction": ""
+    },
+    {
+      "videoId": "arj7oStGLkU",
+      "text": "@ted please never ever delete this video, I'm at 7:23, my monkey mind told me to stop and comment. I'd like to come back to it at some point in future!",
+      "predictedFunction": "navigation_indexing",
+      "humanFunction": ""
+    },
+    {
+      "videoId": "arj7oStGLkU",
+      "text": "7:37 so relatable",
+      "predictedFunction": "other",
+      "humanFunction": ""
+    },
+    {
+      "videoId": "arj7oStGLkU",
+      "text": "The frustration was not that they werent able to chase their dreams its that they werent even able to start chasing them” 12:30-12:37 ( that GOT me, HARD )",
+      "predictedFunction": "other",
+      "humanFunction": ""
+    },
+    {
+      "videoId": "arj7oStGLkU",
+      "text": "13:32 Me: \"Wow, I don't have that much time in this world\" Monkey: \"Let's count these boxes\"",
+      "predictedFunction": "excitement_appreciation",
+      "humanFunction": ""
+    },
+    {
+      "videoId": "doNKdpo1vF8",
+      "text": "3:06 Ethan's strong sound is just perfection",
+      "predictedFunction": "other",
+      "humanFunction": ""
+    },
+    {
+      "videoId": "doNKdpo1vF8",
+      "text": "2:21",
+      "predictedFunction": "other",
+      "humanFunction": ""
+    },
+    {
+      "videoId": "doNKdpo1vF8",
+      "text": "1:52",
+      "predictedFunction": "other",
+      "humanFunction": ""
+    },
+    {
+      "videoId": "doNKdpo1vF8",
+      "text": "2:26, are he looking at Giorgia?",
+      "predictedFunction": "other",
+      "humanFunction": ""
+    },
+    {
+      "videoId": "doNKdpo1vF8",
+      "text": "1:21 Very similar to Frusciante's opening riff of Scar Tissue by Red Hot Chili Peppers (link here: https://youtu.be/mzJj5-lubeM ). And Thomas is by the way a declared big fan of Frusciante so it makes even more sense that he is referencing and being inspired by that riff. And in the first few notes (still from 1:21) by Thomas you can also see a part of Frusciante's opening riff in Don't Forget me, from Stadium Arcadium (link: https://youtu.be/SnQ0E-UVt1g?t=1 ).",
+      "predictedFunction": "other",
+      "humanFunction": ""
+    },
+    {
+      "videoId": "H-0RHqDWcJE",
+      "text": "2:48 When you memorize an enemy's parry timing on your 33rd attempt:",
+      "predictedFunction": "other",
+      "humanFunction": ""
+    },
+    {
+      "videoId": "H-0RHqDWcJE",
+      "text": "The agonising beauty of the phone ringing out of reach at 0:12 - so near yet so far",
+      "predictedFunction": "navigation_indexing",
+      "humanFunction": ""
+    },
+    {
+      "videoId": "H-0RHqDWcJE",
+      "text": "“So what are you saying? I can dodge bullets?” “No. What I’m saying is, when you’re ready... you won’t have to.” 2:09",
+      "predictedFunction": "other",
+      "humanFunction": ""
+    },
+    {
+      "videoId": "H-0RHqDWcJE",
+      "text": "2:55 that one-arm thing is one of the biggest humbles a person can suffer",
+      "predictedFunction": "other",
+      "humanFunction": ""
+    },
+    {
+      "videoId": "H-0RHqDWcJE",
+      "text": "2:38 Imagine reaching a stage of enlightenment that you literally see the mechanics of our universe.",
+      "predictedFunction": "other",
+      "humanFunction": ""
+    },
+    {
+      "videoId": "ZD1QrIe--_Y",
+      "text": "Everyone: Who's here after watching Shakira and JLo haftimeshow Me: Who's here for the shark at 4:40",
+      "predictedFunction": "navigation_indexing",
+      "humanFunction": ""
+    },
+    {
+      "videoId": "ZD1QrIe--_Y",
+      "text": "6:15 when a whole stadium knows your song just by the first four words. ICONIC. and ending it with literal fireworks!",
+      "predictedFunction": "other",
+      "humanFunction": ""
+    },
+    {
+      "videoId": "ZD1QrIe--_Y",
+      "text": "6:18 She took that massive risk, and it worked",
+      "predictedFunction": "other",
+      "humanFunction": ""
+    },
+    {
+      "videoId": "ZD1QrIe--_Y",
+      "text": "6:16 listen I know Beyoncé’s and lady Gaga’s was amazing! But this one single moment of Katy’s show is one of the best moments in all of the Super bowl half time shows! When she says “sing it!” And the entire audience shouts the words because it’s such a recognizable song! Amazing!!",
+      "predictedFunction": "excitement_appreciation",
+      "humanFunction": ""
+    },
+    {
+      "videoId": "ZD1QrIe--_Y",
+      "text": "6:19 Love that the crowd really answer her back... (I'm not here after the weeknd, I'm after Shakira and JLo)",
+      "predictedFunction": "other",
+      "humanFunction": ""
+    },
+    {
+      "videoId": "UBA3OQSJU58",
+      "text": "2:55 Who can say the name of the melody?",
+      "predictedFunction": "other",
+      "humanFunction": ""
+    },
+    {
+      "videoId": "UBA3OQSJU58",
+      "text": "When Sophia V said what she did about wanting to be a part of this, you could see the dancers were hoping to get the golden buzzer. 5:02",
+      "predictedFunction": "other",
+      "humanFunction": ""
+    },
+    {
+      "videoId": "UBA3OQSJU58",
+      "text": "0:30 what is her name ?",
+      "predictedFunction": "other",
+      "humanFunction": ""
+    },
+    {
+      "videoId": "UBA3OQSJU58",
+      "text": "2:44 THE EYES! THE ARABIC EYES! 3:12 THE EYES AGAIN!",
+      "predictedFunction": "other",
+      "humanFunction": ""
+    },
+    {
+      "videoId": "UBA3OQSJU58",
+      "text": "0:11 0:29 4:19 4:30 4:50",
+      "predictedFunction": "other",
+      "humanFunction": ""
+    },
+    {
+      "videoId": "L_Guz73e6fw",
+      "text": "Here are the timestamps. Please check out our sponsors to support this podcast. 0:00 - Introduction & sponsor mentions: - NetSuite: http://netsuite.com/lex to get free product tour - SimpliSafe: https://simplisafe.com/lex - ExpressVPN: https://expressvpn.com/lexpod to get 3 months free 4:36 - GPT-4 16:02 - Political bias 23:03 - AI safety 43:43 - Neural network size 47:36 - AGI 1:09:05 - Fear 1:11:14 - Competition 1:13:33 - From non-profit to capped-profit 1:16:54 - Power 1:22:06 - Elon Musk 1:30:32 - Political pressure 1:48:46 - Truth and misinformation 2:01:09 - Microsoft 2:05:09 - SVB bank collapse 2:10:00 - Anthropomorphism 2:14:03 - Future applications 2:17:54 - Advice for young people 2:20:33 - Meaning of life",
+      "predictedFunction": "other",
+      "humanFunction": ""
+    },
+    {
+      "videoId": "L_Guz73e6fw",
+      "text": "History may look back on this as one of the most important and ominous pods in cast history! Big congrats and thank you to the higher primate Lex for making it happen! 00:13:21 seems key!",
+      "predictedFunction": "excitement_appreciation",
+      "humanFunction": ""
+    },
+    {
+      "videoId": "L_Guz73e6fw",
+      "text": "50:52 I just gained so much more respect for Sam when he stopped Lex and was genuinely curious why Lex feels a bit of terror when using it. This is the first time I’ve felt that the people in charge might actually care. Thank you, Sam.",
+      "predictedFunction": "excitement_appreciation",
+      "humanFunction": ""
+    },
+    {
+      "videoId": "L_Guz73e6fw",
+      "text": "The way Lex says, \"Yeah, that's true,\" at 1:45:14 is the perfect example of the tone engineers use when they're 100% engaged on a problem. This is the first time I've heard it on a podcast, and it speaks volumes to the depths of the questions being discussed. Happy this was captured.",
+      "predictedFunction": "navigation_indexing",
+      "humanFunction": ""
+    },
+    {
+      "videoId": "L_Guz73e6fw",
+      "text": "🎯 Key Takeaways for quick navigation: 00:00 🧠 *OpenAI's mission and early challenges* - OpenAI's inception as an organization aiming to develop AGI (Artificial General Intelligence). - Initial challenges and skepticism faced by OpenAI in the AI community. 01:05 🤖 *The significance and potential dangers of AI* - Discussion about the transformative potential and risks associated with superintelligent AI. - The role of AGI in reshaping society and the need for responsible development and control. 04:30 🤯 *Understanding GPT-4 and its significance* - Introduction to GPT-4, its role as an early AI system, and its importance in the history of AI. - The idea that AI development is an ongoing exponential process, with no single pivotal moment. 05:27 🗣️ *The evolution of AI models: GPT vs. ChatGPT* - Comparing the significance of different GPT versions and the pivotal role of ChatGPT in making AI more accessible. 06:54 🧠 *Training large language models* - Insights into the extensive data collection and compilation process for pre-training data sets. - The challenges of data selection and the vast amount of content available on the internet. 08:24 🤔 *Understanding AI and human guidance* - The importance of human guidance in shaping AI behavior and utility. - The evolving science of incorporating human feedback into AI models. 10:26 🤯 *Challenges in building AI systems* - The complexity and problem-solving involved in creating AI models like GPT-4. - Continuous advancements in various stages of the AI development pipeline. 12:21 🧐 *Insights into AI model behavior* - Discussion about understanding the inner workings and behavior of AI models. - The distinction between facts and wisdom in AI-generated content. 13:56 🧠 *AI models and the struggle with certain tasks* - The challenges AI models face in performing seemingly simple tasks like counting characters. - The importance of iterative development and feedback from users in refining AI models. 16:29 📚 *AI's role in providing nuance and context* - The potential for AI models like GPT-4 to offer nuanced and well-reasoned responses. - The value of AI in restoring nuance to discussions, especially on platforms like Twitter. 21:58 🧠 *AI Impact and Focus* - Discussion on AI's evolution and focus on smaller issues. 23:00 🛡️ *AI Safety Efforts for GPT-4* - Insights into the safety considerations during GPT-4's development. 24:30 🔐 *Challenges in AI Alignment* - Addressing the alignment problem in creating super powerful AI systems. 26:02 🤖 *Dialogues and AI Steering* 27:07 💬 *The System Message* - Explaining the \"system message\" and its influence on AI responses. 30:34 ⌨️ *The Impact on Programming* - How GPT4 and advancements are changing the nature of programming. 32:06 🚧 *Challenges in AI Safety* - Discussing the extensive effort to ensure AI safety in GPT-4. 35:09 ⚖️ *Setting Boundaries for AI* - The challenge of defining boundaries for AI aligned with human values. 37:44 💻 *Addressing Bias in AI Outputs* - The challenge of regulating other people's speech through AI. 40:40 🛠️ *Moderation and Refusals* - Exploring tools and systems for AI moderation and refusal of certain questions. 42:39 🤔 *Navigating Complex Language and Content* - Navigating the complexity of language and content in AI systems like GPT-4. 43:07 🧠 *GPT-4 Technical Leaps* - GPT-4 represents a significant advancement with multiple technical leaps. - The progress is achieved through countless small improvements that compound. 44:08 📏 *Size of GPT Models* - GPT-4 is discussed in terms of its size, rumored to be 100 trillion parameters. 45:09 💻 *Complexity of AI Development* - The complexity of developing AI models like GPT-4 is discussed. 46:42L_Guz73e6fw&t=46m42s) 🤖 *Size and Parameters* - The discussion delves into the role of the number of parameters in AI models. 49:19 🚀 *AI and Super Intelligence* - The conversation explores the possibility of AI models contributing to scientific knowledge. 51:51 🌟 *Role of Human Creativity in Programming* - The role of human creativity and genius in programming is debated. 54:48 ⚖️ *Concerns about AI Alignment* - The conversation turns to concerns about AI alignment and superintelligent AI. 56:19 📈 *Exponential Improvement and Safety* - The discussion touches on the challenges of predicting exponential technological improvement. 59:57 ⏩ *AI Takeoff and Its Timelines* - The concept of AI takeoff and its speed is debated, considering short and long timelines. 01:02:37 🤖 *Definition of AGI and GPT-4* - The discussion delves into the definition of AGI (Artificial General Intelligence). 01:03:11 👁️ *Consciousness and AI* - The question of whether GPT-4 is conscious is addressed. 01:03:45 💭 *GPT-4 and Consciousness* - Discussing the concept of AI consciousness. 01:06:53 🤖 *Smiling AI and the Turing Test* - Examining the concept of consciousness through the example of a smiling AI. 01:10:39 🌍 *Impact of AGI on Geopolitics* - Potential effects of AGI on geopolitics and information dissemination. 01:12:12L_Guz73e6fw&t=4332s) 🏛 *OpenAI's Structure and Mission* - OpenAI's transition from a nonprofit to a capped for-profit structure. 01:15:20 📊 *Competition in AGI Development* - The competitive landscape of AGI development. 01:19:12 🔓 *Open Sourcing AI Models* - Balancing openness and control over AI models. 01:21:40 🚀 *The Role of Transparency and Feedback* - The significance of transparency and openness in AI development. 01:24:25 💙 *Admiring Elon Musk* - Acknowledging Elon Musk's contributions to electric vehicles and space exploration. 01:25:23 🧠 *Discussion on GPT's bias and neutrality* - Sam Altman discusses the challenge of GPT's bias and neutrality. 01:26:54 🌐 *Effects of company employees on system bias* - Sam Altman acknowledges the influence of company employees on system bias. 01:28:25 💭 *Selection of human feedback raters and biases* - Discussion on the selection of human feedback raters and the need for a representative sample. 01:30:25 💼 *Future concerns about pressure affecting AI system* - Sam Altman talks about the possibility of external pressures affecting AI systems. 01:33:42 🌍 *UBI and the future of work* - Sam Altman's perspective on Universal Basic Income (UBI) as a component of economic transformation. 01:41:17 💡 *Economic and political transformation with AI* - The potential impact of AI on the cost of intelligence and energy. 01:46:06 💡 *Sam Altman discusses the possibility of having an \"off switch\" for AI models.* - The ability to deactivate AI models, like GPT-4, is possible. 01:47:06 🤖 *The role of collective intelligence in shaping AI's usage.* - OpenAI's reliance on collective intelligence to address misuse. 01:47:35 😇 *Insights from users of ChatGPT and GPT models regarding human civilization.* - Observations that most AI users are mostly good in their interactions. 01:49:13 🧐 *The challenge of determining what is true or misinformation.* - The difficulty of defining absolute truth, with some areas of high uncertainty. 01:53:17 📱 *Discussing the challenges of GPT and social media censorship.* - Reflection on the censorship issues faced by social media platforms. 01:55:20 🛡️ *The responsibility of OpenAI for the impact of AI tools.* - Acknowledgment of harm caused by AI tools. 01:56:32 💼 *The challenge of preventing AI models from being hacked or jailbroken.* - Desire to provide users with control over AI models to reduce the need for jailbreaking. 01:59:05 👥 *OpenAI's approach to hiring great teams and the importance of alignment.* - The value of aligning a team's vision and passion with OpenAI's mission. 02:01:45 💼 *The partnership with Microsoft and its impact on OpenAI.* - Highlights the strong partnership and alignment with Microsoft. 02:05:26 🏦 *Discussion of the SVB situation and its implications.* - An assessment of SVB's mismanagement and regulatory issues. 02:08:10 🌍 *Impact of Economic Fragility* - Lessons from the SVB bank incident reveal the fragility of our economic system. 02:09:15 📈 *Hope Amidst Technological Shifts* - Rapid changes due to technology can be both exciting and scary. 02:10:17 🤖 *Humanizing AGI Systems* - People have different perspectives on how to address AGI's personification. 02:12:33 🤖 *Romantic Relationships with AI* - Some companies offer AI companions for romantic interactions. 02:14:04 💬 *Styles of Conversation with AGI* - Looking forward to conversations with AGI about understanding the mysteries of physics and scientific breakthroughs. 02:16:46 💡 *Reflections on Technological Advancements* - Reflecting on the rapid growth of digital intelligence and technology. 02:18:13 🚀 *Advice for a Fulfilling Life* - Advice on success and fulfillment, emphasizing the importance of being bold, hardworking, and independent. 02:22:16 🌌 *The Meaning of Humanity's Journey* - Acknowledging the collective effort of humanity throughout history. Made with HARPA AI",
+      "predictedFunction": "instructional_reference",
+      "humanFunction": ""
+    },
+    {
+      "videoId": "jvqFAi7vkBc",
+      "text": "Here are the timestamps. Please check out our sponsors to support this podcast. Transcript: https://lexfridman.com/sam-altman-2-transcript 0:00 - Introduction & sponsor mentions: - Cloaked: https://cloaked.com/lex and use code LexPod to get 25% off - Shopify: https://shopify.com/lex to get $1 per month trial - BetterHelp: https://betterhelp.com/lex to get 10% off - ExpressVPN: https://expressvpn.com/lexpod to get 3 months free 1:05 - OpenAI board saga 18:31 - Ilya Sutskever 24:40 - Elon Musk lawsuit 34:32 - Sora 44:23 - GPT-4 55:32 - Memory & privacy 1:02:36 - Q* 1:06:12 - GPT-5 1:09:27 - $7 trillion of compute 1:17:35 - Google and Gemini 1:28:40 - Leap to GPT-5 1:32:24 - AGI 1:50:57 - Aliens",
+      "predictedFunction": "other",
+      "humanFunction": ""
+    },
+    {
+      "videoId": "jvqFAi7vkBc",
+      "text": "1:06:12 gotta love Lex's casual delivery 🤣",
+      "predictedFunction": "other",
+      "humanFunction": ""
+    },
+    {
+      "videoId": "jvqFAi7vkBc",
+      "text": "38:00 I love this part. The negotiation.",
+      "predictedFunction": "excitement_appreciation",
+      "humanFunction": ""
+    },
+    {
+      "videoId": "jvqFAi7vkBc",
+      "text": "1:29:08 that is my preferred notion of this video, never really thought about the connection with the model, but now it makes so much sense.",
+      "predictedFunction": "other",
+      "humanFunction": ""
+    },
+    {
+      "videoId": "jvqFAi7vkBc",
+      "text": "1:09:22 “You're not the man you used to be, Sam.\" \"Very different job now than what I used to have.\" I watched this part so many times and it still sends chills down my back. I listened to the 2 podcasts with Sam so many times and examined them in detail. In the first podcast, Sam's stance was \"Look at the amount of pettiness among the \"experts\" when we started, now look where we are. We are going fast and going strong. Great accomplishments, huge milestones, bright future ahead.\" He was the guy defying all odds and proving everyone wrong by making something remarkable. The future was unknown, and in a dark cave, there was light. Now things have completely changed. By moving towards that light it becomes clear that AGI is not an IF but WHEN, and as things move forward at exponential speeds, we are racing toward that light we see, kicking and pulling on the people around us, and what's waiting for us at the destination? Would we run off a cliff without being able to stop? The level of certainty in his face and voice just 11 months ago that OpenAI would either make AGI or \"not make AGI but still make humans super great\", and the level of uncertainty we see today that \"AGIs are coming any second and the world is not ready for it\", is insane.",
+      "predictedFunction": "excitement_appreciation",
+      "humanFunction": ""
+    },
+    {
+      "videoId": "QmOF0crdyRU",
+      "text": "Video starts from 9:58",
+      "predictedFunction": "other",
+      "humanFunction": ""
+    },
+    {
+      "videoId": "QmOF0crdyRU",
+      "text": "1. Cold Water therapy effects on dopamine, adrenaline and nor adrenalin 2. Dopamine can be released in 2 ways: Local release and volumetric release 3. How pleasurable or satisfying you feel doesn't depend on peak level of dopamine. It depends upon difference in baseline level and peak level of dopamine. How you feel depends upon your previous level of Dopamine as compared to present level. Many drugs just increase both baseline level and peak level instead of increasing the difference between them. A big Dopamine release makes it more challenging to achieve higher dopamine release the next time. There should not be High level nor low level of Dpamine for long. 4.Just Increasing dopamine level will make us excited but that excitement will be for very less period of time 5. Chocolate increases Dipamine 1.5 times but it goes away in few seconds. Desire of sex or act of sex increases dopamine 2 times 6. Nicotene(smoked) increases dopamine 2.5 times above base line (Very short lived) 7. Amphetamine, Cocaine, Nicotine, Sex increases dopamine in everybody that takes them. Exercise, Hard Work and Studying increasea dopamine but it is subjective 8. After achieving something, Dopamine increases but after some time it falls down. It falls down even below the baseline. The extent it drops below the baseline is directly proportional to how high the peak was. After achieving something, if you feel preety happy, the dopamine will not fall that much but if you feel extremely happy, your dopamine will fall extremely after a day or two. (Eg:- Postpartum Depression). Anyway, we return to the baseline after some time. 9. If we continue to engage in something exciting regularly, after sometime it will be less exciting to us. 10. Some people release dopamine at higher level after a certain activity which deplete the releasable pool of dopamine. So, after sometime, dopamine falls below base level and it leads to a low feeling. Some people do the dopamine spiking activity again and again to bring back dopamine up to experience pleasure again since they are feeling low. But as we know, they have depleted the stock of releasable dopamine. The baseline begins to lower again and again. This is called ADDICTION and Addicted people don't feel pleasure at all. 11. Addiction is the progressive narrowing of things that bring you pleasure. If I am addicted to video games. I will feel happy in only playing it. I will not feel happy in exercise, study, social activity and my life will be ruined. After a some time, my system will stop releasing dopamine even after playing video games and nothing is left for me which can increase my dopamine. This is the start of depression. Spiking dopamine again and again is the main cause of decline in The baseline level. 12. If you experience a win whether it is school, sports or relationship; be highly careful about allowing yourself to experience a huge peak of Dopamine. 13. You kind of like exercise and to do exercise you increase dopamine by drinking energy drink and listen music to do exercise then you are increasing the number of conditions required to achieve the high level of dopamine by doing exercise. Don't use stimulants everytime you study or everytime you workout or anything in which you want to enjoy the process. Taking these stimulants (Music, energy drinks, Motivational reels) before the task will reduce the level of enjoyment and undermine the ability to stay motivated. The best way is to get excitement and motivation from the task itself whether it is Study or Workout. So. ENJOY THE PROCESS only. 14. Some Healthy ways to increase Dopamine so that the base level is maintained:: Cold water Therapy which increases Adrenalin and nor-adrenalin rapidly while dopamine shows gradual increase to 2.5 times above baseline and comes back to normal in 3 hours (Here there is a sustained increase instead of Rise and Crash) 15. If you work hard for the end result then the process will become very challenging. 1:39:02 is an amazing example. When someone gives reward or we reward ourself then we tend to associate our pleasure with reward rather than the work itself and if the reward is stopped, we lose interest in the process of the work. But again, Take a special care of not spiking dopamine just prior or even after to the effort. Learn to raise Dopamine from effort itself. 16. Example of Porn: Those who are indulged in it find it difficult to seek enjoyment in the productive process. Watching porn and Masturbation increase dopamine level⬆️ and then fall down very quickly⬇️⬇️⬇️⬇️⬇️ below base line . Now to raise dopamine level much higher is difficult to feel pleasure again.",
+      "predictedFunction": "navigation_indexing",
+      "humanFunction": ""
+    },
+    {
+      "videoId": "QmOF0crdyRU",
+      "text": "1:45:25 How to attach pleasure to effort: \"In those moments of the most instense friction you tell yourself this is very painful and because it's painful, it will evoke an increase in dopamine release later, meaning it will increase my baseline in dopamine, but you also have to tell yourself that in that moment you are doing it by choice and you're doing it because you love it.\"",
+      "predictedFunction": "instructional_reference",
+      "humanFunction": ""
+    },
+    {
+      "videoId": "QmOF0crdyRU",
+      "text": "Timestamps: • 00:00:00 Introduction & Tool 1 to Induce Lasting Dopamine • 00:04:48 Sponsors: Roka, InsideTracker, Headspace • 00:09:10 Upcoming (Zero-Cost) Neuroplasticity Seminar for Educators • 00:09:58 What Dopamine (Really) Does • 00:15:30 Two Main Neural Circuits for Dopamine • 00:18:14 How Dopamine Is Released: Locally and Broadly • 00:22:03 Fast and Slow Effects of Dopamine • 00:25:03 Dopamine Neurons Co-Release Glutamate • 00:28:00 Your Dopamine History Really Matters • 00:30:30 Parkinson’s & Drugs That Kill Dopamine Neurons. My Dopamine Experience • 00:36:58 Tool 3 Controlling Dopamine Peaks & Baselines • 00:40:06 Chocolate, Sex (Pursuit & Behavior), Nicotine, Cocaine, Amphetamine, Exercise • 00:46:46 Tool 4 Caffeine Increases Dopamine Receptors • 00:49:54 Pursuit, Excitement & Your “Dopamine Setpoint” • 00:56:46 Your Pleasure-Pain Balance & Defining “Pain” • 01:00:00 Addiction, Dopamine Depletion, & Replenishing Dopamine • 01:07:50 Tool 5 Ensure Your Best (Healthy) Dopamine Release • 01:15:28 Smart Phones: How They Alter Our Dopamine Circuits • 01:19:45 Stimulants & Spiking Dopamine: Counterproductive for Work, Exercise & Attention • 01:22:20 Caffeine Sources Matter: Yerba Mate & Dopamine Neuron Protection • 01:24:20 Caffeine & Neurotoxicity of MDMA • 01:26:15 Amphetamine, Cocaine & Detrimental Rewiring of Dopamine Circuits • 01:27:57 Ritalin, Adderall, (Ar)Modafinil: ADHD versus non-Prescription Uses • 01:28:45 Tool 6 Stimulating Long-Lasting Increases in Baseline Dopamine • 01:37:55 Tool 7 Tuning Your Dopamine for Ongoing Motivation • 01:47:40 Tool 8 Intermittent Fasting: Effects on Dopamine • 01:53:09 Validation of Your Pre-Existing Beliefs Increases Dopamine • 01:53:50 Tool 9 Quitting Sugar & Highly Palatable Foods: 48 Hours • 01:55:36 Pornography • 01:56:50 Wellbutrin & Depression & Anxiety • 01:58:30 Tool 10 Mucuna Pruriens, Prolactin, Sperm, Crash Warning • 02:01:45 Tool 11 L-Tyrosine: Dosages, Duration of Effects & Specificity • 02:05:20 Tool 12 Avoiding Melatonin Supplementation, & Avoiding Light 10pm-4am • 02:07:00 Tool 13 Phenylethylamine (with Alpha-GPC) For Dopamine Focus/Energy • 02:08:20 Tool 14 Huperzine A • 02:10:02 Social Connections, Oxytocin & Dopamine Release • 02:12:20 Direct & Indirect Effects: e.g., Maca; Synthesis & Application • 02:14:22 Zero-Cost & Other Ways To Support Podcast & Research",
+      "predictedFunction": "other",
+      "humanFunction": ""
+    },
+    {
+      "videoId": "QmOF0crdyRU",
+      "text": "Reposting timestamps for those who can't see them among the links below video sorry I do not know how to copy them with highlighted times that go directly to that location on the video but this still helps. Timestamps: 00:00:00 Introduction & Tool 1 to Induce Lasting Dopamine 00:04:48 Sponsors: Roka, InsideTracker, Headspace 00:09:10 Upcoming (Zero-Cost) Neuroplasticity Seminar for Educators 00:09:58 What Dopamine (Really) Does 00:15:30 Two Main Neural Circuits for Dopamine 00:18:14 How Dopamine Is Released: Locally and Broadly 00:22:03 Fast and Slow Effects of Dopamine 00:25:03 Dopamine Neurons Co-Release Glutamate 00:28:00 Your Dopamine History Really Matters 00:30:30 Parkinson’s & Drugs That Kill Dopamine Neurons. My Dopamine Experience 00:36:58 Tool 3 Controlling Dopamine Peaks & Baselines 00:40:06 Chocolate, Sex (Pursuit & Behavior), Nicotine, Cocaine, Amphetamine, Exercise 00:46:46 Tool 4 Caffeine Increases Dopamine Receptors 00:49:54 Pursuit, Excitement & Your “Dopamine Setpoint” 00:56:46 Your Pleasure-Pain Balance & Defining “Pain” 01:00:00 Addiction, Dopamine Depletion, & Replenishing Dopamine 01:07:50 Tool 5 Ensure Your Best (Healthy) Dopamine Release 01:15:28 Smart Phones: How They Alter Our Dopamine Circuits 01:19:45 Stimulants & Spiking Dopamine: Counterproductive for Work, Exercise & Attention 01:22:20 Caffeine Sources Matter: Yerba Mate & Dopamine Neuron Protection 01:24:20 Caffeine & Neurotoxicity of MDMA 01:26:15 Amphetamine, Cocaine & Detrimental Rewiring of Dopamine Circuits 01:27:57 Ritalin, Adderall, (Ar)Modafinil: ADHD versus non-Prescription Uses 01:28:45 Tool 6 Stimulating Long-Lasting Increases in Baseline Dopamine 01:37:55 Tool 7 Tuning Your Dopamine for Ongoing Motivation 01:47:40 Tool 8 Intermittent Fasting: Effects on Dopamine 01:53:09 Validation of Your Pre-Existing Beliefs Increases Dopamine 01:53:50 Tool 9 Quitting Sugar & Highly Palatable Foods: 48 Hours 01:55:36 Pornography 01:56:50 Wellbutrin & Depression & Anxiety 01:58:30 Tool 10 Mucuna Pruriens, Prolactin, Sperm, Crash Warning 02:01:45 Tool 11 L-Tyrosine: Dosages, Duration of Effects & Specificity 02:05:20 Tool 12 Avoiding Melatonin Supplementation, & Avoiding Light 10pm-4am 02:07:00 Tool 13 Phenylethylamine (with Alpha-GPC) For Dopamine Focus/Energy 02:08:20 Tool 14 Huperzine A 02:10:02 Social Connections, Oxytocin & Dopamine Release 02:12:20 Direct & Indirect Effects: e.g., Maca; Synthesis & Application 02:14:22 Zero-Cost & Other Ways To Support Podcast & Research",
+      "predictedFunction": "instructional_reference",
+      "humanFunction": ""
+    },
+    {
+      "videoId": "GrhLT9P61Z8",
+      "text": "My latest omega-3 guide covers recent concerns like a-fib, how I think about dosage, where to find the best products. Get it free at: https://fmfomega3guide.com/ Timestamps: (00:02:37) The neuromodulatory role of dopamine (00:04:29) Driver of motivation vs. experiencing reward (00:09:35) Why dopamine dynamics act as a \"wave pool\" (00:13:15) Why dopamine neurons need a recovery period (00:14:58) Strategies to minimize the dopamine-triggering effects of smartphone use (00:18:32) Why dopamine peaks without effort are dangerous (00:21:52) The number one sign of a highly motivated individual (00:23:59) Dopamine reward-prediction error (00:28:21) Does lacking motivation reflect dopamine system deficits? (00:33:00) Why focus & motivation has a 'warm-up' period (00:37:16) Why to attach reward to effort itself (00:42:32) How setbacks provide crucial feedback to your dopamine system (00:47:51) Tips for fostering tenacity in children (00:50:05) Visualization of negative outcomes (why to do it) (00:52:51) How to overcome procrastination (00:58:51) How exercise affects the dopamine system (01:03:35) Deliberate cold exposure vs. drug highs (01:05:29) The entrainment effect of same-time exercise (01:09:24) Why you shouldn't rely on stimulants when lacking motivation (01:10:08) How caffeine affects motivation (01:10:41) Why Dr. Huberman limits his nicotine consumption and may quit (01:14:05) The pitfalls of artificial stimulants (01:16:52) Why Andrew \"counts walls\" during deliberate cold exposure (01:21:44) Cold exposure parameters for increasing dopamine (01:24:18) Cold plunge alternatives for replenishing dopamine (01:25:35) Why Andrew limits most workouts to 80-85% intensity (01:28:37) Using exercise & cold exposure as stimuli for the brain (01:31:08) The anterior midcingulate cortex (01:33:31) Transcranial magnetic stimulation (01:36:22) What does Dr. Huberman think of Neuralink? (01:39:28) Why non-sleep deep rest may replenish dopamine (01:46:03) Can NSDR improve sleep? (01:49:45) My experience trying NSDR after poor sleep (01:51:04) Possible creativity & trauma therapy benefits of NSDR (01:54:15) How to cultivate a healthy relationship with social media (02:00:44) The unique psychosocial dynamics of X (formerly Twitter)\" (02:02:05) Andrew's recommended daily use limit for Instagram (02:04:39) Is screen time increasing the prevalence of ADHD? (02:06:20) Why Andrew recommends setting social media constraints (02:09:32) Is social media increasing divorce rates? (02:12:12) Why low solar angle light is crucial for regulating our circadian rhythms (02:22:10) How to limit the adverse effects of late-night artificial light (02:23:57) The light bulb that mimics sunrise and sunset (02:25:09) How to spike morning cortisol by 50% (and why that's good) (02:26:21) What's the optimal time to view morning sunlight? (02:27:11) Can light panels replace morning sunlight? (02:28:33) Combatting laptop & phone use with long distance viewing (02:35:06) Why Andrew recommends limiting alcohol to 0-2 drinks per week (02:43:09) How alcohol affects the dopamine and serotonin systems (02:48:47) Treating ADHD with drugs, supplements, & behaviors\" (02:53:30) Factors contributing to the possible overdiagnosis of ADHD (02:56:56) Do people with ADHD lack focus capacity? (02:58:09) Can behavioral modifications replace the need for ADHD drugs? (03:00:00) Andrew's weekly workout routine (03:05:43) Andrew's diet & why his dinners are higher in carbs (03:06:39) Modulating stress with the physiological sigh (03:07:34) Andrew's supplement routine (03:10:00) Andrew's experimentation with peptides (03:12:14) How Andrew gauges supplement, diet, & workout routine effectiveness (03:15:10) How Andrew processes sometimes negative feedback (03:20:30) The volatility of interacting with internet crowds",
+      "predictedFunction": "confusion",
+      "humanFunction": ""
+    },
+    {
+      "videoId": "GrhLT9P61Z8",
+      "text": "2:18 He mentioned this on his podcast before, and I respected him for it then. Now, I respect him even more for giving Dr. Rhonda Patrick the credit she deserves directly on her podcast! She paved the way!",
+      "predictedFunction": "other",
+      "humanFunction": ""
+    },
+    {
+      "videoId": "GrhLT9P61Z8",
+      "text": "1:08:00",
+      "predictedFunction": "other",
+      "humanFunction": ""
+    },
+    {
+      "videoId": "GrhLT9P61Z8",
+      "text": "1:32:30",
+      "predictedFunction": "other",
+      "humanFunction": ""
+    },
+    {
+      "videoId": "GrhLT9P61Z8",
+      "text": "42:00",
+      "predictedFunction": "other",
+      "humanFunction": ""
+    },
+    {
+      "videoId": "9BMhFmNzw-o",
+      "text": "1:49 Yup definitely did it…",
+      "predictedFunction": "other",
+      "humanFunction": ""
+    },
+    {
+      "videoId": "9BMhFmNzw-o",
+      "text": "I have never been able to tie a tie or understand how to in my life. I just tied my first tie in 1:34 seconds and I'm 28! I'm so pumped",
+      "predictedFunction": "instructional_reference",
+      "humanFunction": ""
+    },
+    {
+      "videoId": "9BMhFmNzw-o",
+      "text": "Btw guy who posted “video starts on 0:30” I owe you a like brother 😂",
+      "predictedFunction": "other",
+      "humanFunction": ""
+    },
+    {
+      "videoId": "9BMhFmNzw-o",
+      "text": "1:29 When I pull the narrow end of the tie it becomes longer than the wide end wtf",
+      "predictedFunction": "other",
+      "humanFunction": ""
+    },
+    {
+      "videoId": "9BMhFmNzw-o",
+      "text": "Video starts on 0:30",
+      "predictedFunction": "other",
+      "humanFunction": ""
+    },
+    {
+      "videoId": "joBmbh0AGSQ",
+      "text": "Lolololol @ 2:36 \"Jacking can take a while, so be patient and cautious as you jack.\" Very true indeed.",
+      "predictedFunction": "other",
+      "humanFunction": ""
+    },
+    {
+      "videoId": "joBmbh0AGSQ",
+      "text": "2:36 words of wisdom",
+      "predictedFunction": "other",
+      "humanFunction": ""
+    },
+    {
+      "videoId": "joBmbh0AGSQ",
+      "text": "4:35 “Going down is much easier than going up.” THATS WHAT SHE SAID!!!🤣🤣",
+      "predictedFunction": "other",
+      "humanFunction": ""
+    },
+    {
+      "videoId": "joBmbh0AGSQ",
+      "text": "WATCH OUT FOR BEES!!!!! 0:57",
+      "predictedFunction": "other",
+      "humanFunction": ""
+    },
+    {
+      "videoId": "joBmbh0AGSQ",
+      "text": "2:35",
+      "predictedFunction": "other",
+      "humanFunction": ""
+    },
+    {
+      "videoId": "rfscVS0vtbw",
+      "text": "0:00 introduction 1:45 installing python and pycharm 6:40 setup and hello world 10:23 Drawing a shape 15:06 Variables and Data types 27:03 Working with strings 38:18 Working with numbers 48:26 Getting input from users 52:37 building a basic calculator 58:27 Mad libs Game 1:03:10 Lists 1:10:44 List Functions 1:18:57 Tuples 1:24:15 Functions 1:34:11 Return statement 1:40:06 If statement 1:54:07 If statements and comparisons 2:00:37 Building a better calculator 2:07:17 Dictionaries 2:14:13 While loop 2:20:21 Building a Guessing game 2:32:44 For loop 2:41:20 Exponent Function 2:47:13 2D lists and nested loop 2:52:41 Building a Translator 3:00:18 Comments 3:04:17 Try/Except 3:12:41 Reading Files 3:21:26 Writing a file 3:28:13 Modules and pip 3:43:56 Classes and Objects 3:57:37 Building a Multiple choice quiz 4:08:28 Object Function 4:12:37 Inheritance 4:20:43 Python interpreter ...Thank you...",
+      "predictedFunction": "excitement_appreciation",
+      "humanFunction": ""
+    },
+    {
+      "videoId": "rfscVS0vtbw",
+      "text": "day1(26.07.06) : 1:12:07 ~ 1:40:00 (return) day2(26.07.07) : 1:14:00 ~ 1:54:08 (If statement) and 2:07:00 Day3(26.07.09): 2:47:15 (for loops practice) Day4(26.07.13) : 3:57:00 ( Classes & Objects )",
+      "predictedFunction": "other",
+      "humanFunction": ""
+    },
+    {
+      "videoId": "rfscVS0vtbw",
+      "text": "2:30:38, when he said, \"This is a lot of code, let me explain it again\". I'm in love",
+      "predictedFunction": "instructional_reference",
+      "humanFunction": ""
+    },
+    {
+      "videoId": "rfscVS0vtbw",
+      "text": "Day 1 27:03 Day 2 1:54:07 Day 3 2:20:01 Day 4 3:12:41 Day 5 4:26:51 completed this course.",
+      "predictedFunction": "other",
+      "humanFunction": ""
+    },
+    {
+      "videoId": "rfscVS0vtbw",
+      "text": "⌨️ (0:00​) Introduction ⌨️ (1:45​) Installing Python & PyCharm ⌨️ (6:40​) Setup & Hello World ⌨️ (10:23​) Drawing a Shape ⌨️ (15:06​) Variables & Data Types ⌨️ (27:03​) Working With Strings ⌨️ (38:18​) Working With Numbers ⌨️ (48:26​) Getting Input From Users ⌨️ (52:37​) Building a Basic Calculator ⌨️ (58:27​) Mad Libs Game ⌨️ (1:03:10​) Lists ⌨️ (1:10:44​) List Functions ⌨️ (1:18:57​) Tuples ⌨️ (1:24:15​) Functions ⌨️ (1:34:11​) Return Statement ⌨️ (1:40:06​) If Statements ⌨️ (1:54:07​) If Statements & Comparisons ⌨️ (2:00:37​) Building a better Calculator ⌨️ (2:07:17​) Dictionaries ⌨️ (2:14:13​) While Loop ⌨️ (2:20:21​) Building a Guessing Game ⌨️ (2:32:44​) For Loops ⌨️ (2:41:20​) Exponent Function ⌨️ (2:47:13​) 2D Lists & Nested Loops ⌨️ (2:52:41​) Building a Translator ⌨️ (3:00:18​) Comments ⌨️ (3:04:17​) Try / Except ⌨️ (3:12:41​) Reading Files ⌨️ (3:21:26​) Writing to Files ⌨️ (3:28:13​) Modules & Pip ⌨️ (3:43:56​) Classes & Objects ⌨️ (3:57:37​) Building a Multiple Choice Quiz ⌨️ (4:08:28​) Object Functions ⌨️ (4:12:37​) Inheritance ⌨️ (4:20:43​) Python Interpreter **********THANK YOU**********",
+      "predictedFunction": "excitement_appreciation",
+      "humanFunction": ""
+    },
+    {
+      "videoId": "fKxG8KjH1Qg",
+      "text": "2:32 That's common in casual play, yes, but isn't a requirement, and is in fact considered impolite in high-level play, as it implies your opponent is too stupid to see it themself, and is more of an annoyance than anything.",
+      "predictedFunction": "other",
+      "humanFunction": ""
+    },
+    {
+      "videoId": "fKxG8KjH1Qg",
+      "text": "0:11 he do be beatboxing for 0.0001 nanosecond",
+      "predictedFunction": "other",
+      "humanFunction": ""
+    },
+    {
+      "videoId": "fKxG8KjH1Qg",
+      "text": "2:48 lol trys to pick p the black one fails twice",
+      "predictedFunction": "humor",
+      "humanFunction": ""
+    },
+    {
+      "videoId": "fKxG8KjH1Qg",
+      "text": "1:40 So we back in the mine",
+      "predictedFunction": "other",
+      "humanFunction": ""
+    },
+    {
+      "videoId": "fKxG8KjH1Qg",
+      "text": "1:00 Don't do it black, I believe in yo- NOOOOOO",
+      "predictedFunction": "other",
+      "humanFunction": ""
+    }
+  ]
+}
