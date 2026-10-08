@@ -1,9 +1,16 @@
 {
-  "name": "qoe",
+  "name": "youtube-qoe-research-dashboard",
   "version": "1.0.0",
-  "main": "index.js",
+  "private": true,
+  "type": "module",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "collect": "tsx backend/src/index.ts",
+    "preprocess": "tsx backend/src/phase3.ts",
+    "phase4:prepare": "tsx backend/src/phase4.ts prepare",
+    "phase4:train": "tsx backend/src/phase4.ts train",
+    "validate:labels": "tsx backend/src/validate-labels.ts",
+    "check": "tsc --noEmit -p backend/tsconfig.json",
+    "serve": "python3 -m http.server 8000"
   },
   "keywords": [],
   "author": "",

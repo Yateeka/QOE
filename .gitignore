@@ -22,14 +22,17 @@ __pycache__/
 /heatmaps/
 /heatmap-*.svg
 
-# Phase 2 collection snapshot contains raw API responses and unfiltered
-# comments. Keep it local; publish only the derived Phase 3 visualization data.
-/phase2-pipeline/youtube-qoe-phase2/
+# Phase 2 contains raw API responses and unfiltered comments. Keep it local.
+/data/raw/phase2/
 
 # Do not commit source or impaired video files used for controlled experiments.
-/phase2-pipeline/youtube-qoe-phase4/media/
+/data/experiments/phase4/media/
 
 # Local secrets
 .env
 .env.*
 !.env.example
+
+node_modules/
+.DS_Store
+**/.DS_Store
