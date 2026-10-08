@@ -1,6 +1,60 @@
-# YouTube QoE Research Dashboard
+# Behavior-Aware QoE Sensitivity Estimation
 
-A small research project for collecting public YouTube engagement data, processing it into video segments, and exploring the results in a browser dashboard. The collection and analysis pipeline runs from the command line. The dashboard is a static frontend that reads the generated JSON files.
+This project investigates whether public YouTube viewer-behavior signals can help identify video segments where streaming impairments have a larger effect on human-perceived quality of experience (QoE). It includes a data collection and preprocessing pipeline, a segment-level feature workflow, and a static research dashboard.
+
+## Research overview
+
+### Research question
+
+> Do public behavioral signals provide additional information for predicting human-perceived QoE sensitivity beyond conventional network-side QoE measurements?
+
+The project treats these as distinct types of evidence:
+
+- **Behavioral salience:** public Most Replayed activity, timestamped-comment activity and function, and local replay prominence. This estimates which moments appear behaviorally important; it is not a QoE label.
+- **Computational QoE:** measurements of controlled technical impairments, such as rebuffering duration and objective visual-quality changes. These describe technical severity and are not subjective ground truth.
+- **Subjective QoE:** participant ratings collected while viewing clean and impaired clips. These are the human observations used for final evaluation.
+
+The primary comparison is a conventional model based on network-side or computational QoE against a behavior-aware model that adds public behavioral features. The behavior-aware model is supported only if it improves prediction on subjective observations held out from calibration, augmentation, training, and model selection.
+
+### Target population and intended scope
+
+The method applies to public YouTube videos for which a Most Replayed graph and sufficient public behavioral information are available. This can favor popular, highly engaged videos, so findings should not be generalized to all online video. The planned larger public dataset is approximately 100–500 videos across sports, gaming, education, entertainment, podcasts/interviews, and instructional content. A smaller subset of approximately 24–40 videos is intended for controlled experiments and subjective evaluation.
+
+The primary method does not depend on creator-only audience-retention data, individual playback or seeking histories, public dislike counts, or platform-internal analytics. Creator-provided retention exports may be considered separately as exploratory data.
+
+### Analysis representation
+
+Each video is divided into 100 equal relative-position bins. Candidate segment features include normalized replay intensity, local replay prominence, timestamp-comment activity, comment function or emotion, and relevant video-level controls. An initial behavioral salience score can combine these features with equal weights; learned weights should only be introduced after independent QoE outcomes are collected.
+
+The planned experimental set samples segments across behavioral salience, content category, impairment type, and computational QoE. Clean and impaired clips should use the same source window. The subjective study should randomize and blind conditions, collect ratings such as impairment annoyance and overall perceived quality, and reserve a separate set of human observations for final evaluation.
+
+### Execution plan and current status
+
+| Phase | Work | Current status |
+| --- | --- | --- |
+| 1. Dataset construction | Select eligible public videos across categories; expand from the pilot toward the larger public dataset. | A balanced 24-video pilot is present. The larger 100–500 video collection remains planned. |
+| 2. Automated collection | Collect public replay markers, metadata, and comments; preserve missing replay data as unavailable. | Collection pipeline is implemented. It writes raw outputs to the ignored `data/raw/phase2/` directory. |
+| 3. Preprocessing | Clean and validate comments, parse timestamps, and align signals into 100 bins. | Preprocessing is implemented and a Phase 3 dataset is checked in. Manual sample verification and annotation-based classifier validation remain outstanding. |
+| 4. Behavioral salience | Produce segment features, rankings, and candidate moments. | Feature and candidate-generation scripts are implemented. Their scores are behavioral proxies, not QoE measurements. |
+| 5. Network-side QoE | Apply controlled impairments and measure rebuffering and objective quality. | A measurement template exists. Source clips and measured outcomes have not been supplied. |
+| 6. Subjective study | Collect human QoE ratings using randomized, blinded clip conditions. | Planned; no participant ratings are included. |
+| 7. Calibration and augmentation | Learn computational-to-subjective calibration from a calibration subset; augment only when justified. | Planned; requires subjective observations. |
+| 8. Held-out evaluation | Compare the conventional and behavior-aware models using held-out human observations and statistical/ablation analyses. | Planned; final claims require held-out subjective data. |
+| 9. Adaptive streaming demo | Demonstrate a policy informed by sensitivity estimates. | Optional and conditional on positive held-out validation. |
+
+The current Phase 4 ridge-regression workflow is a software prototype that expects measured rows and a documented `computationalQoeScore` recipe. Its score is a computational training proxy, not subjective ground truth. Do not interpret its predictions as validated human QoE until the planned calibration and evaluation are completed.
+
+### Risks and interpretation
+
+- Most Replayed data can be unavailable or change over time. Record collection dates and represent missingness explicitly; do not replace unavailable replay values with zero.
+- Timestamped comments can contain spam, duplicates, invalid timestamps, or category-specific bias. Use filtering, validation, manual review, and category-aware analyses.
+- Replay activity may reflect engagement rather than impairment sensitivity. Treat behavioral salience as a predictor to test, not as a direct measure of QoE.
+- Computational-to-subjective calibration may be unstable. If so, report the limitation and do not use augmented subjective labels.
+- Keep calibration data separate from held-out human evaluation data. Report negative or inconclusive results and omit the adaptive demonstration if behavioral features do not add predictive value.
+
+### Success criteria
+
+The minimum research outcome is a reproducible empirical analysis of how conventional network-side QoE, public behavioral salience, and human-perceived QoE sensitivity relate. The primary claim is supported only if adding behavioral information improves prediction of held-out subjective QoE beyond the conventional baseline, with appropriate validation and analyses of category, endpoint, popularity, and impairment effects. Otherwise, report the result as evidence about the limits of public behavioral signals.
 
 ## Project layout
 
